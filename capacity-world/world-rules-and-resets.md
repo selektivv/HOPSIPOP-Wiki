@@ -23,7 +23,7 @@ Treat every block, container, structure, and location in this world as temporary
 
 ## Claims and Building
 
-Claims cannot be created in the [Capacity](../capacity.md) World. The world is for temporary mining and exploration, not permanent bases.
+Claims cannot be created in the [Capacity](../capacity.md) World. The world is for temporary mining and exploration, not permanent bases. See [Claims and Capacity](../claims.md) for permanent-world claim spending and refunds.
 
 Outside the [Capacity](../capacity.md) World, [Capacity](../capacity.md) is also used as the land-claim resource. Creating or expanding claims spends [Capacity](../capacity.md), while deleting or shrinking claims refunds the released area. As with [Capacity World upgrades](upgrades.md), claim spending can reduce [Master Chest](../master-chest/README.md) space and [rank progress](../master-chest/capacity-and-progression.md#capacity-ranks).
 

@@ -1,27 +1,38 @@
-# [Capacity](../capacity.md) World
+# Mining and Progression: [Capacity](../capacity.md) World
 
-The [Capacity](../capacity.md) World is a temporary mining world where eligible blocks advance a mining counter. Completing the counter awards [Capacity](../capacity.md), which expands your [Master Chest](../master-chest/README.md) limit and drives [Capacity](../capacity.md)-rank progression.
+The [Capacity](../capacity.md) World is the repeatable mining branch of HOPSIPOP's connected storage and progression system. Mining goals award [Capacity](../capacity.md), [Capacity](../capacity.md) expands the Master Chest network and ranks, and Chunk Drill output returns to storage.
 
-The world also contains its own [permanent player upgrades](upgrades.md), [co-op mining](coop.md), [Counter Boosts](boosts-and-notifications.md), and the [Chunk Drill system](chunk-drills.md). The terrain itself is temporary and is recreated on a [regular reset schedule](world-rules-and-resets.md).
+Read the [system overview](../system-overview.md) to see the complete loop, or read [Capacity](../capacity.md) before spending on upgrades.
 
-## What It Does
+## What the Mining World Does
 
 - Awards [Capacity](../capacity.md) for repeated mining goals.
 - Gives rank-based Haste while you are inside the world.
 - Supports shared mining progress through co-op groups.
 - Offers permanent Counter Reduction, Lucky Break, Co-op Size, and Chunk Drill unlocks.
-- Supports temporary Counter Boost vouchers that triple your personal [Capacity](../capacity.md) reward.
-- Lets unlocked Chunk Drills excavate complete chunks and transfer produced drops to your MasterChest.
+- Supports temporary Counter Boost vouchers that triple your personal reward.
+- Lets Chunk Drills excavate complete chunks and transfer produced drops to Master Chest storage.
 - Recreates the world every ten hours so fresh terrain remains available.
+
+## How It Connects to Storage
+
+- Atom rank is required before entering.
+- Completed mining goals add [Capacity](../capacity.md) immediately.
+- Added [Capacity](../capacity.md) expands storage space and rank progress.
+- Mining upgrades and claims spend that same [Capacity](../capacity.md).
+- Chunk Drill drops and returning drill items are transferred to the owner's Master Chest network.
+- A full or over-limit storage network can prevent drill transfers from fitting safely.
 
 ## Recommended Reading Order
 
-1. [Access and Getting Started](getting-started.md)
-2. [Mining, Counters, and Rewards](mining-and-rewards.md)
-3. [Capacity World Upgrades](upgrades.md)
-4. [Co-op Mining](coop.md)
-5. [Chunk Drills](chunk-drills.md)
-6. [World Rules and Resets](world-rules-and-resets.md)
+1. [Capacity](../capacity.md)
+2. [Access and Getting Started](getting-started.md)
+3. [Mining, Counters, and Rewards](mining-and-rewards.md)
+4. [Mining Upgrades](upgrades.md)
+5. [Counter Boosts](boosts-and-notifications.md)
+6. [Co-op Mining](coop.md)
+7. [Chunk Drills](chunk-drills.md)
+8. [World Rules and Resets](world-rules-and-resets.md)
 
 ## Main Commands
 
@@ -29,14 +40,14 @@ The world also contains its own [permanent player upgrades](upgrades.md), [co-op
 | --- | --- |
 | `/cw` | Open the [Capacity](../capacity.md) World menu. |
 | `/perks` | Check your live [Capacity](../capacity.md) rank, requirements, and benefits. |
-| `/coop <player>` | Invite an online player to your [Capacity](../capacity.md) World co-op. |
+| `/coop <player>` | Invite an online player to your mining co-op. |
 | `/coop decline <player>` | Decline a pending invitation. |
 | `/coop leave` | Leave your current co-op. |
 | `/chunkdrill` | Open Chunk Drill management after unlocking it. |
-| `/shortcuts` | Open the server shortcuts menu, including [Capacity](../capacity.md) World access when unlocked. |
+| `/shortcuts` | Open shortcuts for storage and connected systems. |
 
-## The Most Important [Capacity](../capacity.md) Rule
+## The Most Important Spending Rule
 
-[Capacity](../capacity.md) World upgrades spend your actual [Capacity](../capacity.md). This is the same value used for your Master Chest storage limit and [Capacity](../capacity.md) rank.
+Mining upgrades spend actual [Capacity](../capacity.md). Before buying one, make sure the remaining value still covers stored items and preserves any rank benefits you need.
 
-Before buying an upgrade, make sure the remaining [Capacity](../capacity.md) will still cover the items already stored in your MasterChest and keep the rank benefits you need. Spending [Capacity](../capacity.md) never deletes stored items, but deposits can stop until your stored item count is below the reduced limit.
+Spending never deletes existing stored items, but new deposits can stop until the stored total is below the reduced limit.

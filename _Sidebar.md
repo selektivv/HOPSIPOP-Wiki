@@ -1,26 +1,31 @@
 # HOPSIPOP Wiki
 
 - [Home](README.md)
-- Core Concepts
-  - [Capacity](capacity.md)
-- Master Chest
-  - [Overview](master-chest/README.md)
-  - [Getting Started](master-chest/getting-started.md)
-  - [Storing and Retrieving](master-chest/storing-and-retrieving.md)
+- Start Here
+  - [System Overview](system-overview.md)
+  - [Unlock Storage](master-chest/getting-started.md)
+  - [Enter the Mining World](capacity-world/getting-started.md)
+- Storage and Access
+  - [Storage Network](master-chest/README.md)
+  - [Store and Retrieve](master-chest/storing-and-retrieving.md)
   - [Search and Shortcuts](master-chest/search-and-shortcuts.md)
-  - [Capacity and Progression](master-chest/capacity-and-progression.md)
-  - [Sharing Networks](master-chest/sharing-networks.md)
-  - [OmniSync](master-chest/omnisync.md)
-  - [Automation](master-chest/automation.md)
-  - [Hoppers](master-chest/hoppers.md)
-  - [Troubleshooting](master-chest/troubleshooting.md)
-- [Capacity](capacity.md) World
-  - [Overview](capacity-world/README.md)
-  - [Getting Started](capacity-world/getting-started.md)
-  - [Mining and Rewards](capacity-world/mining-and-rewards.md)
-  - [Upgrades](capacity-world/upgrades.md)
-  - [Co-op Mining](capacity-world/coop.md)
+  - [Hoppers and Access Points](master-chest/hoppers.md)
+- Growth and Progression
+  - [Earning and Spending](capacity.md)
+  - [Ranks and Progression](master-chest/capacity-and-progression.md)
+  - [Mining Upgrades](capacity-world/upgrades.md)
+  - [Claims and Capacity](claims.md)
+- Mining and Cooperation
+  - [Mining World](capacity-world/README.md)
+  - [Counters and Rewards](capacity-world/mining-and-rewards.md)
   - [Boosts and Notifications](capacity-world/boosts-and-notifications.md)
-  - [Chunk Drills](capacity-world/chunk-drills.md)
-  - [World Rules and Resets](capacity-world/world-rules-and-resets.md)
-  - [Troubleshooting](capacity-world/troubleshooting.md)
+  - [Co-op Mining](capacity-world/coop.md)
+- Automation and Network Tools
+  - [OmniSync](master-chest/omnisync.md)
+  - [Automation Jobs](master-chest/automation.md)
+  - [Chunk Drill Automation](capacity-world/chunk-drills.md)
+- Sharing, Safety, and Help
+  - [Sharing Networks](master-chest/sharing-networks.md)
+  - [Storage Troubleshooting](master-chest/troubleshooting.md)
+  - [Mining Troubleshooting](capacity-world/troubleshooting.md)
+  - [World Rules and Reset Safety](capacity-world/world-rules-and-resets.md)
