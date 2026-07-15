@@ -2,6 +2,10 @@
 
 The claim owner unlocks these per-claim controls at Void [rank](../ranks.md). Open the [Claim GUI](../claims.md), select an owned claim, and choose Claim Settings.
 
+<!-- GUI-WIKI:claim-settings:START -->
+![Claim Settings GUI showing every per-claim control](../assets/generated/gui/claim-settings.png)
+<!-- GUI-WIKI:claim-settings:END -->
+
 | Setting | Default | Effect |
 | --- | --- | --- |
 | Hostile Mob Spawning | On | Off blocks natural monster spawns. Spawners, spawn eggs, commands, and other explicit spawns still work. |

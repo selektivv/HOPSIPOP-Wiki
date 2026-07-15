@@ -2,6 +2,10 @@
 
 Open the [Claim GUI](../claims.md) and select one of your claims.
 
+<!-- GUI-WIKI:claim-management:START -->
+![Claim management GUI with its owner controls and trust section](../assets/generated/gui/claim-management.png)
+<!-- GUI-WIKI:claim-management:END -->
+
 | Control | Purpose |
 | --- | --- |
 | Claim Info | Shows boundaries and area. Click it to enter a name of up to 32 characters; enter `reset` to restore the default name. |
