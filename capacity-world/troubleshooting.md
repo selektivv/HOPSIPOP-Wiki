@@ -53,3 +53,12 @@ Check your MasterChest first. A finished drill, a drill collected through the me
 ## I Spent Too Much Capacity
 
 [Capacity](../capacity.md) purchases can reduce your storage limit below the number of items already stored. The existing items remain, but deposits may fail. Remove items or earn more [Capacity](../capacity.md) until your stored total is below the limit again.
+
+## Return to the Relevant Guide
+
+- [Mining access and preparation](getting-started.md)
+- [Mining counters and rewards](mining-and-rewards.md)
+- [Co-op mining](coop.md)
+- [Mining upgrades](upgrades.md)
+- [Chunk Drills](chunk-drills.md)
+- [World rules and reset safety](world-rules-and-resets.md)

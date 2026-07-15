@@ -76,3 +76,9 @@ Deleting a paid processing job may refund some or all of its ten machine items. 
 - Keep required ingredients and fuel in the same network that owns the job.
 - Remember that automation in a shared network belongs to that network's owner.
 
+## Continue Learning
+
+- Feed the network automatically with [hoppers and physical access points](hoppers.md).
+- Use [OmniSync](omnisync.md) for network-assisted crafting and restocking.
+- Leave enough [Capacity](../capacity.md) for finished items.
+- Check [storage troubleshooting](troubleshooting.md) when a job does not run.

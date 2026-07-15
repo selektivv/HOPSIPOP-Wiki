@@ -25,3 +25,9 @@ Every completed block goal can produce a chat message. To reduce chat noise, ope
 Click the setting to cycle through these options: 1, 10, 20, 30, 40, 50, 100, 200, 500, 1,000, 2,000, 5,000, and 10,000 [Capacity](../capacity.md).
 
 The setting groups earned-[Capacity](../capacity.md) notifications until the selected amount is reached. It does not delay, reduce, or increase the [Capacity](../capacity.md) itself. Changing the interval starts a fresh notification count.
+
+## Continue Learning
+
+- Understand the underlying [mining counter and reward system](mining-and-rewards.md).
+- See how Counter Boosts behave during [co-op mining](coop.md).
+- Compare vouchers with permanent [mining upgrades](upgrades.md).

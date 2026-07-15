@@ -50,3 +50,10 @@ A hopper directly below the Master Chest is unfiltered and can pull arbitrary it
 
 Virtual contents remain in the network. Items still visible in the chest's physical buffer are separate and are dropped when the access point is broken. Pick them up before leaving the area.
 
+## Return to the Relevant Guide
+
+- [Storage setup and access](getting-started.md)
+- [Depositing and retrieving items](storing-and-retrieving.md)
+- [OmniSync](omnisync.md)
+- [Automation jobs](automation.md)
+- [Hoppers and physical access points](hoppers.md)

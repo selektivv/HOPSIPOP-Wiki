@@ -47,3 +47,10 @@ If the group owner leaves and several members remain, ownership moves to the rem
 - Make sure every intended member has purchased enough Co-op Size before sending invitations.
 - Use Counter Boosts on the player doing most of the mining or operating the active drill.
 - Re-form the group after a world reset.
+
+## Continue Learning
+
+- Review the shared [counter and reward rules](mining-and-rewards.md).
+- Increase group size through [mining upgrades](upgrades.md).
+- Understand how [Counter Boosts](boosts-and-notifications.md) reward individual members.
+- Prepare to rebuild the group after a [world reset](world-rules-and-resets.md).

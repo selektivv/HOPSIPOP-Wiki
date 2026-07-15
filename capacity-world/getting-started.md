@@ -45,3 +45,9 @@ Haste is removed when you leave the [Capacity](../capacity.md) World. Skill mana
 - Remember that PvP is enabled.
 - Do not build anything you expect to keep; terrain and structures are temporary.
 - Leave free [Master Chest](../master-chest/README.md) [capacity](../capacity.md) before using [Chunk Drills](chunk-drills.md).
+
+## Continue Learning
+
+- Learn how [mining counters and rewards](mining-and-rewards.md) work.
+- Read the [world rules and reset safety](world-rules-and-resets.md) before leaving items behind.
+- Review [Capacity](../capacity.md) before purchasing permanent upgrades.

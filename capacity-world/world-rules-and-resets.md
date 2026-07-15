@@ -43,3 +43,10 @@ Outside the [Capacity](../capacity.md) World, [Capacity](../capacity.md) is also
 - Collect drills early if your MasterChest is close to full.
 - Do not use the world for permanent storage or builds.
 - Expect to recreate your co-op after the reset.
+
+## Continue Learning
+
+- Review [mining access and preparation](getting-started.md).
+- Learn how to collect [Chunk Drills](chunk-drills.md) safely.
+- Recreate and manage a [co-op](coop.md) after each reset.
+- Check [mining troubleshooting](troubleshooting.md) if something is missing.

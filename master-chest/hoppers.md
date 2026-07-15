@@ -37,3 +37,9 @@ The network owner must be online for filtered output to run, and the owner must 
 
 Use one placed Master Chest as a clearly labeled network terminal. Feed bulk farm output into it from above or the side. Put deliberate filtered-output containers nearby, and avoid an unfiltered hopper directly underneath unless random output is acceptable.
 
+## Continue Learning
+
+- Review how to [place and move Master Chest access points](getting-started.md).
+- Use [automation jobs](automation.md) to process items after hopper input.
+- Keep enough [Capacity](../capacity.md) available for incoming items.
+- Check [storage troubleshooting](troubleshooting.md) when output is incorrect.

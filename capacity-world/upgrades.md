@@ -66,3 +66,10 @@ The global chest-content collection switch appears at Quasar rank and does not r
 ## Notification Interval
 
 Notification Interval is a free preference, not an upgrade. It changes message frequency only and never changes how quickly you earn [Capacity](../capacity.md).
+
+## Continue Learning
+
+- See how upgrades change [mining counters and rewards](mining-and-rewards.md).
+- Check how spending affects storage and ranks in the [Capacity guide](../capacity.md).
+- Learn how [co-op mining](coop.md) uses Co-op Size.
+- Set up and operate [Chunk Drills](chunk-drills.md) safely.

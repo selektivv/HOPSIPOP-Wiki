@@ -47,3 +47,9 @@ To return to your own storage:
 - If restocking pulls from the wrong stockpile, switch the link back to My Own Network.
 - OmniSync uses items from the linked network, so coordinate with its owner before relying on shared supplies.
 
+## Continue Learning
+
+- Review the rules for [sharing storage networks](sharing-networks.md).
+- Learn the network's [deposit and retrieval controls](storing-and-retrieving.md).
+- Combine portable access with [automation jobs](automation.md).
+- Use [storage troubleshooting](troubleshooting.md) if restocking or crafting fails.

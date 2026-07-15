@@ -54,3 +54,8 @@ The main Master Chest menu gains extra buttons as you progress:
 
 These buttons open the relevant interface directly from the Master Chest menu.
 
+## Continue Learning
+
+- Review all [deposit and retrieval controls](storing-and-retrieving.md).
+- See which features unlock through [ranks and progression](capacity-and-progression.md).
+- Learn how [OmniSync](omnisync.md) provides portable restocking and crafting access.

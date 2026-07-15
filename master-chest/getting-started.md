@@ -38,3 +38,9 @@ Sneak-right-click with an empty hand to bypass the network menu and access the c
 Break a placed Master Chest to receive the special Master Chest item again. Any items still waiting in its physical buffer are dropped at the chest, while items already stored in the virtual network remain safe and unchanged.
 
 Placed Master Chests stay as single chests and cannot be moved by pistons.
+
+## Continue Learning
+
+- [Store and retrieve items](storing-and-retrieving.md) through the network menu.
+- Learn how [Capacity](../capacity.md) determines your storage limit.
+- Set up [hoppers and physical access points](hoppers.md) for automatic input and output.

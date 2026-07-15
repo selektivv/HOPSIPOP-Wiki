@@ -42,3 +42,9 @@ If a deposit would exceed the limit, only the amount that still fits is stored. 
 - Unlink OmniSync before depositing if you intend to return to your own default network.
 - Keep free inventory space before retrieving valuable items.
 
+## Continue Learning
+
+- Use [search, categories, and shortcuts](search-and-shortcuts.md) to find items faster.
+- Understand how earning and spending [Capacity](../capacity.md) changes available storage.
+- Learn the safety rules before using a [shared network](sharing-networks.md).
+- Check [storage troubleshooting](troubleshooting.md) when a transfer behaves unexpectedly.

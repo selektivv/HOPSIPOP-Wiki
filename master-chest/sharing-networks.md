@@ -30,3 +30,9 @@ Uninviting a player prevents future access through the shared menu and placed ac
 
 If another player's network disappears from your Shared Chests menu, the owner has removed your access.
 
+## Continue Learning
+
+- Learn the normal [deposit and retrieval controls](storing-and-retrieving.md) used in shared networks.
+- Link trusted storage through [OmniSync](omnisync.md).
+- See how [Capacity](../capacity.md) belongs to the network owner.
+- Use [storage troubleshooting](troubleshooting.md) if access or transfers fail.

@@ -1,31 +1,30 @@
 # HOPSIPOP Wiki
 
 - [Home](README.md)
-- Start Here
+- New Players
   - [System Overview](system-overview.md)
   - [Unlock Storage](master-chest/getting-started.md)
-  - [Enter the Mining World](capacity-world/getting-started.md)
-- Storage and Access
+- Storage and Capacity
   - [Storage Network](master-chest/README.md)
   - [Store and Retrieve](master-chest/storing-and-retrieving.md)
   - [Search and Shortcuts](master-chest/search-and-shortcuts.md)
-  - [Hoppers and Access Points](master-chest/hoppers.md)
-- Growth and Progression
-  - [Earning and Spending](capacity.md)
+  - [Capacity](capacity.md)
   - [Ranks and Progression](master-chest/capacity-and-progression.md)
-  - [Mining Upgrades](capacity-world/upgrades.md)
-  - [Claims and Capacity](claims.md)
-- Mining and Cooperation
+  - [Claims](claims.md)
+  - [Sharing Networks](master-chest/sharing-networks.md)
+- Mining and Upgrades
   - [Mining World](capacity-world/README.md)
-  - [Counters and Rewards](capacity-world/mining-and-rewards.md)
+  - [Getting Started](capacity-world/getting-started.md)
+  - [Mining and Rewards](capacity-world/mining-and-rewards.md)
   - [Boosts and Notifications](capacity-world/boosts-and-notifications.md)
   - [Co-op Mining](capacity-world/coop.md)
-- Automation and Network Tools
+  - [Upgrades](capacity-world/upgrades.md)
+- Automation and Advanced Tools
   - [OmniSync](master-chest/omnisync.md)
   - [Automation Jobs](master-chest/automation.md)
-  - [Chunk Drill Automation](capacity-world/chunk-drills.md)
-- Sharing, Safety, and Help
-  - [Sharing Networks](master-chest/sharing-networks.md)
-  - [Storage Troubleshooting](master-chest/troubleshooting.md)
-  - [Mining Troubleshooting](capacity-world/troubleshooting.md)
-  - [World Rules and Reset Safety](capacity-world/world-rules-and-resets.md)
+  - [Hoppers and Access Points](master-chest/hoppers.md)
+  - [Chunk Drills](capacity-world/chunk-drills.md)
+- Help and Safety
+  - [Storage Help](master-chest/troubleshooting.md)
+  - [Mining Help](capacity-world/troubleshooting.md)
+  - [World Rules and Resets](capacity-world/world-rules-and-resets.md)

@@ -45,3 +45,10 @@ Every eligible solid block removed by one of your [Chunk Drills](chunk-drills.md
 - Watch the [Capacity](../capacity.md) World scoreboard for the next reset.
 - Use `/perks` to see how earned [Capacity](../capacity.md) affects your rank.
 - Use `/playtime` or Master Chest Shortcuts to check your current storage limit and available space.
+
+## Continue Learning
+
+- Compare permanent [mining upgrades](upgrades.md).
+- Share counter progress through [co-op mining](coop.md).
+- Triple personal rewards with a timed [Counter Boost](boosts-and-notifications.md).
+- Automate mining after unlocking [Chunk Drills](chunk-drills.md).

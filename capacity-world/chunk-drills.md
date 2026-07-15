@@ -79,3 +79,10 @@ When enabled, contents found inside containers are transferred to your MasterChe
 ## Staying Safe Around Drills
 
 The excavated chunk becomes a full-height hole. Do not stand beneath the drill or rely on nearby terrain remaining intact. PvP is also enabled, and the whole world is temporary.
+
+## Continue Learning
+
+- See how drill blocks contribute to [mining counters and rewards](mining-and-rewards.md).
+- Compare drill unlocks and improvements under [mining upgrades](upgrades.md).
+- Keep the receiving [storage network](../master-chest/README.md) below its [Capacity](../capacity.md) limit.
+- Follow [world reset safety](world-rules-and-resets.md) before the timer expires.
