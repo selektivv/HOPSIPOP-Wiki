@@ -8,7 +8,11 @@ Run `/mc` or `/masterchest`.
 
 ## Portable Access
 
-Craft a Master Chest with one Chest surrounded by eight Iron Ingots. Hold it and right-click the air.
+Craft a Master Chest by placing one Chest in the center and surrounding it with eight Iron Ingots.
+
+![Master Chest crafting recipe](../assets/master-chest-crafting.png)
+
+Hold the finished Master Chest and right-click the air to open your storage network.
 
 ## Placed Access
 
