@@ -19,10 +19,18 @@ Running a trust command while outside your claims applies it to all claims you o
 Owners and Managers can manage up to 18 displayed trusted players in the [claim management view](managing-a-claim.md).
 
 <!-- GUI-WIKI:trust-levels:START -->
-<img src="../assets/generated/gui/trust-levels-guide.png" alt="Claim trust GUI showing the trust information item and a trusted player entry" width="100%">
+![Claim trust GUI showing the trust information item and a trusted player entry](../assets/generated/gui/trust-levels-guide.png)
 <!-- GUI-WIKI:trust-levels:END -->
 
 - Left-click a player head to cycle Accessor → Container → Builder → Manager → Accessor.
 - Right-click a player head to remove trust.
 
+## Permission Boundaries
+
 Manager includes Builder access and permission to manage trusted players. Owner-only controls such as renaming, deletion, custom icons, and [Claim Settings](settings.md) remain unavailable to Managers.
+
+## Continue Learning
+
+- [Manage a Claim](managing-a-claim.md)
+- [Claim Settings](settings.md)
+- [Claims Overview](../claims.md)

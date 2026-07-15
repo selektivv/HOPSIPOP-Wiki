@@ -3,8 +3,10 @@
 Open the [Claim GUI](../claims.md) and select one of your claims.
 
 <!-- GUI-WIKI:claim-management:START -->
-<img src="../assets/generated/gui/claim-management-guide-v2.png" alt="Claim management GUI with its owner controls and trust section" width="100%">
+![Claim management GUI with its owner controls and trust section](../assets/generated/gui/claim-management-guide-v2.png)
 <!-- GUI-WIKI:claim-management:END -->
+
+## Controls
 
 | Control | Purpose |
 | --- | --- |
@@ -16,4 +18,12 @@ Open the [Claim GUI](../claims.md) and select one of your claims.
 | [Trusted Players](trust-levels.md) | Shows and edits existing trust entries. |
 | Back | Returns to the claims list. |
 
+## Permissions
+
 Rename, custom icon, deletion, and [Claim Settings](settings.md) are owner-only. A trusted player can view the claim and teleport to it. A Manager can also maintain existing trusted-player entries.
+
+## Continue Learning
+
+- [Claim Trust](trust-levels.md)
+- [Claim Settings](settings.md)
+- [Claims Overview](../claims.md)

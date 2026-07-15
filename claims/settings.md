@@ -3,8 +3,10 @@
 The claim owner unlocks these per-claim controls at Void [rank](../ranks.md). Open the [Claim GUI](../claims.md), select an owned claim, and choose Claim Settings.
 
 <!-- GUI-WIKI:claim-settings:START -->
-<img src="../assets/generated/gui/claim-settings-guide.png" alt="Claim Settings GUI showing every per-claim control" width="100%">
+![Claim Settings GUI showing every per-claim control](../assets/generated/gui/claim-settings-guide.png)
 <!-- GUI-WIKI:claim-settings:END -->
+
+## Available Settings
 
 | Setting | Default | Effect |
 | --- | --- | --- |
@@ -18,4 +20,12 @@ The claim owner unlocks these per-claim controls at Void [rank](../ranks.md). Op
 | Time | Server | Cycles through Server, Day (noon), Sunset, Night, Midnight, and Dawn. |
 | Ice Melt | On | Off prevents Ice and Frosted Ice from melting inside the claim. |
 
+## How Changes Apply
+
 Weather and time only change what players inside the claim see; they do not change the world for everyone. Changes apply immediately. Back returns to [claim management](managing-a-claim.md).
+
+## Continue Learning
+
+- [Manage a Claim](managing-a-claim.md)
+- [Claim Trust](trust-levels.md)
+- [Ranks](../ranks.md)

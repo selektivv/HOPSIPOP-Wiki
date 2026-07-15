@@ -7,7 +7,7 @@ Claims protect land and use the same [Capacity](capacity.md) as storage and [ran
 Open `/claimgui` or use `/mc` → Shortcuts → Claims. The GUI manages existing claims; creating and resizing still use the Golden Shovel.
 
 <!-- GUI-WIKI:claims-list:START -->
-<img src="assets/generated/gui/claims-list-guide-v2.png" alt="Claims GUI showing owned claims and claims shared by other players" width="100%">
+![Claims GUI showing owned claims and claims shared by other players](assets/generated/gui/claims-list-guide-v2.png)
 <!-- GUI-WIKI:claims-list:END -->
 
 The upper section shows up to 18 claims you own, including their boundaries, area, and trusted-player count. The lower section shows up to 18 claims where another owner has trusted you, together with your trust level.
