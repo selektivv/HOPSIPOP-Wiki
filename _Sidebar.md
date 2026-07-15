@@ -12,4 +12,13 @@
   - [Automation](master-chest/automation.md)
   - [Hoppers](master-chest/hoppers.md)
   - [Troubleshooting](master-chest/troubleshooting.md)
-
+- Capacity World
+  - [Overview](capacity-world/README.md)
+  - [Getting Started](capacity-world/getting-started.md)
+  - [Mining and Rewards](capacity-world/mining-and-rewards.md)
+  - [Upgrades](capacity-world/upgrades.md)
+  - [Co-op Mining](capacity-world/coop.md)
+  - [Boosts and Notifications](capacity-world/boosts-and-notifications.md)
+  - [Chunk Drills](capacity-world/chunk-drills.md)
+  - [World Rules and Resets](capacity-world/world-rules-and-resets.md)
+  - [Troubleshooting](capacity-world/troubleshooting.md)

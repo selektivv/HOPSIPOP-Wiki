@@ -18,7 +18,18 @@ The Master Chest is HOPSIPOP's searchable network storage system. Start with the
 - [Hoppers and Physical Access Points](master-chest/hoppers.md)
 - [Troubleshooting and Safety](master-chest/troubleshooting.md)
 
-More categories can be added as the HOPSIPOP wiki grows.
+### 2. Capacity World
+
+The Capacity World is HOPSIPOP's temporary mining world for earning Capacity, improving mining efficiency, working with a co-op, and operating Chunk Drills. Start with the [Capacity World overview](capacity-world/README.md), or open a specific guide:
+
+- [Access and Getting Started](capacity-world/getting-started.md)
+- [Mining, Counters, and Rewards](capacity-world/mining-and-rewards.md)
+- [Capacity World Upgrades](capacity-world/upgrades.md)
+- [Co-op Mining](capacity-world/coop.md)
+- [Counter Boosts and Notifications](capacity-world/boosts-and-notifications.md)
+- [Chunk Drills](capacity-world/chunk-drills.md)
+- [World Rules and Resets](capacity-world/world-rules-and-resets.md)
+- [Troubleshooting and Safety](capacity-world/troubleshooting.md)
 
 ## Quick Start
 
@@ -30,3 +41,4 @@ More categories can be added as the HOPSIPOP wiki grows.
 
 Use `/roadmap` whenever you want to see your next progression goal.
 
+After reaching Atom rank, use `/cw` to open the Capacity World menu.

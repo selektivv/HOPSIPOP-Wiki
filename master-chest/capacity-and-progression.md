@@ -21,6 +21,8 @@ Capacity is awarded by HOPSIPOP activities and progression. Current sources incl
 
 The scoreboard and reward messages show changes as they happen. Harder or later activities may award capacity differently, so use the in-game roadmap and menus as the live source for your next goal.
 
+For the complete mining system, see the [Capacity World guide](../capacity-world/README.md).
+
 ## Progression Unlocks
 
 | Progression step | Master Chest benefit |
@@ -44,4 +46,3 @@ Atom, Nova, Quasar, Singularity, Void, Cosmic, Celestial, Divine, Primordial, Mu
 Open `/perks`, then Rank Overview, to see the live capacity requirement for each rank. Left-click a rank to track it with a boss bar; right-click a rank to stop tracking.
 
 Rank requirements can be adjusted as the server evolves, so the in-game Rank Overview is more reliable than memorizing a number from a guide.
-
