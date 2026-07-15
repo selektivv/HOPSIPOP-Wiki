@@ -8,6 +8,10 @@ Always check the displayed owner before transferring items. Anyone with access c
 
 The owner can revoke access with `/mc uninvite <player>`. Revoking access does not reverse earlier transfers.
 
+<!-- ARTICLE-VISUAL:shared-networks:START -->
+![Inviting a player to a shared Master Chest network safely](../assets/generated/guides/shared-networks.svg)
+<!-- ARTICLE-VISUAL:shared-networks:END -->
+
 ## Continue Learning
 
 - [Item Transfers](storing-and-retrieving.md)

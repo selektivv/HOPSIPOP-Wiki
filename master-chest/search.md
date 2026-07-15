@@ -2,6 +2,10 @@
 
 Use search when the storage network contains too many item types to browse comfortably.
 
+<!-- ARTICLE-VISUAL:item-search:START -->
+![Searching a Master Chest by partial item name](../assets/generated/guides/item-search.svg)
+<!-- ARTICLE-VISUAL:item-search:END -->
+
 ## Searching
 
 1. Open `/mc`.

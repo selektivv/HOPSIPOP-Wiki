@@ -2,6 +2,10 @@
 
 A co-op lets active players share one mining [counter](counters.md) goal inside the [Capacity](../capacity.md) World.
 
+<!-- ARTICLE-VISUAL:coop:START -->
+![Co-op mining invitation, shared progress, and member rewards](../assets/generated/guides/coop.svg)
+<!-- ARTICLE-VISUAL:coop:END -->
+
 ## Group Size
 
 Both the inviter and invited player must support the resulting size.

@@ -2,6 +2,10 @@
 
 Open `/cw` to buy permanent mining upgrades. Purchases spend [Capacity](../capacity.md) immediately and are not refunded.
 
+<!-- ARTICLE-VISUAL:mining-upgrades:START -->
+![Four permanent mining upgrade categories](../assets/generated/guides/mining-upgrades.svg)
+<!-- ARTICLE-VISUAL:mining-upgrades:END -->
+
 ## Available Upgrades
 
 | Upgrade | Purpose |

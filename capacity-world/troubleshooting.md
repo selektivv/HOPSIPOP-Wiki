@@ -1,5 +1,9 @@
 # Mining Troubleshooting
 
+<!-- ARTICLE-VISUAL:mining-troubleshooting:START -->
+![Four checks for common Capacity World problems](../assets/generated/guides/mining-troubleshooting.svg)
+<!-- ARTICLE-VISUAL:mining-troubleshooting:END -->
+
 ## `/cw` Is Locked
 
 Reach Atom [rank](../ranks.md). Check the live requirement in `/perks`; spending [Capacity](../capacity.md) can lower your [rank](../ranks.md).

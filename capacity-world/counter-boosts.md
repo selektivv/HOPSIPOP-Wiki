@@ -2,6 +2,10 @@
 
 A Counter Boost temporarily changes your personal reward from one to three [Capacity](../capacity.md) when a [counter](counters.md) goal is completed.
 
+<!-- ARTICLE-VISUAL:counter-boosts:START -->
+![Counter Boost voucher changing a personal reward to three Capacity](../assets/generated/guides/counter-boosts.svg)
+<!-- ARTICLE-VISUAL:counter-boosts:END -->
+
 ## Using a Voucher
 
 Hold the voucher and right-click it. Available durations are 5, 8, 10, 12, 15, 20, 25, and 30 minutes.

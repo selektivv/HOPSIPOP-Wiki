@@ -2,6 +2,10 @@
 
 Use `/roadmap` to see milestone requirements and `/perks` to review [ranks](../ranks.md).
 
+<!-- ARTICLE-VISUAL:progression-unlocks:START -->
+![Progression milestones unlocking storage, automation, and mining](../assets/generated/guides/progression-unlocks.svg)
+<!-- ARTICLE-VISUAL:progression-unlocks:END -->
+
 ## Main Unlocks
 
 | Requirement | Unlock |

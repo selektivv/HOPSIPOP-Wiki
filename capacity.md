@@ -2,6 +2,10 @@
 
 Capacity is both your Master Chest item limit and the resource used for [ranks](ranks.md), [claims](claims.md), and mining upgrades. One Capacity stores one individual item, so a stack of 64 uses 64 Capacity.
 
+<!-- ARTICLE-VISUAL:capacity:START -->
+![Capacity used for storage, ranks, claims, and upgrades](assets/generated/guides/capacity.svg)
+<!-- ARTICLE-VISUAL:capacity:END -->
+
 ## Checking Capacity
 
 - `/playtime` shows the current item limit.

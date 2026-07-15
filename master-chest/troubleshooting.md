@@ -1,5 +1,9 @@
 # Storage Troubleshooting
 
+<!-- ARTICLE-VISUAL:storage-troubleshooting:START -->
+![Four checks for common Master Chest storage problems](../assets/generated/guides/storage-troubleshooting.svg)
+<!-- ARTICLE-VISUAL:storage-troubleshooting:END -->
+
 ## Storage Is Locked
 
 Complete Verdant, then reopen `/mc`. Check `/roadmap` if the requirement still appears incomplete.

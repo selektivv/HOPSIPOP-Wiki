@@ -2,6 +2,10 @@
 
 The [Capacity](../capacity.md) World is recreated every ten hours. The scoreboard shows the remaining time.
 
+<!-- ARTICLE-VISUAL:world-resets:START -->
+![Steps to prepare for a ten-hour Capacity World reset](../assets/generated/guides/world-resets.svg)
+<!-- ARTICLE-VISUAL:world-resets:END -->
+
 ## What the Reset Removes
 
 Terrain, builds, placed containers, current [counters](counters.md), and active [co-op](coop.md) groups are removed. Earned [Capacity](../capacity.md), purchased upgrades, and Master Chest contents remain.

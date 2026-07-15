@@ -2,6 +2,10 @@
 
 The mining counter tracks eligible blocks toward a [Capacity](../capacity.md) reward. The default goal is ten points.
 
+<!-- ARTICLE-VISUAL:counters:START -->
+![Mining counter progress and Capacity reward flow](../assets/generated/guides/counters.svg)
+<!-- ARTICLE-VISUAL:counters:END -->
+
 ## Progress
 
 - A normally mined eligible block adds one point.

@@ -2,6 +2,10 @@
 
 Ranks are determined by your current [Capacity](capacity.md). Earning [Capacity](capacity.md) can raise your rank; spending it can lower your rank and temporarily remove its benefits.
 
+<!-- ARTICLE-VISUAL:ranks:START -->
+![Capacity increasing ranks and unlocking HOPSIPOP perks](assets/generated/guides/ranks.svg)
+<!-- ARTICLE-VISUAL:ranks:END -->
+
 ## Rank Order
 
 Atom, Nova, Quasar, Singularity, Void, Cosmic, Celestial, Divine, Primordial, Multiversal, Omniversal, and Apex.

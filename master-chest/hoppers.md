@@ -2,6 +2,10 @@
 
 Hoppers move items between physical containers and the virtual storage network while the relevant chunks are loaded.
 
+<!-- ARTICLE-VISUAL:hoppers:START -->
+![Master Chest hopper input, output, and filtering setup](../assets/generated/guides/hoppers.svg)
+<!-- ARTICLE-VISUAL:hoppers:END -->
+
 ## Input
 
 Place a hopper above or beside a Master Chest access point. Items entering its physical buffer are absorbed into storage.

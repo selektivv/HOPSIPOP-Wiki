@@ -2,6 +2,10 @@
 
 The [Capacity](../capacity.md) World is a temporary mining area where completed [counter](counters.md) goals award [Capacity](../capacity.md). Atom [rank](../ranks.md) is required.
 
+<!-- ARTICLE-VISUAL:capacity-world:START -->
+![Capacity World loop from entering to buying upgrades](../assets/generated/guides/capacity-world.svg)
+<!-- ARTICLE-VISUAL:capacity-world:END -->
+
 ## Start Here
 
 1. [Enter the World](getting-started.md)

@@ -2,6 +2,10 @@
 
 Counter Reduction permanently lowers the eligible blocks required to complete one [counter](counters.md) goal.
 
+<!-- ARTICLE-VISUAL:counter-reduction:START -->
+![Counter Reduction purchase lowering the mining goal](../assets/generated/guides/counter-reduction.svg)
+<!-- ARTICLE-VISUAL:counter-reduction:END -->
+
 ## Levels and Costs
 
 | New goal | Cost |

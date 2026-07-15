@@ -4,6 +4,10 @@ The Master Chest is HOPSIPOP's virtual storage network. `/mc`, portable Master C
 
 The network limit is your [Capacity](../capacity.md). Advanced tools such as hoppers, OmniSync, automation, and [Chunk Drills](../capacity-world/chunk-drills.md) use the same network.
 
+<!-- ARTICLE-VISUAL:storage-network:START -->
+![Storage Network access, transfer, search, and connected tools](../assets/generated/guides/storage-network.svg)
+<!-- ARTICLE-VISUAL:storage-network:END -->
+
 ## Start Here
 
 1. [Unlock and Open Storage](getting-started.md)

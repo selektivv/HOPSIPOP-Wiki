@@ -4,6 +4,10 @@ HOPSIPOP uses one connected progression loop:
 
 **Unlock storage → earn [Capacity](capacity.md) → increase storage and [ranks](ranks.md) → unlock mining → earn more [Capacity](capacity.md) → improve automation.**
 
+<!-- ARTICLE-VISUAL:system-overview:START -->
+![HOPSIPOP progression loop from storage to automation](assets/generated/guides/system-overview.svg)
+<!-- ARTICLE-VISUAL:system-overview:END -->
+
 ## Connected Systems
 
 - [Storage Network](master-chest/README.md) holds items virtually.

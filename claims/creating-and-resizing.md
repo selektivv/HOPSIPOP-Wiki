@@ -1,5 +1,9 @@
 # Creating and Resizing Claims
 
+<!-- ARTICLE-VISUAL:claim-creation:START -->
+![Creating and resizing a claim with a Golden Shovel](../assets/generated/guides/claim-creation.svg)
+<!-- ARTICLE-VISUAL:claim-creation:END -->
+
 ## Creating a Claim
 
 Hold a Golden Shovel and right-click two opposite corners of the area. Put the shovel away to cancel an unfinished selection.

@@ -2,6 +2,10 @@
 
 Automation Jobs process items inside one storage network. Open them with `/mc jobs`.
 
+<!-- ARTICLE-VISUAL:storage-automation:START -->
+![Steps for creating a storage Automation Job](../assets/generated/guides/storage-automation.svg)
+<!-- ARTICLE-VISUAL:storage-automation:END -->
+
 ## Job Types
 
 | Job | Result |

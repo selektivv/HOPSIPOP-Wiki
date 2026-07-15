@@ -2,6 +2,10 @@
 
 Find the feature you want to use, then follow the links inside each article to learn the connected systems.
 
+<!-- ARTICLE-VISUAL:wiki-home:START -->
+![Overview of the four main HOPSIPOP systems](assets/generated/guides/wiki-home.svg)
+<!-- ARTICLE-VISUAL:wiki-home:END -->
+
 ## New Players
 
 - [See how the complete system fits together](system-overview.md)

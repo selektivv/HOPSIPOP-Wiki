@@ -2,6 +2,10 @@
 
 Completing a mining [counter](counters.md) goal normally awards one [Capacity](../capacity.md). The reward is added immediately and increases storage space and [rank](../ranks.md) progress.
 
+<!-- ARTICLE-VISUAL:mining-rewards:START -->
+![Mining rewards with Counter Boost and co-op modifiers](../assets/generated/guides/mining-rewards.svg)
+<!-- ARTICLE-VISUAL:mining-rewards:END -->
+
 ## Reward Modifiers
 
 - An active [Counter Boost](counter-boosts.md) changes the boosted player's reward to three.

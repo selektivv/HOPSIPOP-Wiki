@@ -10,6 +10,10 @@ The [Capacity](../capacity.md) World is a temporary mining area, not a permanent
 
 Store valuables in your [Master Chest](../master-chest/README.md) and do not leave important items in placed containers.
 
+<!-- ARTICLE-VISUAL:world-rules:START -->
+![Key rules for the temporary Capacity World](../assets/generated/guides/world-rules.svg)
+<!-- ARTICLE-VISUAL:world-rules:END -->
+
 ## Continue Learning
 
 - Prepare for the ten-hour [World Reset](resets.md).

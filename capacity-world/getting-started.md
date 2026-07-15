@@ -4,6 +4,10 @@ Reach Atom [rank](../ranks.md), then run `/cw` and select Enter [Capacity](../ca
 
 The `/cw` menu also contains mining upgrades, [Notifications](notifications.md), and [Chunk Drill](chunk-drills.md) management. `/shortcuts` provides another entrance after Atom is reached.
 
+<!-- ARTICLE-VISUAL:mining-world-access:START -->
+![Steps for entering the Capacity World safely](../assets/generated/guides/mining-world-access.svg)
+<!-- ARTICLE-VISUAL:mining-world-access:END -->
+
 ## Rank Haste
 
 | Rank | Effect |
