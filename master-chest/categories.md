@@ -1,10 +1,12 @@
 # Item Categories
 
-Categories filter the storage menu by item type. In menu order, the filters are All, Building, Colored, Natural, Functional, Redstone, Tools, Combat, Food, and Ingredients.
+The Master Chest opens in Full Overview by default. The category filters are Building, Colored, Natural, Functional, Redstone, Tools, Combat, Food, and Ingredients.
 
 ![Master Chest category buttons](../assets/categories-masterchest.png)
 
-All is selected by default whenever you open the Master Chest. Select another category at the top of `/mc` to show only matching items, or choose All to remove the filter.
+Select a category at the top of `/mc` to show only matching items. While a filter is active, click Back in the upper-left corner to return to Full Overview.
+
+![Back button leading to the full Master Chest overview](../assets/back-to-full-overview-masterchest.png)
 
 ## Continue Learning
 
