@@ -1,10 +1,10 @@
 # Item Categories
 
-Categories filter the storage menu by item type. Available filters include All, Building, Natural, Functional, Redstone, Tools, Combat, Food, Ingredients, and Spawn Eggs.
+Categories filter the storage menu by item type. In menu order, the filters are All, Building, Colored, Natural, Functional, Redstone, Tools, Combat, Food, and Ingredients.
 
 ![Master Chest category buttons](../assets/categories-masterchest.png)
 
-Select a category at the top of `/mc`. Choose All to remove the filter.
+All is selected by default whenever you open the Master Chest. Select another category at the top of `/mc` to show only matching items, or choose All to remove the filter.
 
 ## Continue Learning
 
