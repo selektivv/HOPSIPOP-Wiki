@@ -2,6 +2,10 @@
 
 Open `/mc` to move items between your inventory and the storage network.
 
+An empty network shows only the menu controls and category buttons. Stored items appear in the open slots after the first deposit.
+
+![Empty Master Chest storage menu](../assets/empty-master-chest.png)
+
 ## Depositing
 
 - Shift-click an inventory stack to store it.
