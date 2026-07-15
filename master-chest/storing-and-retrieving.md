@@ -6,6 +6,10 @@ An empty network shows only the menu controls and category buttons. Stored items
 
 ![Empty Master Chest storage menu](../assets/empty-master-chest.png)
 
+After depositing items, each stored item type appears once with its total amount.
+
+![Master Chest storage menu with a few stored items](../assets/few-items-in-masterchest.png)
+
 ## Depositing
 
 - Shift-click an inventory stack to store it.
