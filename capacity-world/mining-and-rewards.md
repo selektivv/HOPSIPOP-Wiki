@@ -12,7 +12,7 @@ Most blocks that can be mined normally in the [Capacity](../capacity.md) World c
 
 Cobblestone and Basalt are specifically excluded. Mining either one gives no counter progress.
 
-## [Capacity](../capacity.md) Rewards
+## Capacity Rewards
 
 - A normal completed goal awards one [Capacity](../capacity.md).
 - An active [Counter Boost](boosts-and-notifications.md) awards three [Capacity](../capacity.md) to the boosted player instead.

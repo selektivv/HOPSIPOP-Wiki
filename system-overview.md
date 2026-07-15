@@ -24,7 +24,7 @@ Complete the early progression steps and the Verdant dungeon to unlock the [Mast
 
 The number of individual items the network can hold is controlled by [Capacity](capacity.md). This is not a separate mining-only score; it is the shared resource connecting storage, ranks, claims, and upgrades.
 
-## [Capacity](capacity.md) Drives Progression
+## Capacity Drives Progression
 
 Earning [Capacity](capacity.md) increases storage space and moves you toward the next [Capacity rank](master-chest/capacity-and-progression.md#capacity-ranks). Ranks unlock benefits across the connected system.
 

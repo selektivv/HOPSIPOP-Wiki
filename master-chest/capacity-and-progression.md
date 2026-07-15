@@ -1,4 +1,4 @@
-# Progression and [Capacity](../capacity.md) Ranks
+# Progression and Capacity Ranks
 
 [Capacity](../capacity.md) ranks connect storage growth to feature unlocks and server benefits. Read [Capacity](../capacity.md) first for the full explanation of earning, spending, storage limits, claims, and upgrade effects.
 
@@ -32,7 +32,7 @@ The scoreboard and reward messages show changes as they happen. Use the in-game 
 
 The armor steps shown in `/roadmap` are also required parts of the progression sequence.
 
-## [Capacity](../capacity.md) Ranks
+## Capacity Ranks
 
 The current rank order is:
 

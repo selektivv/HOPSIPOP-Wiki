@@ -1,4 +1,4 @@
-# Claims and [Capacity](capacity.md)
+# Claims and Capacity
 
 Land claims and [Capacity](capacity.md) use the same connected progression resource. Claiming more protected area can therefore reduce storage space and rank progress, while releasing claim area returns [Capacity](capacity.md).
 

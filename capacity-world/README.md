@@ -1,4 +1,4 @@
-# Mining and Progression: [Capacity](../capacity.md) World
+# Mining and Progression: Capacity World
 
 The [Capacity](../capacity.md) World is the repeatable mining branch of HOPSIPOP's connected storage and progression system. Mining goals award [Capacity](../capacity.md), [Capacity](../capacity.md) expands the Master Chest network and ranks, and Chunk Drill output returns to storage.
 

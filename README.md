@@ -27,7 +27,7 @@ Welcome to the HOPSIPOP player guide. Storage, [Capacity](capacity.md), ranks, m
 - [Search, Categories, and Shortcuts](master-chest/search-and-shortcuts.md)
 - [Hoppers and Physical Access Points](master-chest/hoppers.md)
 
-### [Capacity](capacity.md) and Progression
+### Capacity and Progression
 
 - [Capacity: earning, spending, and storage effects](capacity.md)
 - [Progression and Capacity Ranks](master-chest/capacity-and-progression.md)

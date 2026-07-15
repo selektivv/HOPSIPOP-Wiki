@@ -1,8 +1,8 @@
-# [Capacity](../capacity.md) World Upgrades
+# Capacity World Upgrades
 
 Open `/cw` to buy and review [Capacity](../capacity.md) World upgrades. Counter Reduction, Lucky Break, Co-op Size, the Chunk Drill unlock, and the Fluid Collector unlock are permanent.
 
-## Before Spending [Capacity](../capacity.md)
+## Before Spending Capacity
 
 Upgrade prices are deducted from your actual [Capacity](../capacity.md). Buying an upgrade therefore reduces all of the following immediately:
 

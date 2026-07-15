@@ -15,7 +15,7 @@ Rank requirements can change as the server evolves, so the in-game menu is the r
 
 The `/shortcuts` menu also provides [Capacity](../capacity.md) World access after you reach Atom rank.
 
-## What the [Capacity](../capacity.md) World Menu Contains
+## What the Capacity World Menu Contains
 
 | Menu option | Purpose |
 | --- | --- |

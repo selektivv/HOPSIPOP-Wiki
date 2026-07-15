@@ -50,6 +50,6 @@ The collector needs an empty bucket in your MasterChest for every water or lava 
 
 Check your MasterChest first. A finished drill, a drill collected through the menu, and an active drill caught by a world reset are returned there. If you broke the drill manually, its item drops at the drill's location instead.
 
-## I Spent Too Much [Capacity](../capacity.md)
+## I Spent Too Much Capacity
 
 [Capacity](../capacity.md) purchases can reduce your storage limit below the number of items already stored. The existing items remain, but deposits may fail. Remove items or earn more [Capacity](../capacity.md) until your stored total is below the limit again.
