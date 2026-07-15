@@ -1,48 +1,23 @@
-# Claims and Capacity
+# Claims
 
-Land claims and [Capacity](capacity.md) use the same connected progression resource. Claiming more protected area can therefore reduce storage space and [rank](ranks.md) progress, while releasing claim area returns [Capacity](capacity.md).
+Claims protect land outside the temporary [Capacity](capacity.md) World. Creating or expanding a claim spends [Capacity](capacity.md); shrinking or deleting it refunds the released area.
 
-## Where Claims Work
+## Managing Claims
 
-Claims protect land in supported permanent worlds. They cannot be created in the temporary [Capacity](capacity.md) World.
+Use the server's claim tool to create or resize an area. Claim creation is blocked in the mining world because that world resets regularly.
 
-The mining world resets regularly and is intended for resource gathering, not permanent bases. Read [World Rules and Reset Safety](capacity-world/world-rules-and-resets.md) before leaving anything there.
+## Before Expanding
 
-## Creating and Expanding Claims
+The claim cost reduces the same [Capacity](capacity.md) used for storage and [ranks](ranks.md). Check:
 
-Creating a claim or increasing its area deducts [Capacity](capacity.md) based on the added protected area. The deduction affects the same [Capacity](capacity.md) total used for:
+- stored items and free space in Master Chest Shortcuts;
+- current and next [rank](ranks.md) requirements in `/perks`;
+- whether the full protected area is actually needed.
 
-- Master Chest storage space.
-- [Rank](ranks.md) requirements.
-- Mining-upgrade purchases.
+Stored items are not deleted if the new limit becomes too low, but deposits can stop and a [rank](ranks.md) can be lost.
 
-Before expanding a claim, check `/perks` for [rank](ranks.md) progress and check Master Chest Shortcuts for stored items and free space.
+## Continue Learning
 
-## Shrinking and Deleting Claims
-
-Reducing a claim refunds the [Capacity](capacity.md) associated with the released area. Deleting the claim refunds the released claim area as well.
-
-The refunded [Capacity](capacity.md) immediately returns to the connected progression total and can increase free storage space or [rank](ranks.md) progress.
-
-## Storage and Rank Safety
-
-If claim spending lowers [Capacity](capacity.md) below the number of items already stored, existing Master Chest items remain. New deposits may fail until you remove items, earn more [Capacity](capacity.md), or release claim area.
-
-If spending crosses a [rank](ranks.md) requirement, the current [rank](ranks.md) and its benefits can be lost until the required [Capacity](capacity.md) is restored.
-
-## Recommended Claim Workflow
-
-1. Check your current [Capacity](capacity.md) with `/perks` and your storage usage through Master Chest Shortcuts.
-2. Estimate whether the new area leaves enough [Capacity](capacity.md) for storage and [rank](ranks.md) requirements.
-3. Create or expand only the area you need.
-4. Release unused claim area so its [Capacity](capacity.md) returns to the shared total.
-
-## Related Articles
-
-- [System Overview](system-overview.md)
 - [Capacity](capacity.md)
-- [Storage Network](master-chest/README.md)
 - [Ranks](ranks.md)
-- [Progression and Feature Unlocks](master-chest/capacity-and-progression.md)
-- [Mining Upgrades](capacity-world/upgrades.md)
-- [World Rules and Reset Safety](capacity-world/world-rules-and-resets.md)
+- [World Rules](capacity-world/world-rules.md)

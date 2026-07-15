@@ -1,38 +1,24 @@
 # Ranks
 
-Ranks are determined by your current [Capacity](capacity.md). They connect storage growth with mining access, perks, and advanced tools.
+Ranks are determined by your current [Capacity](capacity.md). Earning [Capacity](capacity.md) can raise your rank; spending it can lower your rank and temporarily remove its benefits.
 
 ## Rank Order
 
-The current order is Atom, Nova, Quasar, Singularity, Void, Cosmic, Celestial, Divine, Primordial, Multiversal, Omniversal, and Apex.
+Atom, Nova, Quasar, Singularity, Void, Cosmic, Celestial, Divine, Primordial, Multiversal, Omniversal, and Apex.
 
-Requirements may change as the server evolves. Open `/perks`, select Rank Overview, and use the in-game values as the current source of truth.
+Open `/perks` and select Rank Overview for live requirements. Left-click a rank to track it with a boss bar; right-click to stop tracking.
 
-## Checking and Tracking a Rank
+## Important Benefits
 
-The Rank Overview shows your current [Capacity](capacity.md), completed ranks, the amount still needed, and later ranks.
+- Atom unlocks the [Capacity](capacity.md) World and grants Haste I there.
+- Nova grants Haste II and filtered Master Chest hopper output.
+- Quasar and higher grant Haste III.
+- Quasar unlocks [Chunk Drill](capacity-world/chunk-drills.md) chest-content collection.
+- Higher ranks improve [Chunk Drill](capacity-world/chunk-drills.md) speed until the fastest interval is reached.
 
-- Left-click a rank to track it with a boss bar.
-- Right-click a rank to stop tracking.
-- Use `/playtime` or Master Chest Shortcuts to compare your current storage use with available [Capacity](capacity.md).
-
-## How Rank Changes Work
-
-Earning [Capacity](capacity.md) can move you into a higher rank immediately. Spending [Capacity](capacity.md) on claims or mining upgrades can move you below a requirement and remove the affected rank and benefits until enough [Capacity](capacity.md) is restored.
-
-Stored items are not deleted after a rank loss, but the lower [Capacity](capacity.md) total can prevent new deposits.
-
-## Connected Benefits
-
-- Atom unlocks the [Capacity](capacity.md) World and grants Haste I inside it.
-- Nova grants Haste II inside the mining world and unlocks filtered Master Chest hopper output.
-- Quasar and higher grant Haste III inside the mining world.
-- Quasar also unlocks the global [Chunk Drill](capacity-world/chunk-drills.md) chest-content collection setting.
-- Higher ranks progressively reduce the delay between [Chunk Drill](capacity-world/chunk-drills.md) mining intervals until the fastest interval is reached.
-- Additional benefits are shown in `/perks`; use that menu for the current complete list.
+Requirements and additional perks may change, so `/perks` is the current source of truth.
 
 ## Continue Learning
 
-- Learn how earning and spending [Capacity](capacity.md) affects ranks.
-- Review the broader [progression and feature unlocks](master-chest/capacity-and-progression.md).
-- Enter the mining world through [Access and Getting Started](capacity-world/getting-started.md).
+- [Capacity](capacity.md)
+- [Progression Unlocks](master-chest/capacity-and-progression.md)

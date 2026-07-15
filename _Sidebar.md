@@ -7,7 +7,9 @@
 - Storage and Capacity
   - [Storage Network](master-chest/README.md)
   - [Store and Retrieve](master-chest/storing-and-retrieving.md)
-  - [Search and Shortcuts](master-chest/search-and-shortcuts.md)
+  - [Item Search](master-chest/search.md)
+  - [Item Categories](master-chest/categories.md)
+  - [Shortcuts](master-chest/shortcuts.md)
   - [Capacity](capacity.md)
   - [Ranks](ranks.md)
   - [Progression and Unlocks](master-chest/capacity-and-progression.md)
@@ -17,10 +19,11 @@
   - [Mining World](capacity-world/README.md)
   - [Getting Started](capacity-world/getting-started.md)
   - [Counters](capacity-world/counters.md)
-  - [Mining and Rewards](capacity-world/mining-and-rewards.md)
+  - [Mining Rewards](capacity-world/mining-and-rewards.md)
   - [Counter Reduction](capacity-world/counter-reduction.md)
   - [Lucky Break](capacity-world/lucky-break.md)
-  - [Boosts and Notifications](capacity-world/boosts-and-notifications.md)
+  - [Counter Boosts](capacity-world/counter-boosts.md)
+  - [Notifications](capacity-world/notifications.md)
   - [Co-op Mining](capacity-world/coop.md)
   - [Upgrades](capacity-world/upgrades.md)
 - Automation and Advanced Tools
@@ -31,4 +34,5 @@
 - Help and Safety
   - [Storage Help](master-chest/troubleshooting.md)
   - [Mining Help](capacity-world/troubleshooting.md)
-  - [World Rules and Resets](capacity-world/world-rules-and-resets.md)
+  - [World Rules](capacity-world/world-rules.md)
+  - [World Resets](capacity-world/resets.md)

@@ -1,46 +1,25 @@
-# Getting Started
+# Storage Access
 
-## Unlocking the Master Chest
+Complete the Verdant dungeon to unlock the storage network. Afterward, use any of these access methods.
 
-The Master Chest is part of the HOPSIPOP progression roadmap.
+## Command Access
 
-1. Equip a complete set of iron armor at least once.
-2. Use the `UNLOCK MASTERCHEST` NPC in the Lobby, or run `/roadmap`, to view the progression path.
-3. Complete the Verdant dungeon.
-4. Open your newly unlocked network with `/mc`.
+Run `/mc` or `/masterchest`.
 
-If the menu says the Master Chest is locked, the Verdant completion has not yet been recorded for your account.
+## Portable Access
 
-## Crafting a Master Chest Item
+Craft a Master Chest with one Chest surrounded by eight Iron Ingots. Hold it and right-click the air.
 
-A Master Chest item is useful as a portable terminal and as a physical access point. Craft it in a crafting table with one normal Chest in the center and eight Iron Ingots around it.
+## Placed Access
 
-Only a normal Chest works as the center ingredient. A special chest item cannot be reused as the ingredient.
+Place the Master Chest in an allowed world and right-click it. Multiple placed access points open the same virtual network.
 
-## Three Ways to Open It
+Sneak-right-click an access point with an empty hand to open its physical input buffer. Items in this buffer are moved into virtual storage automatically.
 
-### Command Access
-
-Run `/mc`. You do not need to carry or place a Master Chest item.
-
-### Portable Access
-
-Hold a Master Chest item and right-click the air. The storage menu opens without placing the chest.
-
-### Placed Access Point
-
-Place the Master Chest in an allowed world, then right-click it normally. You may place multiple Master Chests; all of your access points lead to the same network.
-
-Sneak-right-click with an empty hand to bypass the network menu and access the chest's normal physical buffer. This buffer is useful for hopper input and is absorbed into the virtual network automatically.
-
-## Moving an Access Point
-
-Break a placed Master Chest to receive the special Master Chest item again. Any items still waiting in its physical buffer are dropped at the chest, while items already stored in the virtual network remain safe and unchanged.
-
-Placed Master Chests stay as single chests and cannot be moved by pistons.
+Breaking an access point returns the special item. Virtual contents remain safe, but items still in the physical buffer drop at the block.
 
 ## Continue Learning
 
-- [Store and retrieve items](storing-and-retrieving.md) through the network menu.
-- Learn how [Capacity](../capacity.md) determines your storage limit.
-- Set up [hoppers and physical access points](hoppers.md) for automatic input and output.
+- [Transfer Items](storing-and-retrieving.md)
+- [Capacity](../capacity.md)
+- [Hoppers](hoppers.md)

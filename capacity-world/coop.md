@@ -1,56 +1,33 @@
 # Co-op Mining
 
-A [Capacity](../capacity.md) World co-op lets a group contribute to one shared [counter](counters.md). It is designed for actively mining together inside the world.
+A co-op lets active players share one mining [counter](counters.md) goal inside the [Capacity](../capacity.md) World.
 
-## Requirements
+## Group Size
 
-- The invited player must be online.
-- Neither player can already belong to a different co-op.
-- Both players must have enough Co-op Size levels for the resulting group size. See [Mining Upgrades](upgrades.md#co-op-size) for the costs.
-- A group can contain no more than four players.
+Both the inviter and invited player must support the resulting size.
 
-## Inviting a Player
+| Maximum players | Upgrade cost |
+| --- | ---: |
+| 2 | 5,000 [Capacity](../capacity.md) |
+| 3 | 15,000 [Capacity](../capacity.md) |
+| 4 | 50,000 [Capacity](../capacity.md) |
 
-Use either method:
+## Joining
 
-- Run `/coop <player>`.
-- Right-click the player while both of you are in the [Capacity](../capacity.md) World.
+Run `/coop <player>` or right-click the player inside the mining world. Invitations expire after 60 seconds. Mutual invitations accept automatically.
 
-The invitation includes accept and decline controls and expires after 60 seconds. If both players invite each other, the invitations are accepted automatically.
+Use `/coop decline <player>` to decline or `/coop leave` to leave.
 
-To reject an invitation manually, use `/coop decline <player>`.
+## Shared Progress
 
-## Shared Counter Behavior
+The player with the better [Counter Reduction](counter-reduction.md) becomes the initial owner. Active members use that owner's goal. If no partner is online inside the world, personal progress is used instead.
 
-When the first two players form a group, the player with the better [Counter Reduction](counter-reduction.md) becomes the initial group owner. The owner's block goal becomes the shared goal. Adding a later member does not automatically replace the current owner, even if that member has a better personal goal.
+Every member normally receives one [Capacity](../capacity.md) when the shared goal completes. A [Counter Boost](counter-boosts.md) changes only the boosted player's reward.
 
-Shared progress activates while at least one other group member is online and inside the [Capacity](../capacity.md) World. If nobody else in the group is actively in the world, your mining uses your own [counter](counters.md) and personal goal.
-
-When a shared goal is completed:
-
-- Every group member receives one [Capacity](../capacity.md).
-- If the player whose mining or drill completed the goal has an active [Counter Boost](boosts-and-notifications.md), that player receives three [Capacity](../capacity.md) instead.
-- The boost does not triple the other members' rewards.
-- The shared [counter](counters.md) resets for the group.
-
-[Lucky Break](lucky-break.md) can accelerate shared progress when a member mines manually. [Chunk Drill](chunk-drills.md) blocks add one point each.
-
-## Leaving a Co-op
-
-Run `/coop leave` to leave manually. Leaving the [Capacity](../capacity.md) World also removes you from the active group.
-
-If the group owner leaves and several members remain, ownership moves to the remaining player with the best block goal. A group dissolves when too few members remain. All co-ops are also dissolved during a [Capacity](../capacity.md) World reset.
-
-## Practical Tips
-
-- Compare [Counter Reduction](counter-reduction.md) levels before creating the first pair.
-- Make sure every intended member has purchased enough Co-op Size before sending invitations.
-- Use [Counter Boosts](boosts-and-notifications.md) on the player doing most of the mining or operating the active drill.
-- Re-form the group after a world reset.
+Groups dissolve when too few members remain or during a [World Reset](resets.md).
 
 ## Continue Learning
 
-- Review the shared [counter](counters.md) and [reward](mining-and-rewards.md) rules.
-- Increase group size through [mining upgrades](upgrades.md).
-- Understand how [Counter Boosts](boosts-and-notifications.md) reward individual members.
-- Prepare to rebuild the group after a [world reset](world-rules-and-resets.md).
+- [Counters](counters.md)
+- [Mining Rewards](mining-and-rewards.md)
+- [Counter Boosts](counter-boosts.md)

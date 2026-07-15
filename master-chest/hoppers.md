@@ -1,45 +1,21 @@
-# Hoppers and Physical Access Points
+# Hoppers
 
-A placed Master Chest acts as a bridge between normal Minecraft containers and the virtual network.
+Hoppers move items between physical containers and the virtual storage network while the relevant chunks are loaded.
 
-## Automatic Input
+## Input
 
-Hoppers can feed items into a placed Master Chest. Items placed in the Master Chest's physical buffer are also absorbed into its owner's virtual network.
+Place a hopper above or beside a Master Chest access point. Items entering its physical buffer are absorbed into storage.
 
-If the network is full, items that do not fit remain in the physical container or source inventory instead of being destroyed.
+## Output
 
-## Unfiltered Output
+A hopper directly below the Master Chest pulls arbitrary stored items.
 
-Place a hopper directly below the Master Chest to pull items out of the network. Without a filter, it pulls arbitrary stored items, so use this only when the exact output does not matter.
+For filtered output, reach Nova [rank](../ranks.md), attach an Item Frame to a nearby hopper, dispenser, or dropper, and place the desired item in the frame. The network owner must be online.
 
-## Filtered Output
-
-Filtered output is a Nova [rank](../ranks.md) perk.
-
-1. Place a hopper, dispenser, or dropper within 12 blocks of your Master Chest.
-2. Attach an Item Frame to that container.
-3. Put one sample of the desired item in the frame.
-4. Leave space in the container.
-
-The Master Chest pulls matching items from the network into that container. The item in the frame is only the filter sample; it does not need to be consumed.
-
-The network owner must be online for filtered output to run, and the owner must have the Nova hopper-filter perk.
-
-## Placement Notes
-
-- A Master Chest remains a single chest even beside a normal chest or another Master Chest.
-- Pistons cannot move a placed Master Chest.
-- Breaking it returns the special Master Chest item.
-- Breaking an access point does not delete virtual network contents.
-- Hopper input and output stop when the relevant chunks are not loaded.
-
-## Recommended Setup
-
-Use one placed Master Chest as a clearly labeled network terminal. Feed bulk farm output into it from above or the side. Put deliberate filtered-output containers nearby, and avoid an unfiltered hopper directly underneath unless random output is acceptable.
+Avoid an unfiltered hopper underneath unless random output is acceptable. Keep enough [Capacity](../capacity.md) for automatic input.
 
 ## Continue Learning
 
-- Review how to [place and move Master Chest access points](getting-started.md).
-- Use [automation jobs](automation.md) to process items after hopper input.
-- Keep enough [Capacity](../capacity.md) available for incoming items.
-- Check [storage troubleshooting](troubleshooting.md) when output is incorrect.
+- [Storage Access](getting-started.md)
+- [Automation Jobs](automation.md)
+- [Storage Troubleshooting](troubleshooting.md)

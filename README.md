@@ -38,4 +38,5 @@ Move, process, craft, and collect items with connected storage tools.
 
 - [Storage Help](master-chest/troubleshooting.md)
 - [Mining Help](capacity-world/troubleshooting.md)
-- [World Rules and Reset Safety](capacity-world/world-rules-and-resets.md)
+- [World Rules](capacity-world/world-rules.md)
+- [World Resets](capacity-world/resets.md)

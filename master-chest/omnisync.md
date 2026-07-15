@@ -1,55 +1,23 @@
 # OmniSync
 
-OmniSync connects your inventory and crafting interfaces to a selected Master Chest network.
+OmniSync provides automatic restocking and network-assisted crafting from the selected storage network. Complete Mobmon before crafting it.
 
-## Unlocking and Crafting OmniSync
+## Restocking
 
-Complete the Mobmon dungeon first. Then craft OmniSync with one Eye of Ender in the center and eight normal Chests around it.
+Keep OmniSync in your inventory. When a matching stack is used up, it can pull replacements from storage. Restocking fails if the selected network has none available.
 
-OmniSync cannot be dropped and is kept when you die. Keep it anywhere in your carried inventory for its automatic features to work.
+## Crafting
 
-## Automatic Restocking
+While OmniSync is available, crafting can use missing ingredients from the linked network. Finished items still need inventory or storage space.
 
-When a supported stack is used and becomes partially empty, OmniSync pulls matching items from the selected network and refills the best matching stack up to its normal maximum.
+## Shared Network Link
 
-Supported uses include:
+Right-click OmniSync in the air to select your own network or a network shared with you. The selected network is also used for restocking and assisted crafting.
 
-- Placed or dropped blocks
-- Consumed food
-- Firework rockets used for Elytra boosting
-- Experience bottles
-- Bone meal
-
-Restocking is disabled in Creative and Spectator modes. It also stops when the selected network is empty, lacks the matching item, or has not been shared with you.
-
-## Network-Assisted Crafting
-
-With OmniSync in your inventory, select a normal recipe from the recipe book. If the required ingredients are split between your inventory and the selected network, the crafting result can still appear. Taking the result consumes available ingredients from your inventory first and pulls the remaining ingredients from the network.
-
-This support applies to ordinary shaped and shapeless crafting recipes. It does not turn every special processing recipe into a portable recipe.
-
-## Linking to a Shared Network
-
-Right-click OmniSync in the air to open the OmniSync Link menu. You can select your own network or any network whose owner has invited you.
-
-Important: the selected OmniSync owner is also used as your default Master Chest owner. After linking to a friend's network, `/mc`, your portable Master Chest, and your own placed Master Chest access points open that selected network by default.
-
-To return to your own storage:
-
-1. Right-click OmniSync in the air.
-2. Select My Own Network.
-3. Reopen `/mc` and confirm that your own network is shown.
-
-## Practical Safety
-
-- Link only to a trusted network.
-- Check the active network before bulk depositing.
-- If restocking pulls from the wrong stockpile, switch the link back to My Own Network.
-- OmniSync uses items from the linked network, so coordinate with its owner before relying on shared supplies.
+Return to My Own Network after shared work, and confirm the active owner before depositing items.
 
 ## Continue Learning
 
-- Review the rules for [sharing storage networks](sharing-networks.md).
-- Learn the network's [deposit and retrieval controls](storing-and-retrieving.md).
-- Combine portable access with [automation jobs](automation.md).
-- Use [storage troubleshooting](troubleshooting.md) if restocking or crafting fails.
+- [Shared Networks](sharing-networks.md)
+- [Item Transfers](storing-and-retrieving.md)
+- [Storage Troubleshooting](troubleshooting.md)

@@ -1,59 +1,31 @@
-# Troubleshooting and Safety
+# Storage Troubleshooting
 
-## The Master Chest Says It Is Locked
+## Storage Is Locked
 
-Equip a full iron armor set at least once, then complete the Verdant dungeon. Use `/roadmap` to confirm which step is incomplete.
+Complete Verdant, then reopen `/mc`. Check `/roadmap` if the requirement still appears incomplete.
 
-## I Cannot Craft OmniSync
+## A Transfer Was Incomplete
 
-Complete the Mobmon dungeon first. Use one Eye of Ender and eight normal Chests; special plugin items cannot replace the normal ingredients.
+The network may have reached its [Capacity](../capacity.md). Free space or earn more [Capacity](../capacity.md). Right-click retrieves one item; use left-click for a stack.
 
-## My Items Went Into Someone Else's Network
+## Items Went to the Wrong Network
 
-OmniSync linking changes the default network opened by `/mc`, a portable Master Chest, and your own placed access points. Right-click OmniSync, select My Own Network, and verify the owner before depositing again.
-
-## A Deposit Only Moved Part of a Stack
-
-The target network reached its item-[capacity](../capacity.md) limit. Open Shortcuts to check free space, remove items, or earn more [capacity](../capacity.md). The unstored remainder should stay in the source inventory, physical buffer, or on the cursor.
-
-## Right-Click Only Gives Me One Item
-
-That is the intended control. Left-click a stored entry to retrieve up to one full stack; right-click retrieves one item.
+Check the displayed owner. [OmniSync](omnisync.md) may still be linked to shared storage. Select My Own Network before continuing.
 
 ## OmniSync Does Not Restock
 
-Check all of the following:
+Keep it in your inventory and confirm that the selected network contains a matching item.
 
-- OmniSync is somewhere in your carried inventory.
-- You are not in Creative or Spectator mode.
-- The selected network contains a matching item.
-- The used item is a supported block, food, firework rocket, experience bottle, or bone meal.
-- The shared-network owner still grants you access.
+## An Automation Job Is Idle
 
-## An Automation Job Does Nothing
-
-- Confirm that the job is enabled.
-- Confirm that the network contains its ingredients, input, and fuel.
-- Check whether the result has already reached the minimum-stock target.
-- Make sure there is free Master Chest [capacity](../capacity.md) for the result.
-- For Smelt jobs, use an input with a blast-furnace recipe and a valid fuel.
-
-## A Shared Network Is Missing
-
-The owner has not invited you or has removed your access. Ask the owner to run `/mc invite <player>` again.
+Check the input, recipe, fuel, output target, and free storage space. All required items must be in the job owner's network.
 
 ## Hopper Output Is Wrong
 
-A hopper directly below the Master Chest is unfiltered and can pull arbitrary items. For precise output, use the Nova filtered-output setup with an Item Frame attached to the target hopper, dispenser, or dropper.
+A hopper directly below a Master Chest is unfiltered. Use the [filtered-output setup](hoppers.md#output) for a specific item.
 
-## Before Moving or Breaking a Master Chest
+## Continue Learning
 
-Virtual contents remain in the network. Items still visible in the chest's physical buffer are separate and are dropped when the access point is broken. Pick them up before leaving the area.
-
-## Return to the Relevant Guide
-
-- [Storage setup and access](getting-started.md)
-- [Depositing and retrieving items](storing-and-retrieving.md)
-- [OmniSync](omnisync.md)
-- [Automation jobs](automation.md)
-- [Hoppers and physical access points](hoppers.md)
+- [Storage Access](getting-started.md)
+- [Item Transfers](storing-and-retrieving.md)
+- [Automation Jobs](automation.md)

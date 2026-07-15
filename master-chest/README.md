@@ -1,48 +1,21 @@
-# Storage Network and Master Chest
+# Storage Network
 
-The Master Chest is the access point for HOPSIPOP's virtual storage network. It is one part of the connected progression system: [Capacity](../capacity.md) controls the network limit and [ranks](../ranks.md), mining expands [Capacity](../capacity.md), and advanced tools move items into or out of the same network.
+The Master Chest is HOPSIPOP's virtual storage network. `/mc`, portable Master Chests, and placed access points all open the same contents.
 
-Read the [system overview](../system-overview.md) for the complete loop.
+The network limit is your [Capacity](../capacity.md). Advanced tools such as hoppers, OmniSync, automation, and [Chunk Drills](../capacity-world/chunk-drills.md) use the same network.
 
-## What the Storage Network Does
+## Start Here
 
-- Combines stored items into one virtual network.
-- Groups matching items and shows their total amounts.
-- Sorts items into familiar Minecraft categories.
-- Lets you deposit and retrieve items directly from a menu.
-- Supports trusted-player access and shared networks.
-- Supports automatic restocking and network-assisted crafting through OmniSync.
-- Supports crafting, stone-cutting, smelting, and deletion jobs.
-- Connects to hoppers and receives [Chunk Drill](../capacity-world/chunk-drills.md) output.
+1. [Unlock and Open Storage](getting-started.md)
+2. [Transfer Items](storing-and-retrieving.md)
+3. [Find Items](search.md)
+4. [Understand Capacity](../capacity.md)
 
-## How It Connects to Progression
+## Other Storage Features
 
-- [Capacity](../capacity.md) is the maximum number of individual items the network can hold.
-- [Ranks](../ranks.md) unlock benefits across storage and mining.
-- The [mining world](../capacity-world/README.md) provides repeatable [Capacity](../capacity.md) rewards.
-- [Mining upgrades](../capacity-world/upgrades.md) spend the same [Capacity](../capacity.md) used by storage and [ranks](../ranks.md).
-- [Chunk Drills](../capacity-world/chunk-drills.md) send produced drops back to this network.
-
-## Recommended Reading Order
-
-1. [Getting Started](getting-started.md)
-2. [Storing and Retrieving Items](storing-and-retrieving.md)
-3. [Capacity](../capacity.md)
-4. [Search and Shortcuts](search-and-shortcuts.md)
-5. [Ranks](../ranks.md) and [Progression](capacity-and-progression.md)
-6. [Mining Counters](../capacity-world/counters.md) and [Rewards](../capacity-world/mining-and-rewards.md)
-7. [OmniSync](omnisync.md) and [Automation Jobs](automation.md)
-
-## Main Commands
-
-| Command | Purpose |
-| --- | --- |
-| `/mc` | Open the network currently selected as your default. |
-| `/masterchest` | Open the network in the same way as `/mc`. |
-| `/roadmap` | View progression requirements and feature unlocks. |
-| `/playtime` | View playtime, first join date, and current item [Capacity](../capacity.md). |
-| `/perks` | View [ranks](../ranks.md), requirements, and benefits. |
-| `/mc guides` | Browse in-game guide books. |
-| `/mc jobs` | Open the automation menu. |
-| `/shortcuts` | Open shortcuts for storage and connected systems. |
-| `/mc shared` | Browse networks that other players have shared with you. |
+- [Item Categories](categories.md)
+- [Shortcuts](shortcuts.md)
+- [Shared Networks](sharing-networks.md)
+- [OmniSync](omnisync.md)
+- [Hoppers](hoppers.md)
+- [Automation Jobs](automation.md)
