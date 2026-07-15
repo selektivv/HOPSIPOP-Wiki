@@ -14,6 +14,14 @@ Multiple stacks of the same item stay combined in one menu slot. Hover over the 
 
 ![Combined item stacks with the exact total shown in the tooltip](../assets/more-than-64-of-one-item-in-masterchest.png)
 
+## Browsing Pages
+
+When more item types are stored than one page can show, a Next button appears in the upper-right corner. Hover over it to see the destination page, then click it to continue. A Previous button appears in the upper-left corner after leaving the first page.
+
+![Next-page button in the Master Chest storage menu](../assets/next-page-icon-masterchest.png)
+
+The menu adds pages as needed, but the total number of stored items is still limited by [Capacity](../capacity.md).
+
 ## Depositing
 
 - Shift-click an inventory stack to store it.
