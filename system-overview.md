@@ -7,7 +7,7 @@ HOPSIPOP uses one connected progression loop:
 ## Connected Systems
 
 - [Storage Network](master-chest/README.md) holds items virtually.
-- [Capacity](capacity.md) sets the item limit and is also spent on claims and upgrades.
+- [Capacity](capacity.md) sets the item limit and is also spent on [claims](claims.md) and upgrades.
 - [Ranks](ranks.md) unlock mining access and perks.
 - [Counters](capacity-world/counters.md) turn mining into [Capacity](capacity.md) rewards.
 - [Chunk Drills](capacity-world/chunk-drills.md) mine automatically and send drops to storage.

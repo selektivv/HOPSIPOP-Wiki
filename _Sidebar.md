@@ -14,6 +14,10 @@
   - [Ranks](ranks.md)
   - [Progression and Unlocks](master-chest/capacity-and-progression.md)
   - [Claims](claims.md)
+    - [Create and Resize](claims/creating-and-resizing.md)
+    - [Manage a Claim](claims/managing-a-claim.md)
+    - [Trust Levels](claims/trust-levels.md)
+    - [Claim Settings](claims/settings.md)
   - [Sharing Networks](master-chest/sharing-networks.md)
 - Mining and Upgrades
   - [Mining World](capacity-world/README.md)

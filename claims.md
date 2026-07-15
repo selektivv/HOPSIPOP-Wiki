@@ -1,23 +1,20 @@
 # Claims
 
-Claims protect land outside the temporary [Capacity](capacity.md) World. Creating or expanding a claim spends [Capacity](capacity.md); shrinking or deleting it refunds the released area.
+Claims protect land and use the same [Capacity](capacity.md) as storage and [ranks](ranks.md). Each horizontal block inside a claim costs one [Capacity](capacity.md).
 
-## Managing Claims
+## Claim GUI
 
-Use the server's claim tool to create or resize an area. Claim creation is blocked in the mining world because that world resets regularly.
+Open `/claimgui` or use `/mc` → Shortcuts → Claims. The GUI manages existing claims; creating and resizing still use the Golden Shovel.
 
-## Before Expanding
+![Claims list showing owned and trusted claims](assets/claimgui.png)
 
-The claim cost reduces the same [Capacity](capacity.md) used for storage and [ranks](ranks.md). Check:
+The upper section shows up to 18 claims you own, including their boundaries, area, and trusted-player count. The lower section shows up to 18 claims where another owner has trusted you, together with your trust level.
 
-- stored items and free space in Master Chest Shortcuts;
-- current and next [rank](ranks.md) requirements in `/perks`;
-- whether the full protected area is actually needed.
+Click a claim to open its management view. Back returns to Shortcuts.
 
-Stored items are not deleted if the new limit becomes too low, but deposits can stop and a [rank](ranks.md) can be lost.
+## Learn by Task
 
-## Continue Learning
-
-- [Capacity](capacity.md)
-- [Ranks](ranks.md)
-- [World Rules](capacity-world/world-rules.md)
+- [Create or Resize a Claim](claims/creating-and-resizing.md)
+- [Manage a Claim](claims/managing-a-claim.md)
+- [Manage Trust](claims/trust-levels.md)
+- [Configure Claim Settings](claims/settings.md)
