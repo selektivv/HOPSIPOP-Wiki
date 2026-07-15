@@ -1,25 +1,27 @@
-# Capacity and Progression
+# [Capacity](../capacity.md) and Progression
 
-## What Capacity Means
+## What [Capacity](../capacity.md) Means
 
-Capacity is the maximum number of individual items your Master Chest network can hold. It is shared across every item type in your network.
+For the complete explanation of storage limits, earning, spending, claims, and upgrade effects, read the main [Capacity article](../capacity.md).
 
-For example, 64 blocks consume 64 capacity. Adding a new item type does not create a separate free slot outside that limit.
+[Capacity](../capacity.md) is the maximum number of individual items your Master Chest network can hold. It is shared across every item type in your network.
 
-## Checking Your Capacity
+For example, 64 blocks consume 64 [capacity](../capacity.md). Adding a new item type does not create a separate free slot outside that limit.
+
+## Checking Your [Capacity](../capacity.md)
 
 - Run `/playtime` to see your Master Chest limit, playtime, and first join date.
 - Open the Master Chest and hover over Shortcuts to see total items and free space.
 - Open `/perks` to view rank progress and rank-gated benefits.
 - Open `/roadmap` to view feature progression.
 
-Playtime is recorded and displayed, but it does not currently add Master Chest capacity by itself.
+Playtime is recorded and displayed, but it does not currently add Master Chest [capacity](../capacity.md) by itself.
 
-## Earning Capacity
+## Earning [Capacity](../capacity.md)
 
-Capacity is awarded by HOPSIPOP activities and progression. Current sources include dungeon milestones, eligible Masterlands mob kills, Capacity World mining, voting rewards, daily-event prizes, Vote Crate rewards, and some other server rewards.
+[Capacity](../capacity.md) is awarded by HOPSIPOP activities and progression. Current sources include dungeon milestones, eligible Masterlands mob kills, [Capacity](../capacity.md) World mining, voting rewards, daily-event prizes, Vote Crate rewards, and some other server rewards.
 
-The scoreboard and reward messages show changes as they happen. Harder or later activities may award capacity differently, so use the in-game roadmap and menus as the live source for your next goal.
+The scoreboard and reward messages show changes as they happen. Harder or later activities may award [capacity](../capacity.md) differently, so use the in-game roadmap and menus as the live source for your next goal.
 
 For the complete mining system, see the [Capacity World guide](../capacity-world/README.md).
 
@@ -37,12 +39,12 @@ For the complete mining system, see the [Capacity World guide](../capacity-world
 
 The armor steps shown in `/roadmap` are also required parts of the progression sequence.
 
-## Capacity Ranks
+## [Capacity](../capacity.md) Ranks
 
-Capacity ranks unlock additional HOPSIPOP benefits. The current rank order is:
+[Capacity](../capacity.md) ranks unlock additional HOPSIPOP benefits. The current rank order is:
 
 Atom, Nova, Quasar, Singularity, Void, Cosmic, Celestial, Divine, Primordial, Multiversal, Omniversal, and Apex.
 
-Open `/perks`, then Rank Overview, to see the live capacity requirement for each rank. Left-click a rank to track it with a boss bar; right-click a rank to stop tracking.
+Open `/perks`, then Rank Overview, to see the live [capacity](../capacity.md) requirement for each rank. Left-click a rank to track it with a boss bar; right-click a rank to stop tracking.
 
 Rank requirements can be adjusted as the server evolves, so the in-game Rank Overview is more reliable than memorizing a number from a guide.

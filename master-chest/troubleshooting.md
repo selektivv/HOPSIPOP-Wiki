@@ -14,7 +14,7 @@ OmniSync linking changes the default network opened by `/mc`, a portable Master 
 
 ## A Deposit Only Moved Part of a Stack
 
-The target network reached its item-capacity limit. Open Shortcuts to check free space, remove items, or earn more capacity. The unstored remainder should stay in the source inventory, physical buffer, or on the cursor.
+The target network reached its item-[capacity](../capacity.md) limit. Open Shortcuts to check free space, remove items, or earn more [capacity](../capacity.md). The unstored remainder should stay in the source inventory, physical buffer, or on the cursor.
 
 ## Right-Click Only Gives Me One Item
 
@@ -35,7 +35,7 @@ Check all of the following:
 - Confirm that the job is enabled.
 - Confirm that the network contains its ingredients, input, and fuel.
 - Check whether the result has already reached the minimum-stock target.
-- Make sure there is free Master Chest capacity for the result.
+- Make sure there is free Master Chest [capacity](../capacity.md) for the result.
 - For Smelt jobs, use an input with a blast-furnace recipe and a valid fuel.
 
 ## A Shared Network Is Missing

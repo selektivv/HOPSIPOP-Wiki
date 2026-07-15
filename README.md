@@ -2,6 +2,10 @@
 
 Welcome to the player guide for HOPSIPOP. This wiki explains server features from a player's point of view: what they do, how to unlock them, and how to use them safely.
 
+## Core Concepts
+
+- [Capacity](capacity.md) — the shared resource behind storage limits, ranks, claims, and [Capacity](capacity.md) World upgrades.
+
 ## Categories
 
 ### 1. Master Chest
@@ -18,9 +22,9 @@ The Master Chest is HOPSIPOP's searchable network storage system. Start with the
 - [Hoppers and Physical Access Points](master-chest/hoppers.md)
 - [Troubleshooting and Safety](master-chest/troubleshooting.md)
 
-### 2. Capacity World
+### 2. [Capacity](capacity.md) World
 
-The Capacity World is HOPSIPOP's temporary mining world for earning Capacity, improving mining efficiency, working with a co-op, and operating Chunk Drills. Start with the [Capacity World overview](capacity-world/README.md), or open a specific guide:
+The [Capacity](capacity.md) World is HOPSIPOP's temporary mining world for earning [Capacity](capacity.md), improving mining efficiency, working with a [co-op](capacity-world/coop.md), and operating [Chunk Drills](capacity-world/chunk-drills.md). Start with the [Capacity World overview](capacity-world/README.md), or open a specific guide:
 
 - [Access and Getting Started](capacity-world/getting-started.md)
 - [Mining, Counters, and Rewards](capacity-world/mining-and-rewards.md)
@@ -41,4 +45,4 @@ The Capacity World is HOPSIPOP's temporary mining world for earning Capacity, im
 
 Use `/roadmap` whenever you want to see your next progression goal.
 
-After reaching Atom rank, use `/cw` to open the Capacity World menu.
+After reaching Atom rank, use `/cw` to open the [Capacity](capacity.md) World menu.

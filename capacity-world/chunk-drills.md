@@ -1,10 +1,10 @@
 # Chunk Drills
 
-A Chunk Drill automatically excavates one complete 16-by-16 chunk from top to bottom. Eligible blocks advance your Capacity World counter, and the drops produced by mined blocks are sent to your MasterChest.
+A Chunk Drill automatically excavates one complete 16-by-16 chunk from top to bottom. Eligible blocks advance your [Capacity World counter](mining-and-rewards.md), and the drops produced by mined blocks are sent to your [Master Chest](../master-chest/README.md).
 
 ## Unlocking and Crafting
 
-Buy the one-time Chunk Drill unlock from `/cw` for 500,000 Capacity. The recipe is then added to your recipe book.
+Buy the [one-time Chunk Drill unlock](upgrades.md#chunk-drill-unlock) from `/cw` for 500,000 [Capacity](../capacity.md). The recipe is then added to your recipe book.
 
 Arrange the ingredients in a crafting table as follows:
 
@@ -18,7 +18,7 @@ One drill therefore requires three Scaffolding, two Observers, one Netherite Blo
 
 ## Placing a Drill
 
-- A Chunk Drill can only be placed in the Capacity World.
+- A Chunk Drill can only be placed in the [Capacity](../capacity.md) World.
 - You may have up to four active drills at once.
 - You may place only one of your own active drills in the same chunk.
 - Place it inside the chunk you want to excavate.
@@ -30,7 +30,7 @@ Mining starts automatically after placement. The drill works from the world's hi
 
 Each eligible solid block processed by the drill adds exactly one counter point. Counter Reduction, co-op, and Counter Boost rewards still apply when a goal completes. Lucky Break does not apply to drill-mined blocks.
 
-Produced block drops are transferred directly to your MasterChest. Keep substantial free Capacity available before starting a drill. If the network has no room, transferred drops or even a returning drill may not fit safely.
+Produced block drops are transferred directly to your MasterChest. Keep substantial free [Capacity](../capacity.md) available before starting a drill. If the network has no room, transferred drops or even a returning drill may not fit safely.
 
 ## Opening Drill Management
 
@@ -49,13 +49,13 @@ The menu shows all four drill slots and the coordinates of active drills.
 - Select Collect All Drills to stop and return every active drill.
 - Breaking your placed drill stops it and drops the drill item at its location instead.
 - A drill automatically returns to your MasterChest after finishing its chunk.
-- Active drills are stopped and returned during a Capacity World reset.
+- Active drills are stopped and returned during a [Capacity World reset](world-rules-and-resets.md).
 
 Always make room in the MasterChest before collection or a reset.
 
 ## Speed Upgrades
 
-Drill speed improves automatically with Capacity rank. Higher ranks reduce the delay between mining intervals, up to the system's fastest interval.
+Drill speed improves automatically with [Capacity](../capacity.md) rank. Higher ranks reduce the delay between mining intervals, up to the system's fastest interval.
 
 The drill menu also offers permanent throughput upgrades:
 
@@ -66,7 +66,7 @@ These upgrades make every active drill process two or three blocks per interval 
 
 ## Fluid Collector
 
-Fluid Collector costs 100,000 Capacity and is enabled when first unlocked. You can toggle it in the drill menu afterward.
+Fluid Collector costs 100,000 [Capacity](../capacity.md) and is enabled when first unlocked. You can toggle it in the drill menu afterward.
 
 When enabled, a drill can collect a water or lava source block by taking one empty bucket from your MasterChest and returning the appropriate filled bucket. Flowing fluids are removed without being collected. A source block is also removed without a filled bucket if no empty bucket is available.
 

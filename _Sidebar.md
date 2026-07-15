@@ -1,6 +1,8 @@
 # HOPSIPOP Wiki
 
 - [Home](README.md)
+- Core Concepts
+  - [Capacity](capacity.md)
 - Master Chest
   - [Overview](master-chest/README.md)
   - [Getting Started](master-chest/getting-started.md)
@@ -12,7 +14,7 @@
   - [Automation](master-chest/automation.md)
   - [Hoppers](master-chest/hoppers.md)
   - [Troubleshooting](master-chest/troubleshooting.md)
-- Capacity World
+- [Capacity](capacity.md) World
   - [Overview](capacity-world/README.md)
   - [Getting Started](capacity-world/getting-started.md)
   - [Mining and Rewards](capacity-world/mining-and-rewards.md)

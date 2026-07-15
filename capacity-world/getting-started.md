@@ -2,33 +2,33 @@
 
 ## Unlocking the World
 
-Capacity World access begins at Atom rank. Open `/perks` and select Rank Overview to see your current Capacity, the live Atom requirement, and your progress toward later ranks.
+[Capacity](../capacity.md) World access begins at Atom rank. Open `/perks` and select [Rank Overview](../master-chest/capacity-and-progression.md#capacity-ranks) to see your current [Capacity](../capacity.md), the live Atom requirement, and your progress toward later ranks.
 
 Rank requirements can change as the server evolves, so the in-game menu is the reliable source for current thresholds.
 
 ## Entering the World
 
 1. Run `/cw`.
-2. Select Enter Capacity World.
+2. Select Enter [Capacity](../capacity.md) World.
 3. The server sends you to a random safe location inside the world border.
 4. Start mining eligible blocks and follow the counter shown above your hotbar.
 
-The `/shortcuts` menu also provides Capacity World access after you reach Atom rank.
+The `/shortcuts` menu also provides [Capacity](../capacity.md) World access after you reach Atom rank.
 
-## What the Capacity World Menu Contains
+## What the [Capacity](../capacity.md) World Menu Contains
 
 | Menu option | Purpose |
 | --- | --- |
-| Enter Capacity World | Teleports you to a random location in the mining world. |
-| Counter Reduction | Reduces the number of eligible blocks required for each Capacity reward. |
-| Lucky Break | Gives manually mined blocks a chance to add extra counter progress. |
-| Co-op Size | Increases the number of players allowed in your co-op. |
-| Chunk Drill | Unlocks automated chunk excavation or opens drill management after purchase. |
-| Notification Interval | Controls how often completed-goal messages appear. |
+| Enter [Capacity](../capacity.md) World | Teleports you to a random location in the mining world. |
+| [Counter Reduction](upgrades.md#counter-reduction) | Reduces the number of eligible blocks required for each [Capacity](../capacity.md) reward. |
+| [Lucky Break](upgrades.md#lucky-break) | Gives manually mined blocks a chance to add extra counter progress. |
+| [Co-op Size](upgrades.md#co-op-size) | Increases the number of players allowed in your [co-op](coop.md). |
+| [Chunk Drill](chunk-drills.md) | Unlocks automated chunk excavation or opens drill management after purchase. |
+| [Notification Interval](boosts-and-notifications.md#notification-interval) | Controls how often completed-goal messages appear. |
 
 ## Rank Benefits Inside the World
 
-Your Capacity rank automatically applies mining Haste while you are in the Capacity World:
+Your [Capacity](../capacity.md) rank automatically applies mining Haste while you are in the [Capacity](../capacity.md) World:
 
 | Rank | Haste |
 | --- | --- |
@@ -36,12 +36,12 @@ Your Capacity rank automatically applies mining Haste while you are in the Capac
 | Nova | Haste II |
 | Quasar and above | Haste III |
 
-Haste is removed when you leave the Capacity World. Skill mana abilities also last ten times longer while used inside the world.
+Haste is removed when you leave the [Capacity](../capacity.md) World. Skill mana abilities also last ten times longer while used inside the world.
 
 ## Before You Begin
 
 - Store valuables safely, even though Keep Inventory is enabled.
-- Check the reset countdown on the Capacity World scoreboard.
+- Check the reset countdown on the [Capacity](../capacity.md) World scoreboard.
 - Remember that PvP is enabled.
 - Do not build anything you expect to keep; terrain and structures are temporary.
-- Leave free MasterChest capacity before using Chunk Drills.
+- Leave free [Master Chest](../master-chest/README.md) [capacity](../capacity.md) before using [Chunk Drills](chunk-drills.md).

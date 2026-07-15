@@ -20,7 +20,7 @@ A placed Master Chest belonging to another player opens for you only if that own
 
 ## Deposits and Withdrawals
 
-The normal transfer controls work in a shared network. This means an invited player can both add and remove items. The shared network uses the owner's capacity and automation settings.
+The normal transfer controls work in a shared network. This means an invited player can both add and remove items. The shared network uses the owner's [capacity](../capacity.md) and automation settings.
 
 Always check whose network is open before shift-clicking a large inventory into it.
 

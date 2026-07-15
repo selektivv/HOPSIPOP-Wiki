@@ -1,16 +1,16 @@
-# Capacity World
+# [Capacity](../capacity.md) World
 
-The Capacity World is a temporary mining world where eligible blocks advance a mining counter. Completing the counter awards Capacity, which expands your Master Chest limit and drives Capacity-rank progression.
+The [Capacity](../capacity.md) World is a temporary mining world where eligible blocks advance a mining counter. Completing the counter awards [Capacity](../capacity.md), which expands your [Master Chest](../master-chest/README.md) limit and drives [Capacity](../capacity.md)-rank progression.
 
-The world also contains its own permanent player upgrades, co-op mining, Counter Boosts, and the Chunk Drill system. The terrain itself is temporary and is recreated on a regular reset schedule.
+The world also contains its own [permanent player upgrades](upgrades.md), [co-op mining](coop.md), [Counter Boosts](boosts-and-notifications.md), and the [Chunk Drill system](chunk-drills.md). The terrain itself is temporary and is recreated on a [regular reset schedule](world-rules-and-resets.md).
 
 ## What It Does
 
-- Awards Capacity for repeated mining goals.
+- Awards [Capacity](../capacity.md) for repeated mining goals.
 - Gives rank-based Haste while you are inside the world.
 - Supports shared mining progress through co-op groups.
 - Offers permanent Counter Reduction, Lucky Break, Co-op Size, and Chunk Drill unlocks.
-- Supports temporary Counter Boost vouchers that triple your personal Capacity reward.
+- Supports temporary Counter Boost vouchers that triple your personal [Capacity](../capacity.md) reward.
 - Lets unlocked Chunk Drills excavate complete chunks and transfer produced drops to your MasterChest.
 - Recreates the world every ten hours so fresh terrain remains available.
 
@@ -27,16 +27,16 @@ The world also contains its own permanent player upgrades, co-op mining, Counter
 
 | Command | Purpose |
 | --- | --- |
-| `/cw` | Open the Capacity World menu. |
-| `/perks` | Check your live Capacity rank, requirements, and benefits. |
-| `/coop <player>` | Invite an online player to your Capacity World co-op. |
+| `/cw` | Open the [Capacity](../capacity.md) World menu. |
+| `/perks` | Check your live [Capacity](../capacity.md) rank, requirements, and benefits. |
+| `/coop <player>` | Invite an online player to your [Capacity](../capacity.md) World co-op. |
 | `/coop decline <player>` | Decline a pending invitation. |
 | `/coop leave` | Leave your current co-op. |
 | `/chunkdrill` | Open Chunk Drill management after unlocking it. |
-| `/shortcuts` | Open the server shortcuts menu, including Capacity World access when unlocked. |
+| `/shortcuts` | Open the server shortcuts menu, including [Capacity](../capacity.md) World access when unlocked. |
 
-## The Most Important Capacity Rule
+## The Most Important [Capacity](../capacity.md) Rule
 
-Capacity World upgrades spend your actual Capacity. This is the same value used for your Master Chest storage limit and Capacity rank.
+[Capacity](../capacity.md) World upgrades spend your actual [Capacity](../capacity.md). This is the same value used for your Master Chest storage limit and [Capacity](../capacity.md) rank.
 
-Before buying an upgrade, make sure the remaining Capacity will still cover the items already stored in your MasterChest and keep the rank benefits you need. Spending Capacity never deletes stored items, but deposits can stop until your stored item count is below the reduced limit.
+Before buying an upgrade, make sure the remaining [Capacity](../capacity.md) will still cover the items already stored in your MasterChest and keep the rank benefits you need. Spending [Capacity](../capacity.md) never deletes stored items, but deposits can stop until your stored item count is below the reduced limit.

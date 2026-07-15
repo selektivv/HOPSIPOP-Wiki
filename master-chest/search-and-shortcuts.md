@@ -30,7 +30,7 @@ Chat Search checks your own network and networks shared with you. Because it rea
 
 ## Shortcuts Menu
 
-The Shortcuts button also shows the number of stored item types, the total item count, the capacity limit, and remaining free space. Its menu links to other HOPSIPOP features, including:
+The Shortcuts button also shows the number of stored item types, the total item count, the [capacity](../capacity.md) limit, and remaining free space. Its menu links to other HOPSIPOP features, including:
 
 - Claims
 - Cell Tower
@@ -41,7 +41,7 @@ The Shortcuts button also shows the number of stored item types, the total item 
 - Fishing
 - Scoreboard visibility
 - Auctions
-- Capacity World
+- [Capacity](../capacity.md) World
 
 Some shortcuts remain locked until their progression or rank requirement is met.
 

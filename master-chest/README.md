@@ -28,7 +28,7 @@ The Master Chest is your personal, searchable storage network. It stores items v
 | `/mc` | Open the network currently selected as your default. |
 | `/masterchest` | Open the Master Chest in the same way as `/mc`. |
 | `/roadmap` | View progression requirements and feature unlocks. |
-| `/playtime` | View playtime, first join date, and current item capacity. |
+| `/playtime` | View playtime, first join date, and current item [capacity](../capacity.md). |
 | `/mc guides` | Browse in-game guide books. |
 | `/mc jobs` | Open the automation menu. |
 | `/shortcuts` | Open the Master Chest shortcuts menu. |

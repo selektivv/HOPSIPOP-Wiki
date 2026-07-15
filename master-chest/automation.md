@@ -66,13 +66,13 @@ A minimum-stock value changes how a job behaves:
 - Delete jobs keep the selected amount and delete only the excess.
 - A value of zero means continuous production for processing jobs and delete-all behavior for Delete jobs.
 
-Deleting a paid processing job may refund some or all of its ten machine items. The refund percentage depends on the network owner's capacity rank.
+Deleting a paid processing job may refund some or all of its ten machine items. The refund percentage depends on the network owner's [capacity](../capacity.md) rank.
 
 ## Avoiding Conflicts
 
 - Do not create a Delete job for the output of a job you want to keep.
 - Set a sensible minimum stock to prevent endless processing.
-- Keep enough capacity free for job outputs.
+- Keep enough [capacity](../capacity.md) free for job outputs.
 - Keep required ingredients and fuel in the same network that owns the job.
 - Remember that automation in a shared network belongs to that network's owner.
 

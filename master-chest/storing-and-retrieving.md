@@ -31,7 +31,7 @@ The menu refreshes after every transfer. If your inventory cannot accept anythin
 
 ## When the Network Is Full
 
-Capacity is measured in individual items, not menu slots or item types. A stack of 64 therefore uses 64 capacity.
+[Capacity](../capacity.md) is measured in individual items, not menu slots or item types. A stack of 64 therefore uses 64 [capacity](../capacity.md).
 
 If a deposit would exceed the limit, only the amount that still fits is stored. The remainder stays on your cursor, in your inventory, or in the physical input container. Check the Shortcuts button in the main menu to see total items and free space.
 
