@@ -33,6 +33,7 @@
   - [Chunk Drills](capacity-world/chunk-drills.md)
   - [Cell Tower](tools/cell-tower.md)
   - [Lava Sponge](tools/lava-sponge.md)
+  - [Mobile Workbench](tools/mobile-workbench.md)
 - Help and Safety
   - [Storage Help](master-chest/troubleshooting.md)
   - [Mining Help](capacity-world/troubleshooting.md)

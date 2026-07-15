@@ -35,6 +35,7 @@ Move, process, craft, and collect items with connected storage tools.
 - [Chunk Drills](capacity-world/chunk-drills.md)
 - [Cell Tower](tools/cell-tower.md)
 - [Lava Sponge](tools/lava-sponge.md)
+- [Mobile Workbench](tools/mobile-workbench.md)
 
 ## Help and Safety
 

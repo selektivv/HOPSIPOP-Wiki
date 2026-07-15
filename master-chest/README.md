@@ -17,5 +17,6 @@ The network limit is your [Capacity](../capacity.md). Advanced tools such as hop
 - [Shortcuts](shortcuts.md)
 - [Shared Networks](sharing-networks.md)
 - [OmniSync](omnisync.md)
+- [Mobile Workbench](../tools/mobile-workbench.md)
 - [Hoppers](hoppers.md)
 - [Automation Jobs](automation.md)
