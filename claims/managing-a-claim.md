@@ -3,7 +3,7 @@
 Open the [Claim GUI](../claims.md) and select one of your claims.
 
 <!-- GUI-WIKI:claim-management:START -->
-![Claim management GUI with its owner controls and trust section](../assets/generated/gui/claim-management-guide.png)
+<img src="../assets/generated/gui/claim-management-guide.png" alt="Claim management GUI with its owner controls and trust section" width="100%">
 <!-- GUI-WIKI:claim-management:END -->
 
 | Control | Purpose |

@@ -3,7 +3,7 @@
 The claim owner unlocks these per-claim controls at Void [rank](../ranks.md). Open the [Claim GUI](../claims.md), select an owned claim, and choose Claim Settings.
 
 <!-- GUI-WIKI:claim-settings:START -->
-![Claim Settings GUI showing every per-claim control](../assets/generated/gui/claim-settings-guide.png)
+<img src="../assets/generated/gui/claim-settings-guide.png" alt="Claim Settings GUI showing every per-claim control" width="100%">
 <!-- GUI-WIKI:claim-settings:END -->
 
 | Setting | Default | Effect |
