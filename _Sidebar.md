@@ -31,6 +31,8 @@
   - [Automation Jobs](master-chest/automation.md)
   - [Hoppers and Access Points](master-chest/hoppers.md)
   - [Chunk Drills](capacity-world/chunk-drills.md)
+  - [Cell Tower](tools/cell-tower.md)
+  - [Lava Sponge](tools/lava-sponge.md)
 - Help and Safety
   - [Storage Help](master-chest/troubleshooting.md)
   - [Mining Help](capacity-world/troubleshooting.md)

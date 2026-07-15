@@ -10,7 +10,7 @@ Open `/perks` and select Rank Overview for live requirements. Left-click a rank 
 
 ## Important Benefits
 
-- Atom unlocks the [Capacity](capacity.md) World and grants Haste I there.
+- Atom unlocks the [Capacity](capacity.md) World, the [Cell Tower](tools/cell-tower.md) recipe, and Haste I in the mining world.
 - Nova grants Haste II and filtered Master Chest hopper output.
 - Quasar and higher grant Haste III.
 - Quasar unlocks [Chunk Drill](capacity-world/chunk-drills.md) chest-content collection.

@@ -6,6 +6,8 @@ A Chunk Drill excavates one 16-by-16 chunk from top to bottom. Eligible blocks a
 
 Buy the unlock through `/cw` for 500,000 [Capacity](../capacity.md). The recipe uses three Scaffolding, two Observers, one Netherite Block, two Pistons, and one Conduit.
 
+![Chunk Drill crafting recipe](../assets/chunk-drill-crafting.png)
+
 ## Placing a Drill
 
 - Place it only in the [Capacity](../capacity.md) World.

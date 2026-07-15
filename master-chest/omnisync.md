@@ -8,6 +8,10 @@ Keep OmniSync in your inventory. When a matching stack is used up, it can pull r
 
 ## Crafting
 
+Craft OmniSync by placing one Eye of Ender in the center and surrounding it with eight Chests.
+
+![OmniSync crafting recipe](../assets/omni-sync-crafting.png)
+
 While OmniSync is available, crafting can use missing ingredients from the linked network. Finished items still need inventory or storage space.
 
 ## Shared Network Link
