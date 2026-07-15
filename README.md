@@ -9,11 +9,11 @@ Find the feature you want to use, then follow the links inside each article to l
 
 ## Storage and Capacity
 
-Manage items, increase your storage limit, advance through ranks, and protect land.
+Manage items, increase your storage limit, advance through [ranks](ranks.md), and protect land.
 
 - [Storage Network](master-chest/README.md)
 - [Capacity](capacity.md)
-- [Ranks and Progression](master-chest/capacity-and-progression.md)
+- [Ranks](ranks.md)
 - [Claims](claims.md)
 
 ## Mining and Upgrades
@@ -21,7 +21,7 @@ Manage items, increase your storage limit, advance through ranks, and protect la
 Enter the temporary mining world, earn [Capacity](capacity.md), mine with friends, and buy permanent upgrades.
 
 - [Mining World](capacity-world/README.md)
-- [Mining and Rewards](capacity-world/mining-and-rewards.md)
+- [Counters and Rewards](capacity-world/counters.md)
 - [Co-op Mining](capacity-world/coop.md)
 - [Upgrades](capacity-world/upgrades.md)
 

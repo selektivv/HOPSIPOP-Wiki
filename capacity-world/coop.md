@@ -1,12 +1,12 @@
 # Co-op Mining
 
-A [Capacity](../capacity.md) World co-op lets a group contribute to one shared [block counter](mining-and-rewards.md). It is designed for actively mining together inside the world.
+A [Capacity](../capacity.md) World co-op lets a group contribute to one shared [counter](counters.md). It is designed for actively mining together inside the world.
 
 ## Requirements
 
 - The invited player must be online.
 - Neither player can already belong to a different co-op.
-- Both players must have enough [Co-op Size](upgrades.md#co-op-size) levels for the resulting group size.
+- Both players must have enough Co-op Size levels for the resulting group size. See [Mining Upgrades](upgrades.md#co-op-size) for the costs.
 - A group can contain no more than four players.
 
 ## Inviting a Player
@@ -22,18 +22,18 @@ To reject an invitation manually, use `/coop decline <player>`.
 
 ## Shared Counter Behavior
 
-When the first two players form a group, the player with the better Counter Reduction becomes the initial group owner. The owner's block goal becomes the shared goal. Adding a later member does not automatically replace the current owner, even if that member has a better personal goal.
+When the first two players form a group, the player with the better [Counter Reduction](counter-reduction.md) becomes the initial group owner. The owner's block goal becomes the shared goal. Adding a later member does not automatically replace the current owner, even if that member has a better personal goal.
 
-Shared progress activates while at least one other group member is online and inside the [Capacity](../capacity.md) World. If nobody else in the group is actively in the world, your mining uses your own counter and personal goal.
+Shared progress activates while at least one other group member is online and inside the [Capacity](../capacity.md) World. If nobody else in the group is actively in the world, your mining uses your own [counter](counters.md) and personal goal.
 
 When a shared goal is completed:
 
 - Every group member receives one [Capacity](../capacity.md).
 - If the player whose mining or drill completed the goal has an active [Counter Boost](boosts-and-notifications.md), that player receives three [Capacity](../capacity.md) instead.
 - The boost does not triple the other members' rewards.
-- The shared counter resets for the group.
+- The shared [counter](counters.md) resets for the group.
 
-[Lucky Break](upgrades.md#lucky-break) can accelerate shared progress when a member mines manually. [Chunk Drill](chunk-drills.md) blocks add one point each.
+[Lucky Break](lucky-break.md) can accelerate shared progress when a member mines manually. [Chunk Drill](chunk-drills.md) blocks add one point each.
 
 ## Leaving a Co-op
 
@@ -43,14 +43,14 @@ If the group owner leaves and several members remain, ownership moves to the rem
 
 ## Practical Tips
 
-- Compare Counter Reduction levels before creating the first pair.
+- Compare [Counter Reduction](counter-reduction.md) levels before creating the first pair.
 - Make sure every intended member has purchased enough Co-op Size before sending invitations.
-- Use Counter Boosts on the player doing most of the mining or operating the active drill.
+- Use [Counter Boosts](boosts-and-notifications.md) on the player doing most of the mining or operating the active drill.
 - Re-form the group after a world reset.
 
 ## Continue Learning
 
-- Review the shared [counter and reward rules](mining-and-rewards.md).
+- Review the shared [counter](counters.md) and [reward](mining-and-rewards.md) rules.
 - Increase group size through [mining upgrades](upgrades.md).
 - Understand how [Counter Boosts](boosts-and-notifications.md) reward individual members.
 - Prepare to rebuild the group after a [world reset](world-rules-and-resets.md).

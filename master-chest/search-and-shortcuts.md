@@ -34,7 +34,7 @@ The Shortcuts button also shows the number of stored item types, the total item 
 
 - Claims
 - Cell Tower
-- Perks and rank progress
+- Perks and [rank](../ranks.md) progress
 - Guides
 - Shared Chests
 - MasterPets
@@ -43,7 +43,7 @@ The Shortcuts button also shows the number of stored item types, the total item 
 - Auctions
 - [Capacity](../capacity.md) World
 
-Some shortcuts remain locked until their progression or rank requirement is met.
+Some shortcuts remain locked until their progression or [rank](../ranks.md) requirement is met.
 
 ## Portable Workbench and Ender Chest
 
@@ -57,5 +57,5 @@ These buttons open the relevant interface directly from the Master Chest menu.
 ## Continue Learning
 
 - Review all [deposit and retrieval controls](storing-and-retrieving.md).
-- See which features unlock through [ranks and progression](capacity-and-progression.md).
+- See which features unlock through [ranks](../ranks.md) and [progression](capacity-and-progression.md).
 - Learn how [OmniSync](omnisync.md) provides portable restocking and crafting access.

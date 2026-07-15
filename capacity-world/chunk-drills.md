@@ -1,10 +1,10 @@
 # Chunk Drills
 
-A Chunk Drill automatically excavates one complete 16-by-16 chunk from top to bottom. Eligible blocks advance your [Capacity World counter](mining-and-rewards.md), and the drops produced by mined blocks are sent to your [Master Chest](../master-chest/README.md).
+A Chunk Drill automatically excavates one complete 16-by-16 chunk from top to bottom. Eligible blocks advance your mining [counter](counters.md), and the drops produced by mined blocks are sent to your [Master Chest](../master-chest/README.md).
 
 ## Unlocking and Crafting
 
-Buy the [one-time Chunk Drill unlock](upgrades.md#chunk-drill-unlock) from `/cw` for 500,000 [Capacity](../capacity.md). The recipe is then added to your recipe book.
+Buy the one-time unlock from [Mining Upgrades](upgrades.md#chunk-drill-unlock) for 500,000 [Capacity](../capacity.md). The recipe is then added to your recipe book.
 
 Arrange the ingredients in a crafting table as follows:
 
@@ -28,7 +28,7 @@ Mining starts automatically after placement. The drill works from the world's hi
 
 ## Counter and Storage Behavior
 
-Each eligible solid block processed by the drill adds exactly one counter point. Counter Reduction, co-op, and Counter Boost rewards still apply when a goal completes. Lucky Break does not apply to drill-mined blocks.
+Each eligible solid block processed by the drill adds exactly one [counter](counters.md) point. [Counter Reduction](counter-reduction.md), [co-op](coop.md), and [Counter Boost](boosts-and-notifications.md) rewards still apply when a goal completes. [Lucky Break](lucky-break.md) does not apply to drill-mined blocks.
 
 Produced block drops are transferred directly to your MasterChest. Keep substantial free [Capacity](../capacity.md) available before starting a drill. If the network has no room, transferred drops or even a returning drill may not fit safely.
 
@@ -55,7 +55,7 @@ Always make room in the MasterChest before collection or a reset.
 
 ## Speed Upgrades
 
-Drill speed improves automatically with [Capacity](../capacity.md) rank. Higher ranks reduce the delay between mining intervals, up to the system's fastest interval.
+Drill speed improves automatically with your [rank](../ranks.md). Higher [ranks](../ranks.md) reduce the delay between mining intervals, up to the system's fastest interval.
 
 The drill menu also offers permanent throughput upgrades:
 
@@ -72,7 +72,7 @@ When enabled, a drill can collect a water or lava source block by taking one emp
 
 ## Chest Contents
 
-At Quasar rank or higher, the drill menu includes Global: Collect Chest Contents. Enable it before drilling chunks where generated containers may be present.
+At Quasar [rank](../ranks.md) or higher, the drill menu includes Global: Collect Chest Contents. Enable it before drilling chunks where generated containers may be present.
 
 When enabled, contents found inside containers are transferred to your MasterChest before the container block is removed. When disabled, the drill handles only the drops produced by the container block itself, so its stored contents should not be considered protected.
 
@@ -82,7 +82,7 @@ The excavated chunk becomes a full-height hole. Do not stand beneath the drill o
 
 ## Continue Learning
 
-- See how drill blocks contribute to [mining counters and rewards](mining-and-rewards.md).
+- See how drill blocks contribute to mining [counters](counters.md) and [rewards](mining-and-rewards.md).
 - Compare drill unlocks and improvements under [mining upgrades](upgrades.md).
 - Keep the receiving [storage network](../master-chest/README.md) below its [Capacity](../capacity.md) limit.
 - Follow [world reset safety](world-rules-and-resets.md) before the timer expires.

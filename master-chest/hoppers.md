@@ -14,7 +14,7 @@ Place a hopper directly below the Master Chest to pull items out of the network.
 
 ## Filtered Output
 
-Filtered output is a Nova-rank perk.
+Filtered output is a Nova [rank](../ranks.md) perk.
 
 1. Place a hopper, dispenser, or dropper within 12 blocks of your Master Chest.
 2. Attach an Item Frame to that container.

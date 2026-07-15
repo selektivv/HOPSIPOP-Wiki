@@ -2,21 +2,21 @@
 
 ## Counter Boost Vouchers
 
-A Counter Boost voucher temporarily triples the [Capacity](../capacity.md) you personally receive whenever a [block goal](mining-and-rewards.md) is completed.
+A boost voucher temporarily triples the [Capacity](../capacity.md) you personally receive whenever a [counter goal](counters.md) is completed.
 
 Activate a voucher by holding it and right-clicking. The available voucher durations are 5, 8, 10, 12, 15, 20, 25, and 30 minutes.
 
-The remaining boost time appears beside your mining counter in the action bar. The timer persists, so leaving the world or reconnecting does not pause it.
+The remaining boost time appears beside your mining [counter](counters.md) in the action bar. The timer persists, so leaving the world or reconnecting does not pause it.
 
 ## What the Boost Affects
 
 - A solo completed goal awards three [Capacity](../capacity.md) instead of one.
 - In a [co-op](coop.md), the boosted player receives three when that player's manual mining or [Chunk Drill](chunk-drills.md) completes the goal.
-- Other co-op members still receive one [Capacity](../capacity.md) each.
+- Other [co-op](coop.md) members still receive one [Capacity](../capacity.md) each.
 - The boost changes the reward, not the number of blocks required.
-- The boost works with manual mining and Chunk Drill progress.
+- The boost works with manual mining and [Chunk Drill](chunk-drills.md) progress.
 
-Use a voucher only when you are ready to mine or when your Chunk Drills are actively processing blocks, because the time continues to run.
+Use a voucher only when you are ready to mine or when your [Chunk Drills](chunk-drills.md) are actively processing blocks, because the time continues to run.
 
 ## Notification Interval
 
@@ -28,6 +28,6 @@ The setting groups earned-[Capacity](../capacity.md) notifications until the sel
 
 ## Continue Learning
 
-- Understand the underlying [mining counter and reward system](mining-and-rewards.md).
-- See how Counter Boosts behave during [co-op mining](coop.md).
+- Understand the underlying mining [counter](counters.md) and [reward](mining-and-rewards.md) system.
+- See how boosts behave during [co-op mining](coop.md).
 - Compare vouchers with permanent [mining upgrades](upgrades.md).
