@@ -1,75 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="964" height="440" viewBox="0 0 964 440">
+<svg xmlns="http://www.w3.org/2000/svg" width="964" height="360" viewBox="0 0 964 360">
     <defs>
-      <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#17242c"/><stop offset=".5" stop-color="#10171e"/><stop offset="1" stop-color="#151022"/></linearGradient>
-      <linearGradient id="cardGradient" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#19232b"/><stop offset="1" stop-color="#0e141a"/></linearGradient>
-      <linearGradient id="iconGradient" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#35444e"/><stop offset="1" stop-color="#151c23"/></linearGradient>
-      <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse"><path d="M16 0H0V16" fill="none" stroke="#94eae7" stroke-opacity=".035"/></pattern>
-      <filter id="titleShadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="2" dy="3" stdDeviation="0" flood-color="#000" flood-opacity=".65"/></filter>
+      <linearGradient id="background" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#111920"/><stop offset="1" stop-color="#10151a"/></linearGradient>
+      <linearGradient id="cardGradient" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#172128"/><stop offset="1" stop-color="#121a20"/></linearGradient>
       <style>
-        text{font-family:'Segoe UI',Arial,sans-serif}.hero{font-size:30px;font-weight:750;fill:#f1fbfb;filter:url(#titleShadow)}.subtitle{font-size:14px;fill:#a9c4c5}.brand{font-size:10px;font-weight:800;letter-spacing:2px;fill:#94eae7}.category{font-size:9px;font-weight:800;letter-spacing:1.6px;fill:#718692}.badge{font-size:9px;font-weight:800;letter-spacing:1.4px;fill:#8fa0ab}.number{font:800 11px Consolas,monospace}.label{font-size:9px;font-weight:800;letter-spacing:1.5px}.title{font-size:18px;font-weight:750;fill:#edf8f8}.body{font-size:13px;fill:#a9bec1}.footer{font-size:9px;font-weight:800;letter-spacing:1.5px;fill:#728792}
+        text{font-family:'Segoe UI',Arial,sans-serif}.hero{font-size:26px;font-weight:700;fill:#eff6f5}.subtitle{font-size:13px;fill:#9fb2b6}.category{font-size:9px;font-weight:800;letter-spacing:1.6px;fill:#759095}.label{font-size:9px;font-weight:800;letter-spacing:1.4px;fill:#91adaa}.title{font-size:17px;font-weight:700;fill:#e8f0ef}.body{font-size:12.5px;fill:#a9b9bc}
       </style>
     </defs>
-    <rect width="964" height="440" fill="url(#background)"/><rect width="964" height="440" fill="url(#grid)"/>
-    <rect x="9" y="9" width="946" height="422" fill="none" stroke="#94eae7" stroke-opacity=".2"/>
-    <path d="M18 36V18h18 M928 422h18v-18" fill="none" stroke="#94eae7" stroke-width="2"/>
-    <rect x="26" y="37" width="84" height="27" fill="#091016" stroke="#35505b"/><text x="68" y="54" text-anchor="middle" class="brand">HOPSIPOP</text>
-    <text x="26" y="82" class="category">REWARDS</text>
-    <text x="188" y="74" class="hero">Mining Reward Outcomes</text><rect x="566.4" y="65" width="7" height="7" fill="#a045ed"/><rect x="576.4" y="65" width="7" height="7" fill="#94eae7"/>
-    <text x="188" y="100" class="subtitle">The completed counter decides when Capacity is awarded.</text>
-    <rect x="837" y="37" width="100" height="26" fill="#0a0f15" stroke="#2b3943"/><text x="887" y="54" text-anchor="middle" class="badge">PLAYER GUIDE</text>
-    <line x1="26" y1="125" x2="938" y2="125" stroke="#34444f"/>
+    <rect width="964" height="360" fill="url(#background)"/>
+    <text x="26" y="34" class="category">REWARDS</text>
+    <text x="26" y="68" class="hero">Mining Reward Outcomes</text>
+    <text x="26" y="94" class="subtitle">The completed counter decides when Capacity is awarded.</text>
+    <line x1="26" y1="112" x2="938" y2="112" stroke="#2a3a42"/>
     <g>
-      <rect x="31" y="151" width="217.5" height="218" fill="#070a0d" opacity=".9"/>
-      <rect x="26" y="145" width="217.5" height="218" fill="url(#cardGradient)" stroke="#34434f"/>
-      <rect x="26" y="145" width="217.5" height="3" fill="#94eae7"/>
-      <rect x="37" y="156" width="195.5" height="1" fill="#94eae7" opacity=".35"/>
-      <text x="231.5" y="169" text-anchor="end" class="number" fill="#94eae7">01</text>
-      <rect x="42" y="166" width="70" height="70" fill="#10161c" stroke="#4a5b66"/>
-      <rect x="46" y="170" width="62" height="62" fill="url(#iconGradient)" stroke="#94eae7" stroke-opacity=".35"/>
-      <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAHlBMVEUAAAD9/6ja4uLg4nfL1ta5ycnS0gCIpKRkkJBVa2uOynhjAAAAAXRSTlMAQObYZgAAAEpJREFUeNpjwA4aoDRHJZTRrj4BwmgVhTA6SkQqQSyOUhcR10qQCkXBZMHwCSARV9NwsL6ZJaKVENVTxaHap7tDGZyVDFAwAdliAFlNENjnSBVaAAAAAElFTkSuQmCC" x="52" y="176" width="50" height="50" image-rendering="pixelated"/>
-      <text x="42" y="256" class="label" fill="#94eae7">NORMAL</text>
-      <text x="42" y="281" class="title"><tspan x="42" dy="0">One Capacity</tspan></text>
-      <text x="42" y="318" class="body"><tspan x="42" dy="0">The standard reward for one</tspan><tspan x="42" dy="18">goal.</tspan></text>
-      <rect x="233.5" y="353" width="5" height="5" fill="#94eae7" opacity=".75"/>
+      <rect x="26" y="132" width="214.5" height="190" fill="url(#cardGradient)" stroke="#293942"/>
+      <rect x="26" y="132" width="214.5" height="2" fill="#83a7a5" opacity=".8"/>
+      <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAHlBMVEUAAAD9/6ja4uLg4nfL1ta5ycnS0gCIpKRkkJBVa2uOynhjAAAAAXRSTlMAQObYZgAAAEpJREFUeNpjwA4aoDRHJZTRrj4BwmgVhTA6SkQqQSyOUhcR10qQCkXBZMHwCSARV9NwsL6ZJaKVENVTxaHap7tDGZyVDFAwAdliAFlNENjnSBVaAAAAAElFTkSuQmCC" x="42" y="151" width="44" height="44" image-rendering="pixelated"/>
+      <text x="42" y="214" class="label">NORMAL</text>
+      <text x="42" y="237" class="title"><tspan x="42" dy="0">One Capacity</tspan></text>
+      <text x="42" y="270" class="body"><tspan x="42" dy="0">The standard reward for one</tspan><tspan x="42" dy="17">goal.</tspan></text>
     </g><g>
-      <rect x="262.5" y="151" width="217.5" height="218" fill="#070a0d" opacity=".9"/>
-      <rect x="257.5" y="145" width="217.5" height="218" fill="url(#cardGradient)" stroke="#34434f"/>
-      <rect x="257.5" y="145" width="217.5" height="3" fill="#a045ed"/>
-      <rect x="268.5" y="156" width="195.5" height="1" fill="#a045ed" opacity=".35"/>
-      <text x="463" y="169" text-anchor="end" class="number" fill="#a045ed">02</text>
-      <rect x="273.5" y="166" width="70" height="70" fill="#10161c" stroke="#4a5b66"/>
-      <rect x="277.5" y="170" width="62" height="62" fill="url(#iconGradient)" stroke="#a045ed" stroke-opacity=".35"/>
-      <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAt0lEQVQ4y2NgoCX4+r///40nUWBMluZAG+b/uopMYJokQ2CaYRhkCAgTbQhIIUUGwAwBaboANYzkcIB5Ywc5BiBrLtpg9n8VKYYgaz75f+L/yA3hYEOIcglIM8jfW4GKTgPZIM2WE3zghhwgZAiy7UeAbJBm9VJrMA0yYCc0YHEaAIs+mN+RDTjwf+r/7aQagOyFE0AX7SJkADZDQBgUmDuI0YwtJcJSIQiDwoiklAjCIE0wjE0dAJs0FKvHezfcAAAAAElFTkSuQmCC" x="283.5" y="176" width="50" height="50" image-rendering="pixelated"/>
-      <text x="273.5" y="256" class="label" fill="#a045ed">BOOSTED</text>
-      <text x="273.5" y="281" class="title"><tspan x="273.5" dy="0">Three Capacity</tspan></text>
-      <text x="273.5" y="318" class="body"><tspan x="273.5" dy="0">Only the boosted player gets</tspan><tspan x="273.5" dy="18">three.</tspan></text>
-      <rect x="465" y="353" width="5" height="5" fill="#a045ed" opacity=".75"/>
+      <rect x="258.5" y="132" width="214.5" height="190" fill="url(#cardGradient)" stroke="#293942"/>
+      <rect x="258.5" y="132" width="214.5" height="2" fill="#83a7a5" opacity=".8"/>
+      <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAt0lEQVQ4y2NgoCX4+r///40nUWBMluZAG+b/uopMYJokQ2CaYRhkCAgTbQhIIUUGwAwBaboANYzkcIB5Ywc5BiBrLtpg9n8VKYYgaz75f+L/yA3hYEOIcglIM8jfW4GKTgPZIM2WE3zghhwgZAiy7UeAbJBm9VJrMA0yYCc0YHEaAIs+mN+RDTjwf+r/7aQagOyFE0AX7SJkADZDQBgUmDuI0YwtJcJSIQiDwoiklAjCIE0wjE0dAJs0FKvHezfcAAAAAElFTkSuQmCC" x="274.5" y="151" width="44" height="44" image-rendering="pixelated"/>
+      <text x="274.5" y="214" class="label">BOOSTED</text>
+      <text x="274.5" y="237" class="title"><tspan x="274.5" dy="0">Three Capacity</tspan></text>
+      <text x="274.5" y="270" class="body"><tspan x="274.5" dy="0">Only the boosted player gets</tspan><tspan x="274.5" dy="17">three.</tspan></text>
     </g><g>
-      <rect x="494" y="151" width="217.5" height="218" fill="#070a0d" opacity=".9"/>
-      <rect x="489" y="145" width="217.5" height="218" fill="url(#cardGradient)" stroke="#34434f"/>
-      <rect x="489" y="145" width="217.5" height="3" fill="#8bdaaa"/>
-      <rect x="500" y="156" width="195.5" height="1" fill="#8bdaaa" opacity=".35"/>
-      <text x="694.5" y="169" text-anchor="end" class="number" fill="#8bdaaa">03</text>
-      <rect x="505" y="166" width="70" height="70" fill="#10161c" stroke="#4a5b66"/>
-      <rect x="509" y="170" width="62" height="62" fill="url(#iconGradient)" stroke="#8bdaaa" stroke-opacity=".35"/>
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgc2hhcGUtcmVuZGVyaW5nPSJjcmlzcEVkZ2VzIj48cmVjdCB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIGZpbGw9IiMzYjI2MWIiLz48cmVjdCB4PSIyIiB5PSIyIiB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIGZpbGw9IiNiOTg1NjMiLz48cmVjdCB4PSIzIiB5PSI1IiB3aWR0aD0iMyIgaGVpZ2h0PSIyIiBmaWxsPSIjZmZmIi8+PHJlY3QgeD0iMTAiIHk9IjUiIHdpZHRoPSIzIiBoZWlnaHQ9IjIiIGZpbGw9IiNmZmYiLz48cmVjdCB4PSI0IiB5PSI1IiB3aWR0aD0iMSIgaGVpZ2h0PSIyIiBmaWxsPSIjNGE2ZDg2Ii8+PHJlY3QgeD0iMTEiIHk9IjUiIHdpZHRoPSIxIiBoZWlnaHQ9IjIiIGZpbGw9IiM0YTZkODYiLz48cmVjdCB4PSI2IiB5PSIxMCIgd2lkdGg9IjQiIGhlaWdodD0iMSIgZmlsbD0iIzdiNDgzNyIvPjxyZWN0IHg9IjIiIHk9IjEiIHdpZHRoPSIxMiIgaGVpZ2h0PSIzIiBmaWxsPSIjNDkzMDIyIi8+PC9zdmc+" x="515" y="176" width="50" height="50" image-rendering="pixelated"/>
-      <text x="505" y="256" class="label" fill="#8bdaaa">CO-OP</text>
-      <text x="505" y="281" class="title"><tspan x="505" dy="0">Reward Every Member</tspan></text>
-      <text x="505" y="318" class="body"><tspan x="505" dy="0">Active members receive the</tspan><tspan x="505" dy="18">shared result.</tspan></text>
-      <rect x="696.5" y="353" width="5" height="5" fill="#8bdaaa" opacity=".75"/>
+      <rect x="491" y="132" width="214.5" height="190" fill="url(#cardGradient)" stroke="#293942"/>
+      <rect x="491" y="132" width="214.5" height="2" fill="#83a7a5" opacity=".8"/>
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgc2hhcGUtcmVuZGVyaW5nPSJjcmlzcEVkZ2VzIj48cmVjdCB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIGZpbGw9IiMzYjI2MWIiLz48cmVjdCB4PSIyIiB5PSIyIiB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIGZpbGw9IiNiOTg1NjMiLz48cmVjdCB4PSIzIiB5PSI1IiB3aWR0aD0iMyIgaGVpZ2h0PSIyIiBmaWxsPSIjZmZmIi8+PHJlY3QgeD0iMTAiIHk9IjUiIHdpZHRoPSIzIiBoZWlnaHQ9IjIiIGZpbGw9IiNmZmYiLz48cmVjdCB4PSI0IiB5PSI1IiB3aWR0aD0iMSIgaGVpZ2h0PSIyIiBmaWxsPSIjNGE2ZDg2Ii8+PHJlY3QgeD0iMTEiIHk9IjUiIHdpZHRoPSIxIiBoZWlnaHQ9IjIiIGZpbGw9IiM0YTZkODYiLz48cmVjdCB4PSI2IiB5PSIxMCIgd2lkdGg9IjQiIGhlaWdodD0iMSIgZmlsbD0iIzdiNDgzNyIvPjxyZWN0IHg9IjIiIHk9IjEiIHdpZHRoPSIxMiIgaGVpZ2h0PSIzIiBmaWxsPSIjNDkzMDIyIi8+PC9zdmc+" x="507" y="151" width="44" height="44" image-rendering="pixelated"/>
+      <text x="507" y="214" class="label">CO-OP</text>
+      <text x="507" y="237" class="title"><tspan x="507" dy="0">Reward Every Member</tspan></text>
+      <text x="507" y="270" class="body"><tspan x="507" dy="0">Active members receive the</tspan><tspan x="507" dy="17">shared result.</tspan></text>
     </g><g>
-      <rect x="725.5" y="151" width="217.5" height="218" fill="#070a0d" opacity=".9"/>
-      <rect x="720.5" y="145" width="217.5" height="218" fill="url(#cardGradient)" stroke="#34434f"/>
-      <rect x="720.5" y="145" width="217.5" height="3" fill="#d8a35d"/>
-      <rect x="731.5" y="156" width="195.5" height="1" fill="#d8a35d" opacity=".35"/>
-      <text x="926" y="169" text-anchor="end" class="number" fill="#d8a35d">04</text>
-      <rect x="736.5" y="166" width="70" height="70" fill="#10161c" stroke="#4a5b66"/>
-      <rect x="740.5" y="170" width="62" height="62" fill="url(#iconGradient)" stroke="#d8a35d" stroke-opacity=".35"/>
-      <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAWklEQVQ4y2O48Orlf3Lxigs3/zOAGA0NDQzkYKwGkGJg9brtqAaQ6hoUA0DOIdULGC4gFXcfPEuZAQPvguFiADnxD7OULBcgqyfbBSiZCUSAMMg0GE0MhukDAIj/+eJKhLbdAAAAAElFTkSuQmCC" x="746.5" y="176" width="50" height="50" image-rendering="pixelated"/>
-      <text x="736.5" y="256" class="label" fill="#d8a35d">PROGRESS</text>
-      <text x="736.5" y="281" class="title"><tspan x="736.5" dy="0">Storage &amp; Ranks</tspan></text>
-      <text x="736.5" y="318" class="body"><tspan x="736.5" dy="0">Rewards immediately raise</tspan><tspan x="736.5" dy="18">both.</tspan></text>
-      <rect x="928" y="353" width="5" height="5" fill="#d8a35d" opacity=".75"/>
+      <rect x="723.5" y="132" width="214.5" height="190" fill="url(#cardGradient)" stroke="#293942"/>
+      <rect x="723.5" y="132" width="214.5" height="2" fill="#83a7a5" opacity=".8"/>
+      <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAWklEQVQ4y2O48Orlf3Lxigs3/zOAGA0NDQzkYKwGkGJg9brtqAaQ6hoUA0DOIdULGC4gFXcfPEuZAQPvguFiADnxD7OULBcgqyfbBSiZCUSAMMg0GE0MhukDAIj/+eJKhLbdAAAAAElFTkSuQmCC" x="739.5" y="151" width="44" height="44" image-rendering="pixelated"/>
+      <text x="739.5" y="214" class="label">PROGRESS</text>
+      <text x="739.5" y="237" class="title"><tspan x="739.5" dy="0">Storage &amp; Ranks</tspan></text>
+      <text x="739.5" y="270" class="body"><tspan x="739.5" dy="0">Rewards immediately raise</tspan><tspan x="739.5" dy="17">both.</tspan></text>
     </g>
-    <text x="26" y="400" class="footer">READ LEFT TO RIGHT</text><line x1="161" y1="396" x2="819" y2="396" stroke="#33434d"/><text x="938" y="400" text-anchor="end" class="footer">REWARDS</text>
   </svg>
