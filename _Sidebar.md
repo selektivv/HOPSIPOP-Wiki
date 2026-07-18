@@ -33,6 +33,10 @@
 - Automation and Advanced Tools
   - [OmniSync](master-chest/omnisync.md)
   - [Automation Jobs](master-chest/automation.md)
+    - [Delete Jobs](master-chest/automation-delete.md)
+    - [Craft Jobs](master-chest/automation-craft.md)
+    - [Stone Cut Jobs](master-chest/automation-stone-cut.md)
+    - [Smelt Jobs](master-chest/automation-smelt.md)
   - [Hoppers and Access Points](master-chest/hoppers.md)
   - [Chunk Drills](capacity-world/chunk-drills.md)
   - [Cell Tower](tools/cell-tower.md)
