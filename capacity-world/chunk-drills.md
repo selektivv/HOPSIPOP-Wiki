@@ -4,9 +4,22 @@ A Chunk Drill excavates one 16-by-16 chunk from top to bottom. Eligible blocks a
 
 ## Unlocking and Crafting
 
-Buy the unlock through `/cw` for 500,000 [Capacity](../capacity.md). The recipe uses three Scaffolding, two Observers, one Netherite Block, two Pistons, and one Conduit.
+Buy the one-time unlock through `/cw` for 50,000 spendable [Capacity](../capacity.md). Purchasing it reduces your spendable Capacity, unlocks the recipe, and adds that recipe to your recipe book.
+
+The recipe uses three Scaffolding, two Observers, one Netherite Block, two Pistons, and one Conduit. Only players who have purchased the unlock can craft the drill.
 
 ![Chunk Drill crafting recipe](../assets/chunk-drill-crafting.png)
+
+## Coal Consumption
+
+Each placed drill tracks its own fuel usage and removes **1 Coal from its owner's Master Chest for every 64 blocks it actually mines**.
+
+- Only regular Coal counts. Charcoal and Coal Blocks are not accepted.
+- Empty space, Bedrock, barriers, fluids, and other skipped blocks do not increase the Coal counter.
+- Every mined block counts separately, including all blocks mined in one upgraded multi-block interval.
+- After a mining interval brings the counter to 64 or more, the drill attempts to remove one Coal. Blocks beyond 64 in an upgraded multi-block interval remain counted toward the next Coal.
+- If no Coal is available, it pauses before selecting more blocks. It checks again automatically and resumes when Coal becomes available.
+- `/chunkdrill` shows whether each drill is mining or paused and displays the owner's current Coal stock.
 
 ## Placing a Drill
 
@@ -26,7 +39,9 @@ A finished drill and drills caught by a [World Reset](resets.md) return to the M
 ## Upgrades
 
 - Double Mining costs 10 Netherite Blocks.
-- Triple Mining costs 20 more Netherite Blocks.
+- Triple Mining costs another 20 Netherite Blocks.
+- Quadruple Mining costs another 30 Netherite Blocks.
+- Quintuple Mining costs another 45 Netherite Blocks.
 - Fluid Collector costs 100,000 [Capacity](../capacity.md) and consumes empty buckets for water or lava source blocks.
 - Quasar [rank](../ranks.md) unlocks chest-content collection.
 
