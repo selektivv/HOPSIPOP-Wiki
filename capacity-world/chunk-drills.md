@@ -50,6 +50,9 @@ The drill sweeps across each layer before descending to the next one. Mining upg
 
 Each drill consumes **one fuel item after every 64 blocks it actually mines**. The owner cycles through four global fuel modes in `/chunkdrill`:
 
+<img width="691" height="423" alt="image" src="https://github.com/user-attachments/assets/4f023c9c-7144-4182-9018-94a8cc2e2b40" />
+
+
 - **Coal** is the default.
 - **Charcoal** uses only Charcoal.
 - **Both (Coal first)** consumes Coal when available and falls back to Charcoal.
@@ -78,6 +81,8 @@ When excavation finishes, the drill removes itself and returns to the owner's ne
 ## Upgrades and Global Settings
 
 Mining Speed and Drill Fortune upgrades must each be purchased in order. Mining Speed removes Netherite and Diamond Blocks from the Master Chest network; Drill Fortune spends spendable Capacity. Every upgrade and setting applies to all of the player's drills.
+
+<img width="518" height="377" alt="image" src="https://github.com/user-attachments/assets/93b62ec3-3e2f-4e60-a097-934505316933" />
 
 | Setting | Cost | Effect |
 | --- | ---: | --- |
