@@ -2,9 +2,8 @@
 
 The owner of a claim unlocks these per-claim controls at Void [rank](../ranks.md). Open the [Claim GUI](../claims.md), select an owned claim, then choose Claim Settings. Click a setting to change it; changes apply immediately.
 
-<!-- GUI-WIKI:claim-settings:START -->
-![Claim Settings GUI showing every per-claim control](../assets/generated/gui/claim-settings-guide.svg)
-<!-- GUI-WIKI:claim-settings:END -->
+<img width="504" height="372" alt="image" src="https://github.com/user-attachments/assets/9ae5d81c-6ead-4e1d-ad75-593b12cbde9e" />
+
 
 ## Mob Spawning
 
