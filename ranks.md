@@ -16,9 +16,8 @@ Open `/perks` and select Rank Overview for live requirements. Left-click a rank 
 
 - Atom unlocks the [Capacity](capacity.md) World, the [Cell Tower](tools/cell-tower.md) recipe, and Haste I in the mining world.
 - Nova grants Haste II and filtered Master Chest hopper output.
-- Quasar and higher grant Haste III.
+- Quasar and higher grant Haste III and unlock per-claim [Claim Settings](claims/settings.md).
 - Quasar unlocks [Chunk Drill](capacity-world/chunk-drills.md) chest-content collection.
-- Void unlocks per-claim [Claim Settings](claims/settings.md).
 - Higher ranks improve [Chunk Drill](capacity-world/chunk-drills.md) speed until the fastest interval is reached.
 
 Requirements and additional perks may change, so `/perks` is the current source of truth.
