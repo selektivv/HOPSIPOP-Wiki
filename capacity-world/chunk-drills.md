@@ -6,6 +6,9 @@ A Chunk Drill automatically excavates one 16-by-16 chunk in the Capacity World. 
 
 Buy the one-time Chunk Drill upgrade through `/cw` for **50,000 spendable [Capacity](../capacity.md)**. The purchase reduces your spendable Capacity, unlocks the item, and discovers its recipe.
 
+<img width="1074" height="458" alt="image" src="https://github.com/user-attachments/assets/b49be69b-fba3-4178-954d-9e335d99af0c" />
+
+
 The shaped recipe is:
 
 - Top row: three Scaffolding.
