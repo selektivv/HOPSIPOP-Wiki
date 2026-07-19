@@ -10,7 +10,13 @@ A Counter Boost temporarily changes your personal reward from one to three [Capa
 
 Hold the voucher and right-click it. Available durations are 5, 8, 10, 12, 15, 20, 25, and 30 minutes.
 
+<img width="588" height="149" alt="image" src="https://github.com/user-attachments/assets/25011d59-394d-4b61-b0bc-de42da33d752" />
+
+
 The timer continues while you are outside the world or offline. Use a voucher only when you or your [Chunk Drills](chunk-drills.md) are ready to mine.
+
+<img width="565" height="59" alt="image" src="https://github.com/user-attachments/assets/7d542f32-eb99-4b1d-91c7-195b63f0d751" />
+
 
 ## Reward Behavior
 
