@@ -12,10 +12,20 @@ A Smelt Job runs one blast-furnace recipe with a selected fuel stored in the job
 
 1. Open `/mc jobs`.
 2. Select the **Smelt Jobs** tab.
+   <img width="652" height="377" alt="image" src="https://github.com/user-attachments/assets/3d914ce7-6c77-4801-aa78-4afa91239294" />
+
 3. Click **Add Smelt Job** in the top-right corner.
+   <img width="1381" height="371" alt="image" src="https://github.com/user-attachments/assets/6fa3aae1-ce1e-43bf-bf99-45661229353e" />
+
 4. Place the item to process in the upper-left input slot.
+   <img width="515" height="375" alt="image" src="https://github.com/user-attachments/assets/4ffd6287-bca0-445c-b840-bdea4715ecbc" />
+
 5. Place the chosen fuel in the lower-left fuel slot.
+   <img width="510" height="379" alt="image" src="https://github.com/user-attachments/assets/2a0dac6c-c45a-4a3c-86ad-f542abb22d51" />
+
 6. Confirm the output preview and press **Save**.
+    <img width="872" height="381" alt="image" src="https://github.com/user-attachments/assets/60948c90-bfb6-4960-925d-be03ec093c64" />
+
 
 The menu accepts only a registered **blasting** recipe. Regular furnace, smoker, and campfire recipes are not used unless the same input also has a blasting recipe. If multiple blasting recipes match, the first registered match supplies the preview and saved output.
 
