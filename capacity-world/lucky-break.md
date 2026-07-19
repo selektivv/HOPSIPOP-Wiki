@@ -12,6 +12,9 @@ Open `/cw` and select Lucky Break. The first level costs 1,000 [Capacity](../cap
 
 Purchases are permanent and not refunded.
 
+<img width="1230" height="478" alt="image" src="https://github.com/user-attachments/assets/9f294c01-11f1-48c2-b55c-22e1c879b6ff" />
+
+
 ## Limits
 
 - A trigger can still roll one point.
