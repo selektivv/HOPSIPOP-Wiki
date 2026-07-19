@@ -12,10 +12,20 @@ A Stone Cut Job converts a stored input into one selected stonecutter output. It
 
 1. Open `/mc jobs`.
 2. Select the **Stone Cut Jobs** tab.
+   <img width="620" height="374" alt="image" src="https://github.com/user-attachments/assets/01b77d9b-b66e-4d93-9e4d-7f100169c9e8" />
+
 3. Click **Add Stone Cut Job** in the top-right corner.
+   <img width="1268" height="371" alt="image" src="https://github.com/user-attachments/assets/b236af7c-a9e8-4187-9a54-42080c73126f" />
+
 4. Place the input sample in the slot on the left.
+   <img width="512" height="375" alt="image" src="https://github.com/user-attachments/assets/9c1e4cd1-487b-4ad8-b9d3-eaba5d9f33a0" />
+
 5. Click the desired output shown on the right.
+   <img width="936" height="374" alt="image" src="https://github.com/user-attachments/assets/8d764158-2b5d-4d97-aa30-d6ddfa88f2f0" />
+
 6. Press **Save**.
+    <img width="940" height="371" alt="image" src="https://github.com/user-attachments/assets/11b59685-cef6-4aa8-a2e1-a134ac66a66b" />
+
 
 The menu searches the server's registered stonecutting recipes for that input and displays up to the first nine results. Saving verifies that the selected output material still has a valid stonecutting recipe for the input.
 
