@@ -6,6 +6,7 @@ A Delete Job continuously removes one selected item material from the job owner'
 
 1. Open `/mc jobs`.
 2. Select the **Delete Jobs** tab.
+
    <img width="613" height="378" alt="image" src="https://github.com/user-attachments/assets/a2cdf31e-4888-47c6-8016-f3371c187477" />
 
 3. Click **Add Delete Job** in the top-right corner.
@@ -15,6 +16,7 @@ A Delete Job continuously removes one selected item material from the job owner'
    <img width="600" height="273" alt="image" src="https://github.com/user-attachments/assets/fd2872fc-164a-43f8-ab36-0107cddfde98" />
 
 5. Press **Save**.
+
    <img width="894" height="270" alt="image" src="https://github.com/user-attachments/assets/f2f37a8d-4aad-42d7-b307-b1111877955e" />
 
 
