@@ -1,14 +1,20 @@
 # Counters
 
-The mining counter tracks eligible blocks toward a [Capacity](../capacity.md) reward. The default goal is ten points.
-
 <!-- ARTICLE-VISUAL:counters:START -->
 ![Mining counter progress and Capacity reward flow](../assets/generated/guides/counters.svg)
 <!-- ARTICLE-VISUAL:counters:END -->
 
+The mining counter tracks eligible blocks toward a [Capacity](../capacity.md) reward. The default goal is ten points.
+
+<img width="415" height="85" alt="image" src="https://github.com/user-attachments/assets/10326c23-03eb-4f5d-93bb-5cefcf552d42" />
+
+
 ## Progress
 
 - A normally mined eligible block adds one point.
+  
+  <img width="415" height="85" alt="image" src="https://github.com/user-attachments/assets/79ef8ca0-7311-4162-b207-751ea3e5af45" />
+
 - [Lucky Break](lucky-break.md) can add one to five points from a manual block.
 - A [Chunk Drill](chunk-drills.md) adds one point per eligible block.
 - Cobblestone, Basalt, air, fluids, Bedrock, barriers, and cancelled breaks do not count.
