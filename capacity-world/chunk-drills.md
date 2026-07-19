@@ -37,8 +37,14 @@ The drill sweeps across each layer before descending to the next one. Mining upg
 - Every other selected block is removed, its server-defined drops are sent to the owner's network, and one block is added to both the Capacity counter and the drill's fuel counter.
 - Without a Drill Fortune upgrade, drops use the server's default no-tool calculation. Blocks that require a suitable pickaxe may therefore produce no item.
 - With Drill Fortune unlocked, drops are calculated using a virtual Netherite Pickaxe with the purchased Fortune level. This supplies the correct tool tier for ores and applies Fortune where the block supports it.
+
+<img width="1121" height="390" alt="image" src="https://github.com/user-attachments/assets/b3f2155a-021b-4dda-8fc4-8044cc0ba39c" />
+
 - [Lucky Break](lucky-break.md) is not applied to drill progress or drops. Drill Fortune is a separate upgrade.
 - Container contents are transferred separately only while **Collect Chest Contents** is enabled. The container block's own drop is handled normally.
+
+<img width="1099" height="375" alt="image" src="https://github.com/user-attachments/assets/3009faae-a1e4-4ed6-bae6-338634feebb4" />
+
 
 ## Fuel Consumption
 
