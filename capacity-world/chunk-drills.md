@@ -12,9 +12,9 @@ The shaped recipe is:
 - Middle row: Observer, Diamond Block, Observer.
 - Bottom row: Piston, Conduit, Piston.
 
-Only players with the upgrade can craft or place a Chunk Drill. The recipient also needs the upgrade to receive one through player trading or the Marketplace, and players without it cannot pick up a dropped drill.
-
 <img width="1700" height="402" alt="Chunk Drill crafting recipe" src="https://github.com/user-attachments/assets/1c533efb-cc53-449c-97b3-67aba7224731" />
+
+Only players with the upgrade can craft or place a Chunk Drill. The recipient also needs the upgrade to receive one through player trading or the Marketplace, and players without it cannot pick up a dropped drill.
 
 ## Placing a Drill
 
