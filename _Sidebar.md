@@ -16,6 +16,8 @@
   - [Claims](claims.md)
     - [Create and Resize](claims/creating-and-resizing.md)
     - [Manage a Claim](claims/managing-a-claim.md)
+    - [Rename a Claim](claims/renaming-a-claim.md)
+    - [Custom Claim Icons](claims/custom-claim-icons.md)
     - [Trust Levels](claims/trust-levels.md)
     - [Claim Settings](claims/settings.md)
   - [Sharing Networks](master-chest/sharing-networks.md)

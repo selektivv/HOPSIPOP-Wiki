@@ -18,5 +18,7 @@ Click a claim to open its management view. Back returns to Shortcuts.
 
 - [Create or Resize a Claim](claims/creating-and-resizing.md)
 - [Manage a Claim](claims/managing-a-claim.md)
+- [Rename a Claim](claims/renaming-a-claim.md)
+- [Set a Custom Claim Icon](claims/custom-claim-icons.md)
 - [Manage Trust](claims/trust-levels.md)
 - [Configure Claim Settings](claims/settings.md)
