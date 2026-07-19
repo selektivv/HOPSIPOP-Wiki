@@ -9,8 +9,7 @@ Open the [Claim GUI](../claims.md) and select one of your claims.
 
 | Control | Purpose |
 | --- | --- |
-| Claim Info | <img width="700" height="369" alt="image" src="https://github.com/user-attachments/assets/c4edcec0-5eec-4672-8a50-3a400e18ef00" />
-Shows boundaries and area. Click it to enter a name of up to 32 characters; enter `reset` to restore the default name. |
+| Claim Info | <img width="700" height="369" alt="image" src="https://github.com/user-attachments/assets/c4edcec0-5eec-4672-8a50-3a400e18ef00" /> Shows boundaries and area. Click it to enter a name of up to 32 characters; enter `reset` to restore the default name. |
 | Teleport to Claim | Teleports you to the surface at the center of the claim. |
 | Set Custom Icon | Accepts a skull texture value from [minecraft-heads.com](https://minecraft-heads.com/) through chat; enter `reset` to restore the default icon. |
 | Delete Claim | Shift-click to delete permanently and refund [Capacity](../capacity.md) equal to the claim area. |
