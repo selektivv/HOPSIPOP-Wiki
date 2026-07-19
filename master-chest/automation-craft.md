@@ -12,6 +12,7 @@ A Craft Job repeatedly runs one shaped or shapeless crafting recipe using ingred
 
 1. Open `/mc jobs`.
 2. Select the **Craft Jobs** tab.
+
    <img width="507" height="376" alt="image" src="https://github.com/user-attachments/assets/52cc089e-8fec-4936-9788-eec93a077b50" />
    
 3. Click **Add Craft Job** in the top-right corner.
@@ -24,6 +25,7 @@ A Craft Job repeatedly runs one shaped or shapeless crafting recipe using ingred
    <img width="826" height="382" alt="image" src="https://github.com/user-attachments/assets/68f91839-14ea-48a4-983c-48600c9e3cd5" />
    
 6. Press **Save**.
+
    <img width="858" height="387" alt="image" src="https://github.com/user-attachments/assets/2cb10036-f650-4e6e-aa47-ba2a5e694295" />
 
 
