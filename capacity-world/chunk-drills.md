@@ -6,7 +6,7 @@ A Chunk Drill excavates one 16-by-16 chunk from top to bottom. Eligible blocks a
 
 Buy the one-time unlock through `/cw` for 50,000 spendable [Capacity](../capacity.md). Purchasing it reduces your spendable Capacity, unlocks the recipe, and adds that recipe to your recipe book.
 
-The recipe uses three Scaffolding, two Observers, one Netherite Block, two Pistons, and one Conduit. Only players who have purchased the unlock can craft the drill.
+The recipe uses three Scaffolding, two Observers, one Diamond Block, two Pistons, and one Conduit. Only players who have purchased the unlock can craft the drill.
 
 <img width="1700" height="402" alt="Screenshot 2026-07-19 164806" src="https://github.com/user-attachments/assets/1c533efb-cc53-449c-97b3-67aba7224731" />
 
