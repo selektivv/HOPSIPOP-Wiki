@@ -8,7 +8,8 @@ Buy the one-time unlock through `/cw` for 50,000 spendable [Capacity](../capacit
 
 The recipe uses three Scaffolding, two Observers, one Netherite Block, two Pistons, and one Conduit. Only players who have purchased the unlock can craft the drill.
 
-![Chunk Drill crafting recipe](../assets/chunk-drill-crafting.png)
+<img width="1700" height="402" alt="Screenshot 2026-07-19 164806" src="https://github.com/user-attachments/assets/1c533efb-cc53-449c-97b3-67aba7224731" />
+
 
 ## Coal Consumption
 
