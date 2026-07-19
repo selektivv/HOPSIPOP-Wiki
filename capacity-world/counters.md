@@ -13,7 +13,7 @@ The mining counter tracks eligible blocks toward a [Capacity](../capacity.md) re
 
 - A normally mined eligible block adds one point.
   
-  <img width="415" height="85" alt="image" src="https://github.com/user-attachments/assets/79ef8ca0-7311-4162-b207-751ea3e5af45" />
+<img width="415" height="85" alt="image" src="https://github.com/user-attachments/assets/79ef8ca0-7311-4162-b207-751ea3e5af45" />
 
 - [Lucky Break](lucky-break.md) can add one to five points from a manual block.
 - A [Chunk Drill](chunk-drills.md) adds one point per eligible block.
