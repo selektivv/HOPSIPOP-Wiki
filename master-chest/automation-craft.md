@@ -14,16 +14,16 @@ A Craft Job repeatedly runs one shaped or shapeless crafting recipe using ingred
 2. Select the **Craft Jobs** tab.
    <img width="507" height="376" alt="image" src="https://github.com/user-attachments/assets/52cc089e-8fec-4936-9788-eec93a077b50" />
    
-3. Click **Add Craft Job** in the top-right corner.
+4. Click **Add Craft Job** in the top-right corner.
    <img width="1188" height="379" alt="image" src="https://github.com/user-attachments/assets/20b4ed33-f9a7-4e6f-a393-e9312aebade1" />
    
-4. Reproduce the recipe in the 3x3 grid. Each occupied slot uses one sample item from the cursor.
+5. Reproduce the recipe in the 3x3 grid. Each occupied slot uses one sample item from the cursor.
    <img width="572" height="582" alt="image" src="https://github.com/user-attachments/assets/a91678e6-afb0-42c1-be79-4f271bc25ef8" />
    
-5. Check the result preview.
+6. Check the result preview.
    <img width="826" height="382" alt="image" src="https://github.com/user-attachments/assets/68f91839-14ea-48a4-983c-48600c9e3cd5" />
    
-6. Press **Save**.
+7. Press **Save**.
     <img width="858" height="387" alt="image" src="https://github.com/user-attachments/assets/2cb10036-f650-4e6e-aa47-ba2a5e694295" />
 
 
