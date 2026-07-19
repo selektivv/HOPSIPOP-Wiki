@@ -37,9 +37,6 @@ The drill sweeps across each layer before descending to the next one. Mining upg
 - Every other selected block is removed, its server-defined drops are sent to the owner's network, and one block is added to both the Capacity counter and the drill's fuel counter.
 - Without a Drill Fortune upgrade, drops use the server's default no-tool calculation. Blocks that require a suitable pickaxe may therefore produce no item.
 - With Drill Fortune unlocked, drops are calculated using a virtual Netherite Pickaxe with the purchased Fortune level. This supplies the correct tool tier for ores and applies Fortune where the block supports it.
-
-<img width="1121" height="390" alt="image" src="https://github.com/user-attachments/assets/b3f2155a-021b-4dda-8fc4-8044cc0ba39c" />
-
 - [Lucky Break](lucky-break.md) is not applied to drill progress or drops. Drill Fortune is a separate upgrade.
 - Container contents are transferred separately only while **Collect Chest Contents** is enabled. The container block's own drop is handled normally.
 
@@ -68,11 +65,19 @@ After a plugin or server restart, the scan begins at the top again and skips the
 
 Open the management menu with `/chunkdrill`, by clicking the unlocked Chunk Drill entry in `/cw`, by left-clicking while holding a drill, or by interacting with your placed drill model.
 
+<img width="518" height="377" alt="image" src="https://github.com/user-attachments/assets/93b62ec3-3e2f-4e60-a097-934505316933" />
+
 The menu provides these actions:
 
 - **Left-click a drill:** Teleport to it.
 - **Right-click a drill:** Pick it up and return it to the Master Chest.
+  
+<img width="1004" height="516" alt="image" src="https://github.com/user-attachments/assets/e29d9699-7b93-4cb3-abcf-6f0a4337807c" />
+
 - **Collect All Drills:** Pick up all of your active drills and return them to the Master Chest.
+  
+<img width="953" height="380" alt="image" src="https://github.com/user-attachments/assets/98a45f24-f902-4fdc-8dfe-446877782bdf" />
+
 - **Drill Fuel:** Cycle through Coal, Charcoal, Both with Coal first, and Both with Charcoal first.
 - **Mining Speed, Fluid Collector, Collect Chest Contents, and Drill Fortune:** Manage the global upgrades and settings described below. Drill Fortune appears at Void rank and higher.
 
@@ -81,8 +86,6 @@ When excavation finishes, the drill removes itself and returns to the owner's ne
 ## Upgrades and Global Settings
 
 Mining Speed and Drill Fortune upgrades must each be purchased in order. Mining Speed removes Netherite and Diamond Blocks from the Master Chest network; Drill Fortune spends spendable Capacity. Every upgrade and setting applies to all of the player's drills.
-
-<img width="518" height="377" alt="image" src="https://github.com/user-attachments/assets/93b62ec3-3e2f-4e60-a097-934505316933" />
 
 | Setting | Cost | Effect |
 | --- | ---: | --- |
@@ -98,7 +101,11 @@ Mining Speed and Drill Fortune upgrades must each be purchased in order. Mining 
 
 Fluid Collector is enabled when purchased. For each water or lava source block, it removes one empty Bucket from the network and stores the matching filled Bucket. Flowing fluid is always cleared. If no empty Bucket is available, the source block is cleared without being collected.
 
+<img width="922" height="380" alt="image" src="https://github.com/user-attachments/assets/9c6b3f9a-f24d-499f-8d4e-f783d202ae5d" />
+
 The Drill Fortune button is only available at Void rank or higher. Purchased levels are permanent, global upgrades and cost **850,000 Capacity in total** through Fortune III.
+
+<img width="1121" height="390" alt="image" src="https://github.com/user-attachments/assets/b3f2155a-021b-4dda-8fc4-8044cc0ba39c" />
 
 The player's current [rank](../ranks.md) controls the delay between mining intervals. The interval is 10 server ticks at Atom and decreases by one tick per rank until it reaches the minimum of 1 tick at Multiversal; Omniversal and Apex remain at that minimum. Mining Speed upgrades change the number of blocks handled during each interval, not the interval itself.
 
