@@ -11,6 +11,7 @@
   - [Item Categories](master-chest/categories.md)
   - [Shortcuts](master-chest/shortcuts.md)
   - [Capacity](capacity.md)
+  - [Daily Events](daily-events.md)
   - [Ranks](ranks.md)
   - [Progression and Unlocks](master-chest/capacity-and-progression.md)
   - [Claims](claims.md)

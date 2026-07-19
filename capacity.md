@@ -14,7 +14,7 @@ Capacity is both your Master Chest item limit and the resource used for [ranks](
 
 ## Earning Capacity
 
-Capacity comes from progression activities, voting rewards, events, eligible mob kills, and repeatable mining [counter](capacity-world/counters.md) goals.
+Capacity comes from progression activities, voting rewards, [Daily Events](daily-events.md), eligible mob kills, and repeatable mining [counter](capacity-world/counters.md) goals.
 
 ## Spending Capacity
 
@@ -27,5 +27,6 @@ Before spending, check free storage and the next [rank](ranks.md) requirement.
 ## Continue Learning
 
 - [Storage Network](master-chest/README.md)
+- [Daily Events](daily-events.md)
 - [Ranks](ranks.md)
 - [Mining Rewards](capacity-world/mining-and-rewards.md)
