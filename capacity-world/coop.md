@@ -10,6 +10,8 @@ A co-op lets active players share one mining [counter](counters.md) goal inside 
 
 Both the inviter and invited player must support the resulting size.
 
+<img width="1345" height="491" alt="image" src="https://github.com/user-attachments/assets/e1025519-e231-4e2b-a828-07f9f168f420" />
+
 | Maximum players | Upgrade cost |
 | --- | ---: |
 | 2 | 5,000 [Capacity](../capacity.md) |
