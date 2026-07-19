@@ -9,19 +9,13 @@ Open the [Claim GUI](../claims.md) and select one of your claims.
 
 | Control | Purpose |
 | --- | --- |
-| Claim Info | <img width="700" height="369" alt="image" src="https://github.com/user-attachments/assets/c4edcec0-5eec-4672-8a50-3a400e18ef00" /> Shows boundaries and area. Click it to enter a name of up to 32 characters; enter `reset` to restore the default name. |
-| Teleport to Claim | <img width="803" height="368" alt="image" src="https://github.com/user-attachments/assets/578ca6ff-c346-4aec-b647-53ca4d981d19" />
-Teleports you to the surface at the center of the claim. |
-| Set Custom Icon <img width="715" height="368" alt="image" src="https://github.com/user-attachments/assets/70ec7e6f-fa1c-4c33-8599-199d7278ec29" />
-| Accepts a skull texture value from [minecraft-heads.com](https://minecraft-heads.com/) through chat; enter `reset` to restore the default icon. |
-| Delete Claim | <img width="836" height="371" alt="image" src="https://github.com/user-attachments/assets/18b4d39b-90b3-4ae1-bbda-d0e2a46b80f4" />
- Shift-click to delete permanently and refund [Capacity](../capacity.md) equal to the claim area. |
-| [Claim Settings](settings.md) | <img width="603" height="490" alt="image" src="https://github.com/user-attachments/assets/2ddd71bf-ff33-4bf5-a9d9-6fe67f576373" />
-Opens the per-claim controls for an owner with Void [rank](../ranks.md). |
-| [Trusted Players](trust-levels.md) | <img width="513" height="384" alt="image" src="https://github.com/user-attachments/assets/0c41d640-5dfe-463d-acd2-32e910b3ca3b" />
-Shows and edits existing trust entries. |
-| Back | <img width="507" height="370" alt="image" src="https://github.com/user-attachments/assets/f7e8128b-fe0b-4743-ae3d-d7275abb18de" />
-Returns to the claims list. |
+| Claim Info | <img width="700" height="369" alt="image" src="https://github.com/user-attachments/assets/c4edcec0-5eec-4672-8a50-3a400e18ef00" /><br>Shows boundaries and area. Click it to enter a name of up to 32 characters; enter `reset` to restore the default name. |
+| Teleport to Claim | <img width="803" height="368" alt="image" src="https://github.com/user-attachments/assets/578ca6ff-c346-4aec-b647-53ca4d981d19" /><br>Teleports you to the surface at the center of the claim. |
+| Set Custom Icon | <img width="715" height="368" alt="image" src="https://github.com/user-attachments/assets/70ec7e6f-fa1c-4c33-8599-199d7278ec29" /><br>Accepts a skull texture value from [minecraft-heads.com](https://minecraft-heads.com/) through chat; enter `reset` to restore the default icon. |
+| Delete Claim | <img width="836" height="371" alt="image" src="https://github.com/user-attachments/assets/18b4d39b-90b3-4ae1-bbda-d0e2a46b80f4" /><br>Shift-click to delete permanently and refund [Capacity](../capacity.md) equal to the claim area. |
+| [Claim Settings](settings.md) | <img width="603" height="490" alt="image" src="https://github.com/user-attachments/assets/2ddd71bf-ff33-4bf5-a9d9-6fe67f576373" /><br>Opens the per-claim controls for an owner with Void [rank](../ranks.md). |
+| [Trusted Players](trust-levels.md) | <img width="513" height="384" alt="image" src="https://github.com/user-attachments/assets/0c41d640-5dfe-463d-acd2-32e910b3ca3b" /><br>Shows and edits existing trust entries. |
+| Back | <img width="507" height="370" alt="image" src="https://github.com/user-attachments/assets/f7e8128b-fe0b-4743-ae3d-d7275abb18de" /><br>Returns to the claims list. |
 
 ## Permissions
 
