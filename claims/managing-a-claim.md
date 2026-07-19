@@ -2,9 +2,8 @@
 
 Open the [Claim GUI](../claims.md) and select one of your claims.
 
-<!-- GUI-WIKI:claim-management:START -->
-![Claim management GUI with its owner controls and trust section](../assets/generated/gui/claim-management-guide-v2.png)
-<!-- GUI-WIKI:claim-management:END -->
+<img width="527" height="375" alt="image" src="https://github.com/user-attachments/assets/25313d53-251a-4edc-8451-f9c6c797b21a" />
+
 
 ## Controls
 
