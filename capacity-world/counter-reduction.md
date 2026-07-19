@@ -8,6 +8,8 @@ Counter Reduction permanently lowers the eligible blocks required to complete on
 
 ## Levels and Costs
 
+<img width="1103" height="459" alt="image" src="https://github.com/user-attachments/assets/f3431eac-39b2-4787-ac5b-87a16bb06380" />
+
 | New goal | Cost |
 | --- | ---: |
 | 9 | 100,000 [Capacity](../capacity.md) |
@@ -21,8 +23,6 @@ Counter Reduction permanently lowers the eligible blocks required to complete on
 | 1 | 656,100,000 [Capacity](../capacity.md) |
 
 Each row is the price of that step. Open `/cw` to purchase it. Purchases are permanent and not refunded.
-
-<img width="1103" height="459" alt="image" src="https://github.com/user-attachments/assets/f3431eac-39b2-4787-ac5b-87a16bb06380" />
 
 The lower goal applies to manual mining and [Chunk Drills](chunk-drills.md). In a new [co-op](coop.md), the player with the lower goal becomes the initial group owner.
 
