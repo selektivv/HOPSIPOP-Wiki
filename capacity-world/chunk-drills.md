@@ -28,7 +28,7 @@ Only players with the upgrade can craft or place a Chunk Drill. The recipient al
 
 The drill starts immediately after placement. Active drills are saved and resume after a server restart. Mining does not depend on the owner being online or on any player being nearby.
 
-The placed drill uses the same elegant visual language as the Tinkerer Table: a thin floating flight deck, open frame construction, black glass, fine cyan light lines, and restrained gold accents. A visible energy core and compact rotary head occupy the open centre. Two separate blade-shaped hover bodies float beside the deck on illuminated twin struts, while a gently curved five-panel screen shows only **CHUNKDRILL**. The model and its collision move with the current mining position.
+The placed drill uses the same elegant visual language as the Tinkerer Table: a thin floating flight deck, open frame construction, black glass, fine cyan light lines, and restrained gold accents. A visible energy core and compact rotary head occupy the open centre. Two separate blade-shaped hover bodies float beside the deck on illuminated twin struts, while a gently curved five-panel screen shows a large **CHUNKDRILL** label and no other text. The model and its collision move with the current mining position.
 
 ## What Gets Mined
 
