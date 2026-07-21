@@ -16,7 +16,7 @@ Arrange the ingredients in a Crafting Table as follows:
 
 The table faces the player when placed. Its compact body is **3 blocks wide, 1 block deep, and 2 blocks high**. Placement is cancelled unless that complete 3-by-1-by-2 space is clear.
 
-The finished workstation uses six invisible Barrier blocks as a clickable 3-by-2 front. The detailed console, screens, controls, and frame are display entities fitted inside that space. Its position and orientation persist across server restarts.
+The finished workstation uses six invisible Barrier blocks as a clickable 3-by-2 front. A slim display-entity frame, open supports, a gently angled console, and three text-free screens are fitted inside that space. Each screen is assembled from subtly rotated segments to create a light curve without making the workstation bulky. Its position and orientation persist across server restarts.
 
 ## Opening the Interface
 
