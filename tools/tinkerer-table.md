@@ -18,6 +18,16 @@ The table faces the player when placed. Its compact body is **3 blocks wide, 1 b
 
 The finished workstation uses six invisible Barrier blocks as a clickable 3-by-2 front. A slim display-entity frame, open supports, a gently angled console, and three text-free screens are fitted inside that space. Each screen is assembled from subtly rotated segments to create a light curve without making the workstation bulky. Its position and orientation persist across server restarts.
 
+## Designs
+
+Open `/mc` → Shortcuts → Appearance → **Tinkerer Table** to select a design. Default is always available. Cherry and Copper must first be unlocked for the player by an operator with `/masterchest theme unlock <player> tinkerer <cherry|copper>`.
+
+- **Default:** Black glass, dark machinery, cyan controls and grid lines, bright material chips, and restrained gold details.
+- **Cherry:** Cherry wood and planks, curved pink glass screens, pink and magenta control lines, Amethyst controls, Pearl Froglight cores, white mechanisms, and gold details.
+- **Copper:** Cut, exposed, weathered, and oxidized Copper, Tinted Glass screens, patina control lines, Copper Grates, Copper Bulbs, and Chiseled Copper mechanisms.
+
+The selected design is saved per player and applies to all Tinkerer Tables owned by that player. Changing it replaces only the display entities; the six clickable Barrier blocks, table identity, orientation, and crafting interface remain unchanged. Newly placed tables remember their owner immediately. Tables created before ownership tracking was added are assigned once when a player first opens them.
+
 ## Opening the Interface
 
 Left- or right-click any Barrier surface belonging to the table to open its interface.

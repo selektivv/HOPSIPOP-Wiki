@@ -32,7 +32,7 @@ The Default design uses the same elegant visual language as the Tinkerer Table: 
 
 ## Designs
 
-Open **Appearance → Chunk Drill** from the Master Chest settings, or select **Chunk Drill Design** directly in the Chunk Drill management menu. All three designs are available without a separate purchase or operator unlock:
+Open **Appearance → Chunk Drill** from the Master Chest settings, or select **Chunk Drill Design** directly in the Chunk Drill management menu. Default is always available. Cherry and Copper must first be unlocked for the player by an operator with `/masterchest theme unlock <player> drill <cherry|copper>`:
 
 - **Default:** Black glass and dark machinery with cyan energy lines and restrained gold details.
 - **Cherry:** Cherry wood and planks, pink and magenta glass, blossom-coloured light lines, Pearl Froglight cores, Amethyst mechanisms, white lower cutters, and gold details.
