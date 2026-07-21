@@ -32,6 +32,7 @@
   - [Counter Boosts](capacity-world/counter-boosts.md)
   - [Notifications](capacity-world/notifications.md)
   - [Co-op Mining](capacity-world/coop.md)
+  - [PvP Duels](capacity-world/duels.md)
   - [Upgrades](capacity-world/upgrades.md)
 - Automation and Advanced Tools
   - [OmniSync](master-chest/omnisync.md)

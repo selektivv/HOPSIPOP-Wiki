@@ -22,4 +22,8 @@ The [Capacity](../capacity.md) World is a temporary mining area where completed 
 - [Chunk Drills](chunk-drills.md)
 - [Buying Upgrades](upgrades.md)
 
+## Other Activities
+
+- [PvP Duels](duels.md)
+
 The world resets every ten hours. Read [World Resets](resets.md) before leaving items or drills behind.

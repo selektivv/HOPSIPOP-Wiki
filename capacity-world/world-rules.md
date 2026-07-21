@@ -16,5 +16,6 @@ Store valuables in your [Master Chest](../master-chest/README.md) and do not lea
 
 ## Continue Learning
 
+- Challenge another player through [PvP Duels](duels.md).
 - Prepare for the ten-hour [World Reset](resets.md).
 - Review [Access and Getting Started](getting-started.md).
