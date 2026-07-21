@@ -14,9 +14,9 @@ Arrange the ingredients in a Crafting Table as follows:
 
 ## Placing the Table
 
-The table faces the player when placed. Its compact body is **2 blocks wide, 1 block deep, and 2 blocks high**. Placement is cancelled unless that complete 2-by-1-by-2 space is clear.
+The table faces the player when placed. Its compact body is **3 blocks wide, 1 block deep, and 2 blocks high**. Placement is cancelled unless that complete 3-by-1-by-2 space is clear.
 
-The finished workstation uses four invisible Barrier blocks as a clickable 2-by-2 front. The detailed console, screens, controls, and frame are display entities fitted inside that space. Its position and orientation persist across server restarts.
+The finished workstation uses six invisible Barrier blocks as a clickable 3-by-2 front. The detailed console, screens, controls, and frame are display entities fitted inside that space. Its position and orientation persist across server restarts.
 
 ## Opening the Interface
 
@@ -33,9 +33,11 @@ Click an ingredient into a grid slot to place one item there. Clicking an occupi
 
 Some results have a [rank](../ranks.md) requirement. A matching recipe can still be viewed in the grid, but its result cannot be collected below the required rank.
 
-## Removing the Table
+## Removing or Storing the Table
 
-Sneak while breaking one of the table's Barrier blocks to dismantle the entire workstation. All of its Barrier blocks and displays are removed, and the Tinkerer Table item drops at the table.
+Open the interface and Shift-click **Dismantle & Store** to remove the complete workstation and move its item directly into your Master Chest. If the storage network is full, the item is placed in your inventory; if that is also full, it drops at your location.
+
+You can alternatively sneak while breaking one of the table's Barrier blocks. This removes all of its Barrier blocks and displays and drops the Tinkerer Table item at the table.
 
 ## Available Creations
 
