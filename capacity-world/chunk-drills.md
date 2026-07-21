@@ -28,6 +28,8 @@ Only players with the upgrade can craft or place a Chunk Drill. The recipient al
 
 The drill starts immediately after placement. Active drills are saved and resume after a server restart. Mining does not depend on the owner being online or on any player being nearby.
 
+The placed drill appears as a slim, futuristic hover machine with narrow side pods, cyan energy conduits, a compact rotary head, and a low bevelled cabin. Its recessed front screen is labelled **CHUNKDRILL**; it does not show any additional text. The model and its collision move with the current mining position.
+
 ## What Gets Mined
 
 The drill sweeps across each layer before descending to the next one. Mining upgrades let it select multiple blocks from the same sweep during one interval, keeping the excavation roughly level.
