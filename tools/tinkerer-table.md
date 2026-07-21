@@ -14,9 +14,9 @@ Arrange the ingredients in a Crafting Table as follows:
 
 ## Placing the Table
 
-The table faces the player when placed. It needs an entirely clear area that is **7 blocks wide, 3 blocks deep, and 5 blocks high**. Placement is cancelled if any part of that space is occupied.
+The table faces the player when placed. Its compact body is **2 blocks wide, 1 block deep, and 2 blocks high**. Placement is cancelled unless that complete 2-by-1-by-2 space is clear.
 
-The finished workstation uses invisible Barrier blocks for its solid floor and monitor surfaces. The detailed console, screens, controls, and frame are display entities. Its position and orientation persist across server restarts.
+The finished workstation uses four invisible Barrier blocks as a clickable 2-by-2 front. The detailed console, screens, controls, and frame are display entities fitted inside that space. Its position and orientation persist across server restarts.
 
 ## Opening the Interface
 
