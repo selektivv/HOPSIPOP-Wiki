@@ -28,6 +28,8 @@ Open `/mc`, select **Shortcuts**, then **Appearance → Master Chest** to choose
 
 The **Default** design is a compact futuristic data terminal styled after the Tinkerer Table. It uses a stepped black-glass core, a gently curved five-panel display, fine cyan telemetry lines, restrained gold accents, a tilted access pad, and a flat circuit-patterned crown without side modules or a raised top block. Its small status cell blinks red while idle and turns green while the Master Chest is open.
 
+The **Cherry** design is available without an additional rank requirement. It presents the Master Chest as an elegant blossom-lit data shrine with layered Cherry wood, a curved pink shoji display, a luminous five-petal core, small branches with leaf and blossom details, a pearl-and-pink access tray, a shallow three-tier pagoda crown, and a rear shoji lattice.
+
 The **Copper** design unlocks at Nova rank. It is a separate patinated data-vault model built from Cut, Exposed, Weathered, and Oxidized Copper, with detailed rivets, integrated Copper Grate heat exchangers, patina pipework, a curved black-glass display, a mechanical copper iris, warm Copper Bulb lighting, an angled service pad, and ventilated top and rear panels.
 
 ## Continue Learning
