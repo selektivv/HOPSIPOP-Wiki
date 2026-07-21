@@ -28,7 +28,17 @@ Only players with the upgrade can craft or place a Chunk Drill. The recipient al
 
 The drill starts immediately after placement. Active drills are saved and resume after a server restart. Mining does not depend on the owner being online or on any player being nearby.
 
-The placed drill uses the same elegant visual language as the Tinkerer Table: a thin floating flight deck, open frame construction, black glass, fine cyan light lines, and restrained gold accents. An open, unhoused energy core and an oversized multi-stage rotary head occupy the centre. The head combines a wide black-and-gold cutting cage, counter-phased Diamond and Netherite cutter crosses, a perforated Copper Grate flywheel, a cyan drive core, nested collars, and an extended reinforced tip. Two separate blade-shaped hover bodies float beside the deck on illuminated twin struts, while a gently curved five-panel screen shows a large **CHUNKDRILL** label and no other text. The model and its three lower collision blocks move with the current mining position; the block row above the drill remains open.
+The Default design uses the same elegant visual language as the Tinkerer Table: a thin floating flight deck, open frame construction, black glass, fine cyan light lines, and restrained gold accents. An open, unhoused energy core and an oversized multi-stage rotary head occupy the centre. The head combines a wide black-and-gold cutting cage, counter-phased Diamond and Netherite cutter crosses, a perforated Copper Grate flywheel, a cyan drive core, nested collars, and an extended reinforced tip. Two separate blade-shaped hover bodies float beside the deck on illuminated twin struts, while a gently curved five-panel screen shows a large **CHUNKDRILL** label and no other text. The model and its three lower collision blocks move with the current mining position; the block row above the drill remains open.
+
+## Designs
+
+Open **Appearance → Chunk Drill** from the Master Chest settings, or select **Chunk Drill Design** directly in the Chunk Drill management menu. All three designs are available without a separate purchase or operator unlock:
+
+- **Default:** Black glass and dark machinery with cyan energy lines and restrained gold details.
+- **Cherry:** Cherry wood and planks, pink and magenta glass, blossom-coloured light lines, Pearl Froglight cores, Amethyst mechanisms, white lower cutters, and gold details.
+- **Copper:** Layered cut, exposed, weathered, and oxidized Copper; Tinted Glass screens; Copper Grates, Copper Bulbs, patina light lines, and copper cutting components.
+
+The selection is saved per player and applies to all of that player's Chunk Drills. Changing it rebuilds the display of every running drill on its next tick without resetting its mining position, current sweep, fuel progress, or upgrades. The **CHUNKDRILL** screen label and hover particles adopt the selected design's light colour.
 
 ## What Gets Mined
 
@@ -81,6 +91,7 @@ The menu provides these actions:
 <img width="953" height="380" alt="image" src="https://github.com/user-attachments/assets/98a45f24-f902-4fdc-8dfe-446877782bdf" />
 
 - **Drill Fuel:** Cycle through Coal, Charcoal, Both with Coal first, and Both with Charcoal first.
+- **Chunk Drill Design:** Open the design selector for Default, Cherry, and Copper.
 - **Mining Speed, Fluid Collector, Collect Chest Contents, and Drill Fortune:** Manage the global upgrades and settings described below. Drill Fortune appears at Void rank and higher.
 
 When excavation finishes, the drill removes itself and returns to the owner's network. Active drills are also returned before a [World Reset](resets.md). Breaking a drill manually is different: its item drops at the drill's location.
