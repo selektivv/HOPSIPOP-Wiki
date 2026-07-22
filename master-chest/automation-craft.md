@@ -18,6 +18,8 @@ A Craft Job repeatedly runs one shaped or shapeless crafting recipe using ingred
 3. Click **Add Craft Job** in the top-right corner.
    <img width="1179" height="371" alt="image" src="https://github.com/user-attachments/assets/a50ab44a-b812-4012-9f2a-de5dd66238f9" />
    
+   The setup screen opens only while the network contains at least 10 Crafters.
+
 4. Reproduce the recipe in the 3x3 grid. Each occupied slot uses one sample item from the cursor.
    <img width="572" height="582" alt="image" src="https://github.com/user-attachments/assets/a91678e6-afb0-42c1-be79-4f271bc25ef8" />
    
@@ -46,11 +48,13 @@ On each automation check, an enabled Craft Job:
 
 One Craft Job performs at most one recipe operation per check. The runner normally checks every 5 server ticks, so a job can complete up to four operations per second when the server is running normally and all resources are available.
 
+Automation reads stored counts from a network snapshot refreshed roughly every 15 seconds. Ingredients deposited outside automation may therefore take up to about 15 seconds to be noticed; ingredients and results handled by the running jobs update the snapshot immediately.
+
 Only the recipe result is returned. Crafting remainders such as empty buckets or bottles are not added separately by the job.
 
 ## Minimum Stock
 
-The default value `0` runs the recipe continuously whenever its ingredients are available. Shift-clicking the job selects a minimum result stock. Once the stored result count is at or above that value, the job pauses.
+The default value `0` runs the recipe continuously whenever its ingredients are available. Shift-left selects a higher minimum result stock and Shift-right selects a lower one. Once the stored result count is at or above that value, the job pauses.
 
 The stock is checked before a full recipe operation. A recipe with a multi-item result may therefore exceed the target by part of one batch. For example, a recipe producing four items can run at stock 63 with a target of 64 and finish at 67.
 
@@ -62,7 +66,8 @@ Changing the minimum also updates every other Craft, Stone Cut, or Smelt job who
 | --- | --- |
 | Click | Open the 3x3 recipe editor. |
 | Drop key | Enable or disable the job. |
-| Shift-click | Cycle the minimum stock. |
+| Shift-left-click | Select the next higher minimum-stock preset. |
+| Shift-right-click | Select the previous preset. |
 | Right-click | Permanently delete the job and apply the rank-based refund. |
 
 Saving an edit keeps the job's enabled state and minimum stock. Editing does not charge another 10 Crafters.

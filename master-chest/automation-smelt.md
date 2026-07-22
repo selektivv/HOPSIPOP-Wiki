@@ -1,6 +1,6 @@
 # Smelt Jobs
 
-A Smelt Job runs one blast-furnace recipe with a selected fuel stored in the job owner's network. It unlocks after completing **Furnacity** and costs **10 Blast Furnaces** from that network.
+A Smelt Job runs one regular furnace recipe with a selected fuel stored in the job owner's network. It unlocks after completing **Furnacity** and costs **10 Blast Furnaces** from that network.
 
 ## Before You Start
 
@@ -18,6 +18,8 @@ A Smelt Job runs one blast-furnace recipe with a selected fuel stored in the job
 3. Click **Add Smelt Job** in the top-right corner.
    <img width="1381" height="371" alt="image" src="https://github.com/user-attachments/assets/6fa3aae1-ce1e-43bf-bf99-45661229353e" />
 
+   The setup screen opens only while the network contains at least 10 Blast Furnaces.
+
 4. Place the item to process in the upper-left input slot.
 
    <img width="515" height="375" alt="image" src="https://github.com/user-attachments/assets/4ffd6287-bca0-445c-b840-bdea4715ecbc" />
@@ -31,7 +33,7 @@ A Smelt Job runs one blast-furnace recipe with a selected fuel stored in the job
    <img width="872" height="381" alt="image" src="https://github.com/user-attachments/assets/60948c90-bfb6-4960-925d-be03ec093c64" />
 
 
-The menu accepts only a registered **blasting** recipe. Regular furnace, smoker, and campfire recipes are not used unless the same input also has a blasting recipe. If multiple blasting recipes match, the first registered match supplies the preview and saved output.
+The menu accepts only a registered regular **furnace recipe**. Blasting, smoker, and campfire recipes are not used unless the server also registers a normal furnace recipe for the same input. If multiple furnace recipes match, the first registered match supplies the preview and saved output.
 
 Saving also validates the selected fuel and checks for 10 Blast Furnaces in the network. Those furnaces are removed when the job is created. Both setup samples return to the player's inventory; overflow is dropped at the player's location.
 
@@ -65,13 +67,15 @@ On each automation check, an enabled Smelt Job:
 
 The runner normally checks every 5 server ticks. A job can therefore process up to four inputs per second when enough input and fuel credit are available. Low-value fuels may first require several checks: for example, nine Bamboo items provide 108 units and allow one output, leaving 8 units for later.
 
+Automation reads stored counts from a network snapshot refreshed roughly every 15 seconds. Input or fuel deposited outside automation may therefore take up to about 15 seconds to become visible to the job.
+
 A Lava Bucket adds an empty Bucket back to the network when consumed. No furnace experience is produced. Other container items are not created.
 
 Fuel credit is held separately for each job, but it is not saved with the job configuration. Unused credit is reset by a server/plugin restart.
 
 ## Minimum Stock
 
-At the default value `0`, the job runs whenever input and fuel are available. Shift-click selects a minimum result stock; the job pauses once that stock is at or above the selected value.
+At the default value `0`, the job runs whenever input and fuel are available. Shift-left selects a higher minimum result stock and Shift-right selects a lower one; the job pauses once that stock is at or above the selected value.
 
 Changing the minimum also updates every other Craft, Stone Cut, or Smelt job whose output has the same material.
 
@@ -80,7 +84,8 @@ Changing the minimum also updates every other Craft, Stone Cut, or Smelt job who
 | Control | Effect |
 | --- | --- |
 | Click | Enable or disable the job. |
-| Shift-click | Cycle the minimum stock. |
+| Shift-left-click | Select the next higher minimum-stock preset. |
+| Shift-right-click | Select the previous preset. |
 | Right-click | Permanently delete the job and apply the rank-based refund. |
 
 Deleting the job refunds between 0 and 10 Blast Furnaces according to the owner's current Capacity rank. See the [refund table](automation.md#capacity-and-removing-paid-jobs).

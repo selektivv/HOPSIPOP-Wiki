@@ -47,10 +47,13 @@ Firework Rockets and the plugin's Master Chest, OmniSync, Lava Sponge, and Cell 
 | Control | Effect |
 | --- | --- |
 | Click | Enable or disable the filter. |
-| Shift-click | Cycle the amount to keep. |
+| Shift-left-click | Select the next higher amount to keep. |
+| Shift-right-click | Select the previous keep preset. |
 | Right-click | Permanently delete the job. |
 
-The initial keep value can be any current stock count. Shift-click moves from that value to the next higher preset: `16`, `32`, `64`, `128`, `256`, `512`, `1,024`, `2,048`, `4,096`, `8,192`, `16,384`, `20,000`, `32,768`, `50,000`, `75,000`, or `100,000`. From `100,000` or any higher value, the next shift-click selects `0`.
+The initial keep value can be any current stock count. Shift-left selects the next higher value from `16`, `32`, `64`, `128`, `256`, `512`, `1,024`, `2,048`, `4,096`, `8,192`, `16,384`, `20,000`, `32,768`, `50,000`, `75,000`, and `100,000`; it wraps from the maximum to `0`. Shift-right moves toward the previous preset and wraps from `0` to `100,000`.
+
+Automation reads stored counts from a network snapshot refreshed roughly every 15 seconds. Items deposited outside automation may therefore take up to about 15 seconds to be noticed. Once visible, all excess above the keep value is removed in one check.
 
 ## Safety
 

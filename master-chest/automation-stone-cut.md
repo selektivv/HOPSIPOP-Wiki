@@ -18,6 +18,8 @@ A Stone Cut Job converts a stored input into one selected stonecutter output. It
 3. Click **Add Stone Cut Job** in the top-right corner.
    <img width="1268" height="371" alt="image" src="https://github.com/user-attachments/assets/b236af7c-a9e8-4187-9a54-42080c73126f" />
 
+   The setup screen opens only while the network contains at least 10 Stonecutters.
+
 4. Place the input sample in the slot on the left.
 
    <img width="512" height="375" alt="image" src="https://github.com/user-attachments/assets/9c1e4cd1-487b-4ad8-b9d3-eaba5d9f33a0" />
@@ -44,11 +46,13 @@ On each automation check, an enabled Stone Cut Job:
 
 Each job performs at most one conversion per check. The runner normally checks every 5 server ticks, allowing up to four conversions per second under normal server timing.
 
+Automation reads stored counts from a network snapshot refreshed roughly every 15 seconds. Input deposited outside automation may therefore take up to about 15 seconds to become visible to the job.
+
 The implementation stores one output item per input, even if a custom registered stonecutting recipe advertises a larger result stack.
 
 ## Minimum Stock
 
-At the default value `0`, the job keeps converting as long as input is available. Shift-click selects a minimum result stock; the job pauses once the network is at or above it.
+At the default value `0`, the job keeps converting as long as input is available. Shift-left selects a higher minimum result stock and Shift-right selects a lower one; the job pauses once the network is at or above it.
 
 Changing the minimum also updates every other Craft, Stone Cut, or Smelt job whose output has the same material.
 
@@ -57,7 +61,8 @@ Changing the minimum also updates every other Craft, Stone Cut, or Smelt job who
 | Control | Effect |
 | --- | --- |
 | Click | Enable or disable the job. |
-| Shift-click | Cycle the minimum stock. |
+| Shift-left-click | Select the next higher minimum-stock preset. |
+| Shift-right-click | Select the previous preset. |
 | Right-click | Permanently delete the job and apply the rank-based refund. |
 
 Deleting the job refunds between 0 and 10 Stonecutters according to the owner's current Capacity rank. See the [refund table](automation.md#capacity-and-removing-paid-jobs).
