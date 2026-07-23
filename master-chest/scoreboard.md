@@ -36,6 +36,11 @@ New players start with Spendable Capacity, Rank, Playtime, Daily Event, and Keya
 | Items Added (1h) | The number of items added to your network during the last hour. |
 | Keyall Votes | The global vote progress toward the next Keyall, out of 15. |
 | Tracked Item | The current stored amount of one item selected by you. |
+| Pet Items Collected | The total number of item units deposited into your Master Chest by your Master Pet's auto-pickup. |
+| Pet Mobs Killed | The total number of mobs killed by your Master Pet's attacks and abilities. |
+| Drill Items Collected | The total number of item units deposited by your [Chunk Drills](../capacity-world/chunk-drills.md), including mined drops and transferred chest contents. |
+| Drill Fuel Consumed | The total number of Coal or Charcoal units consumed by your Chunk Drills. |
+| Drill Blocks Mined | The total number of blocks mined by your Chunk Drills. |
 
 Large item and Capacity values are shortened with `K`, `M`, `B`, or `T`. The scoreboard refreshes its live values approximately every two seconds.
 
