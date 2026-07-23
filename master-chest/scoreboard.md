@@ -1,6 +1,8 @@
 # Scoreboard Settings
 
-The sidebar scoreboard shows live information about your Master Chest network and HOPSIPOP progress. Open `/shortcuts`, then select **Scoreboard** to choose what appears.
+The sidebar scoreboard shows live information about your Master Chest network and HOPSIPOP progress. Open the settings directly with `/scoreboard`, or open `/shortcuts` and select **Scoreboard**.
+
+The Scoreboard entry in Shortcuts shows whether the sidebar is currently on or off. Selecting it always opens the settings; use **Scoreboard Visible** inside the menu to change the visibility.
 
 Changes apply immediately and are saved for your player. They only change the display; they do not alter Capacity, items, jobs, rewards, or other progress.
 
@@ -12,7 +14,9 @@ Hiding the scoreboard keeps your selected lines. They return when you enable it 
 
 ## Choosing Scoreboard Lines
 
-Click any green or red option to show or hide that information. You can enable up to **seven options at once**.
+Click any green or red option to show or hide that information. Green options are enabled and red options are disabled. Every change takes effect immediately; there is no save button.
+
+You can enable up to **seven options at once**. If seven are already active, disable one before enabling another.
 
 New players start with Spendable Capacity, Rank, Playtime, Daily Event, and Keyall Votes enabled.
 
