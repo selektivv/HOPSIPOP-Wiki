@@ -1,6 +1,11 @@
 # Scoreboard Settings
 
-The sidebar scoreboard shows live information about your Master Chest network and HOPSIPOP progress. Open the settings directly with `/scoreboard`, or open `/shortcuts` and select **Scoreboard**.
+The sidebar scoreboard shows live information about your Master Chest network and HOPSIPOP progress. Open the settings directly with `/scoreboard`.
+
+<img width="1061" height="412" alt="image" src="https://github.com/user-attachments/assets/4fd3b0b2-b5f5-46e4-bfab-70cfb4f817f5" />
+
+
+Or open `/shortcuts` and select **Scoreboard**.
 
 <img width="510" height="370" alt="image" src="https://github.com/user-attachments/assets/b6bc4700-b464-4dd1-884c-e2ea4dddcc3a" />
 
