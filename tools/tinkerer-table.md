@@ -20,11 +20,15 @@ The finished workstation uses six invisible Barrier blocks as a clickable 3-by-2
 
 ## Designs
 
-Open `/mc` → Shortcuts → Appearance → **Tinkerer Table** to select a design. Default is always available. Cherry and Copper must first be unlocked for the player by an operator with `/masterchest theme unlock <player> tinkerer <cherry|copper>`.
+Open `/mc` → Shortcuts → Appearance → **Tinkerer Table** to select a design.
 
 - **Default:** Black glass, dark machinery, cyan controls and grid lines, bright material chips, and restrained gold details.
-- **Cherry:** Cherry wood and planks, curved pink glass screens, pink and magenta control lines, Amethyst controls, Pearl Froglight cores, white mechanisms, and gold details.
-- **Copper:** Cut, exposed, weathered, and oxidized Copper, Tinted Glass screens, patina control lines, Copper Grates, Copper Bulbs, and Chiseled Copper mechanisms.
+- **Cherry:** A quiet craft atelier with a shoji canopy, torii framing, a blossom instrument, an asymmetric bonsai branch, and pearl controls.
+- **Copper:** A precision foundry bench with recessed machinery, exposed service pipes, a separate rotary gauge, gridded screens, and an articulated inspection arm.
+- **Mangrove:** A rootbound alchemy bench with an amber reactor, branch-mounted displays, and warm spore controls.
+- **Lapis Lazuli:** A crystalline instrument desk with blueprint optics, faceted screens, and an Amethyst energy cell.
+
+Default is always available. The four alternative designs are unlocked separately for each tool and player by an operator with `/masterchest theme unlock <player> tinkerer <cherry|copper|mangrove|lapis>`. A locked design can be tried for two minutes by clicking it. After the preview ends, the table returns to Default and that design enters a one-hour preview cooldown.
 
 The selected design is saved per player and applies to all Tinkerer Tables owned by that player. Changing it replaces only the display entities; the six clickable Barrier blocks, table identity, orientation, and crafting interface remain unchanged. Newly placed tables remember their owner immediately. Tables created before ownership tracking was added are assigned once when a player first opens them.
 

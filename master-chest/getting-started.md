@@ -28,9 +28,15 @@ Open `/mc`, select **Shortcuts**, then **Appearance → Master Chest** to choose
 
 The **Default** design is a compact futuristic data terminal styled after the Tinkerer Table. It uses a stepped black-glass core, a gently curved five-panel display, fine cyan telemetry lines, restrained gold accents, a tilted access pad, and a flat circuit-patterned crown without side modules or a raised top block. Its small status cell blinks red while idle and turns green while the Master Chest is open.
 
-The **Cherry** design is available without an additional rank requirement. It presents the Master Chest as an elegant blossom-lit data shrine with layered Cherry wood, a curved pink shoji display, a luminous five-petal core, small branches with leaf and blossom details, a pearl-and-pink access tray, a shallow three-tier pagoda crown, and a rear shoji lattice.
+The **Cherry** design presents the Master Chest as an airy blossom data shrine with layered Cherry wood, a curved pink shoji display, a luminous five-petal core, a fine blossom arch, side posts, pearl lanterns, an access tray, and a shallow pagoda crown.
 
-The **Copper** design unlocks at Nova rank. It is a separate patinated data-vault model built from Cut, Exposed, Weathered, and Oxidized Copper, with detailed rivets, integrated Copper Grate heat exchangers, patina pipework, a curved black-glass display, a mechanical copper iris, warm Copper Bulb lighting, an angled service pad, and ventilated top and rear panels.
+The **Copper** design is a separate patinated data-vault model built from Cut, Exposed, Weathered, and Oxidized Copper, with detailed rivets, integrated Copper Grate heat exchangers, patina pipework, a curved black-glass display, a mechanical copper iris, warm Copper Bulb lighting, an angled service pad, and ventilated top and rear panels.
+
+The **Mangrove** design is a root-cradled seed archive. Sweeping roots carry the chest, branch horns frame its panoramic glass, gold collars bind the grown structure, and hanging Shroomlight pods provide warm status lighting.
+
+The **Lapis Lazuli** design is an arcane astrolabe archive with deep-blue casing, blueprint glass, prism optics, a vertical faceted halo, and three uneven crystal needles.
+
+Default is always available. The four alternative designs are unlocked separately for each player by an operator with `/masterchest theme unlock <player> chest <cherry|copper|mangrove|lapis>`. A locked design can be tried for two minutes by clicking it. After the preview ends, all placed access points return to Default and that design enters a one-hour preview cooldown.
 
 ## Continue Learning
 

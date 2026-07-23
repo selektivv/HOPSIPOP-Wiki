@@ -32,11 +32,15 @@ The Default design uses the same elegant visual language as the Tinkerer Table: 
 
 ## Designs
 
-Open **Appearance → Chunk Drill** from the Master Chest settings, or select **Chunk Drill Design** directly in the Chunk Drill management menu. Default is always available. Cherry and Copper must first be unlocked for the player by an operator with `/masterchest theme unlock <player> drill <cherry|copper>`:
+Open **Appearance → Chunk Drill** from the Master Chest settings, or select **Chunk Drill Design** directly in the Chunk Drill management menu:
 
 - **Default:** Black glass and dark machinery with cyan energy lines and restrained gold details.
-- **Cherry:** Cherry wood and planks, pink and magenta glass, blossom-coloured light lines, Pearl Froglight cores, Amethyst mechanisms, white lower cutters, and gold details.
+- **Cherry:** A shrine-borer with a torii frame, swept blossom vanes, fine shoji details, and pearl navigation lamps.
 - **Copper:** Layered cut, exposed, weathered, and oxidized Copper; Tinted Glass screens; Copper Grates, Copper Bulbs, patina light lines, and copper cutting components.
+- **Mangrove:** A grown excavation rig with sweeping root skids, branch rails, and warm spore lamps.
+- **Lapis Lazuli:** An arcane borer with a faceted astrolabe cutter ring, uneven crystal stabilizers, and lapis fins.
+
+Default is always available. The four alternative designs are unlocked separately for each tool and player by an operator with `/masterchest theme unlock <player> drill <cherry|copper|mangrove|lapis>`. A locked design can be tried for two minutes by clicking it. After the preview ends, all drills return to Default and that design enters a one-hour preview cooldown.
 
 The selection is saved per player and applies to all of that player's Chunk Drills. Changing it rebuilds the display of every running drill on its next tick without resetting its mining position, current sweep, fuel progress, or upgrades. The **CHUNKDRILL** screen label and hover particles adopt the selected design's light colour.
 
@@ -91,7 +95,7 @@ The menu provides these actions:
 <img width="953" height="380" alt="image" src="https://github.com/user-attachments/assets/98a45f24-f902-4fdc-8dfe-446877782bdf" />
 
 - **Drill Fuel:** Cycle through Coal, Charcoal, Both with Coal first, and Both with Charcoal first.
-- **Chunk Drill Design:** Open the design selector for Default, Cherry, and Copper.
+- **Chunk Drill Design:** Open the design selector for Default, Cherry, Copper, Mangrove, and Lapis Lazuli.
 - **Mining Speed, Fluid Collector, Collect Chest Contents, and Drill Fortune:** Manage the global upgrades and settings described below. Drill Fortune appears at Void rank and higher.
 
 When excavation finishes, the drill removes itself and returns to the owner's network. Active drills are also returned before a [World Reset](resets.md). Breaking a drill manually is different: its item drops at the drill's location.

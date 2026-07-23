@@ -16,13 +16,17 @@ Right-click the tower or open `/mc` → Shortcuts → Cell Tower. Select a desti
 
 ## Designs
 
-Open `/mc` → Shortcuts → Appearance → **Cell Tower** to select a design. Default is always available. Cherry and Copper must first be unlocked for the player by an operator with `/masterchest theme unlock <player> tower <cherry|copper>`.
+Open `/mc` → Shortcuts → Appearance → **Cell Tower** to select a design.
 
 - **Default:** A dark industrial mast with ceramic receiver faces, green telemetry lights, exposed metal, deployable panels, and two tracking dishes.
-- **Cherry:** Cherry wood and stripped Cherry framework, blossom-pink receiver faces, white structural details, Amethyst modules, gold rails, and Pearl Froglight emitters.
-- **Copper:** Cut, exposed, weathered, and oxidized Copper across the mast, receiver array, dishes, data channels, grates, and Copper Bulb emitters.
+- **Cherry:** A ceremonial signal shrine with light torii collars, detached petal arrays, shoji details, and a shallow lantern canopy.
+- **Copper:** A dark mechanical mast with copper service cabinets, patina conduits, a ventilated receiver crown, and a double-helix power bus.
+- **Mangrove:** A living signal tree carried by buttress roots, with climbing root spirals, branch-like antenna arrays, and warm spore lamps.
+- **Lapis Lazuli:** An arcane observatory with faceted astrolabe rings, constellation nodes, crystalline optics, and an uneven crystal crown.
 
-The selection is saved per player and applies to that player's placed Cell Tower. Changing it rebuilds the display and collision model immediately while preserving the tower itself, its owner, and any active GPS destination. Moving panels and tracking dishes return to their current GPS pose after the rebuild.
+Default is always available. The four alternative designs are unlocked separately for each tool and player by an operator with `/masterchest theme unlock <player> tower <cherry|copper|mangrove|lapis>`. A locked design can be tried for two minutes by clicking it. After the preview ends, the tower returns to Default and that design enters a one-hour preview cooldown.
+
+The selection is saved per player and applies to that player's placed Cell Tower. Changing it rebuilds the display and collision model immediately while preserving the tower itself, its owner, and any active GPS destination. Moving panels and tracking dishes return to their current GPS pose after the rebuild. Fine decorative details such as petals, roots, and astrolabe facets do not create additional collision.
 
 ## Continue Learning
 
