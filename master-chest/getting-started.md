@@ -32,7 +32,7 @@ The **Cherry** design presents the Master Chest as an airy blossom data shrine w
 
 The **Copper** design is a separate patinated data-vault model built from Cut, Exposed, Weathered, and Oxidized Copper, with detailed rivets, integrated Copper Grate heat exchangers, patina pipework, a curved black-glass display, a mechanical copper iris, warm Copper Bulb lighting, an angled service pad, and ventilated top and rear panels.
 
-The **Mangrove** design is a root-cradled seed archive. Sweeping roots carry the chest, branch horns frame its panoramic glass, gold collars bind the grown structure, and hanging Shroomlight pods provide warm status lighting.
+The **Mangrove** design is a root-cradled seed archive. Sweeping roots carry the chest, branch horns frame its panoramic glass, amber ceramic collars bind the grown structure, and hanging Shroomlight pods provide warm status lighting.
 
 The **Lapis Lazuli** design is an arcane astrolabe archive with deep-blue casing, blueprint glass, prism optics, a vertical faceted halo, and three uneven crystal needles.
 

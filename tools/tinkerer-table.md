@@ -26,7 +26,7 @@ Open `/mc` → Shortcuts → Appearance → **Tinkerer Table** to select a desig
 - **Cherry:** A quiet craft atelier with a shoji canopy, torii framing, a blossom instrument, an asymmetric bonsai branch, and pearl controls.
 - **Copper:** A precision foundry bench with recessed machinery, exposed service pipes, a separate rotary gauge, gridded screens, and an articulated inspection arm.
 - **Mangrove:** A rootbound alchemy bench with an amber reactor, branch-mounted displays, and warm spore controls.
-- **Lapis Lazuli:** A crystalline instrument desk with blueprint optics, faceted screens, and an Amethyst energy cell.
+- **Lapis Lazuli:** A crystalline instrument desk with blueprint optics, faceted screens, and a Sea Lantern energy cell.
 
 Default is always available. The four alternative designs are unlocked separately for each tool and player by an operator with `/masterchest theme unlock <player> tinkerer <cherry|copper|mangrove|lapis>`. A locked design can be tried for two minutes by clicking it. After the preview ends, the table returns to Default and that design enters a one-hour preview cooldown.
 
