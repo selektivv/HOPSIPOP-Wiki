@@ -17,6 +17,7 @@ Manage items, increase your storage limit, advance through [ranks](ranks.md), an
 
 - [Storage Network](master-chest/README.md)
 - [Capacity](capacity.md)
+- [Capacity Leaderboard NPC](leaderboard-npc.md)
 - [Daily Events](daily-events.md)
 - [Ranks](ranks.md)
 - [Claims](claims.md)
