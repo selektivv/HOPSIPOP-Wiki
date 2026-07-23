@@ -42,9 +42,11 @@ The **Medieval** design is a compact guild reliquary. A low masonry dais support
 
 The **Quartz** design is a celestial marble archive. A three-step plinth and slim columns frame a curved pale-glass reading window, a gilded sundial core, a sparse control lectern, a classical pediment, and a detached sun halo.
 
-Default is always available. The seven alternative designs are unlocked separately for each player by an operator with `/masterchest theme unlock <player> chest <cherry|copper|mangrove|lapis|lush|medieval|quartz>`. A locked design can be tried for two minutes by clicking it. After the preview ends, all placed access points return to Default and that design enters a one-hour preview cooldown.
+The **Cyberpunk** design is an asymmetric street terminal. An offset black deck carries exposed cyan and magenta data channels, a curved hologram screen, a cantilevered keypad, angled side fins, and a split floating billboard crown.
 
-Every design has a restrained ambient particle accent above the access point: cyan motes and an occasional End Rod for Default, pink motes and Cherry Leaves for Cherry, patina motes and electrical sparks for Copper, rust-red motes and spores for Mangrove, blue motes with enchantment glyphs for Lapis Lazuli, green motes with falling Spore Blossoms for Lush Cave, earthy brown motes with drifting ash for Medieval, and ivory motes with occasional wax-glint sparks for Quartz. These effects appear only while players are nearby.
+Default is always available. The eight alternative designs are unlocked separately for each player by an operator with `/masterchest theme unlock <player> chest <cherry|copper|mangrove|lapis|lush|medieval|quartz|cyberpunk>`. A locked design can be tried for two minutes by clicking it. After the preview ends, all placed access points return to Default and that design enters a one-hour preview cooldown.
+
+Every design has a restrained ambient particle accent above the access point: cyan motes and an occasional End Rod for Default, pink motes and Cherry Leaves for Cherry, patina motes and electrical sparks for Copper, rust-red motes and spores for Mangrove, blue motes with enchantment glyphs for Lapis Lazuli, green motes with falling Spore Blossoms for Lush Cave, earthy brown motes with drifting ash for Medieval, ivory motes with occasional wax-glint sparks for Quartz, and alternating cyan-magenta motes with electrical sparks for Cyberpunk. These effects appear only while players are nearby.
 
 ## Continue Learning
 
