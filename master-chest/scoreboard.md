@@ -2,6 +2,9 @@
 
 The sidebar scoreboard shows live information about your Master Chest network and HOPSIPOP progress. Open the settings directly with `/scoreboard`, or open `/shortcuts` and select **Scoreboard**.
 
+<img width="518" height="375" alt="image" src="https://github.com/user-attachments/assets/011cb8ca-6e80-4bc2-a227-97cb65098f13" />
+
+
 The Scoreboard entry in Shortcuts shows whether the sidebar is currently on or off. Selecting it always opens the settings; use **Scoreboard Visible** inside the menu to change the visibility.
 
 Changes apply immediately and are saved for your player. They only change the display; they do not alter Capacity, items, jobs, rewards, or other progress.
