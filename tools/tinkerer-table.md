@@ -30,6 +30,8 @@ Open `/mc` → Shortcuts → Appearance → **Tinkerer Table** to select a desig
 
 Default is always available. The four alternative designs are unlocked separately for each tool and player by an operator with `/masterchest theme unlock <player> tinkerer <cherry|copper|mangrove|lapis>`. A locked design can be tried for two minutes by clicking it. After the preview ends, the table returns to Default and that design enters a one-hour preview cooldown.
 
+Every design has a restrained ambient particle accent above its work surface: cyan motes and an occasional End Rod for Default, pink motes and Cherry Leaves for Cherry, patina motes and electrical sparks for Copper, rust-red motes and spores for Mangrove, and blue motes with enchantment glyphs for Lapis Lazuli. These effects appear only while players are nearby.
+
 The selected design is saved per player and applies to all Tinkerer Tables owned by that player. Changing it replaces only the display entities; the six clickable Barrier blocks, table identity, orientation, and crafting interface remain unchanged. Newly placed tables remember their owner immediately. Tables created before ownership tracking was added are assigned once when a player first opens them.
 
 ## Opening the Interface

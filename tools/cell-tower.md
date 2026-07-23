@@ -26,6 +26,8 @@ Open `/mc` → Shortcuts → Appearance → **Cell Tower** to select a design.
 
 Default is always available. The four alternative designs are unlocked separately for each tool and player by an operator with `/masterchest theme unlock <player> tower <cherry|copper|mangrove|lapis>`. A locked design can be tried for two minutes by clicking it. After the preview ends, the tower returns to Default and that design enters a one-hour preview cooldown.
 
+Every design has a restrained ambient particle accent around the receiver: cyan motes and an occasional End Rod for Default, pink motes and Cherry Leaves for Cherry, patina motes and electrical sparks for Copper, rust-red motes and spores for Mangrove, and blue motes with enchantment glyphs for Lapis Lazuli. These effects appear only while players are nearby.
+
 The selection is saved per player and applies to that player's placed Cell Tower. Changing it rebuilds the display and collision model immediately while preserving the tower itself, its owner, and any active GPS destination. Moving panels and tracking dishes return to their current GPS pose after the rebuild. Fine decorative details such as petals, roots, and astrolabe facets do not create additional collision.
 
 ## Continue Learning

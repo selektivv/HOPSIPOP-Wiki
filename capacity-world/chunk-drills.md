@@ -42,7 +42,9 @@ Open **Appearance → Chunk Drill** from the Master Chest settings, or select **
 
 Default is always available. The four alternative designs are unlocked separately for each tool and player by an operator with `/masterchest theme unlock <player> drill <cherry|copper|mangrove|lapis>`. A locked design can be tried for two minutes by clicking it. After the preview ends, all drills return to Default and that design enters a one-hour preview cooldown.
 
-The selection is saved per player and applies to all of that player's Chunk Drills. Changing it rebuilds the display of every running drill on its next tick without resetting its mining position, current sweep, fuel progress, or upgrades. The **CHUNKDRILL** screen label and hover particles adopt the selected design's light colour.
+Every design has a restrained ambient particle accent around its core: cyan motes and an occasional End Rod for Default, pink motes and Cherry Leaves for Cherry, patina motes and electrical sparks for Copper, rust-red motes and spores for Mangrove, and blue motes with enchantment glyphs for Lapis Lazuli. These effects appear only while players are nearby.
+
+The selection is saved per player and applies to all of that player's Chunk Drills. Changing it rebuilds the display of every running drill on its next tick without resetting its mining position, current sweep, fuel progress, or upgrades. The **CHUNKDRILL** screen label, hover particles, and ambient accent adopt the selected design.
 
 ## What Gets Mined
 

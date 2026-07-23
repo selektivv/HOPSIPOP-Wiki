@@ -38,6 +38,8 @@ The **Lapis Lazuli** design is an arcane astrolabe archive with deep-blue casing
 
 Default is always available. The four alternative designs are unlocked separately for each player by an operator with `/masterchest theme unlock <player> chest <cherry|copper|mangrove|lapis>`. A locked design can be tried for two minutes by clicking it. After the preview ends, all placed access points return to Default and that design enters a one-hour preview cooldown.
 
+Every design has a restrained ambient particle accent above the access point: cyan motes and an occasional End Rod for Default, pink motes and Cherry Leaves for Cherry, patina motes and electrical sparks for Copper, rust-red motes and spores for Mangrove, and blue motes with enchantment glyphs for Lapis Lazuli. These effects appear only while players are nearby.
+
 ## Continue Learning
 
 - [Transfer Items](storing-and-retrieving.md)
