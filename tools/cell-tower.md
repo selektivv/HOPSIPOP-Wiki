@@ -23,12 +23,13 @@ Open `/mc` → Shortcuts → Appearance → **Cell Tower** to select a design.
 - **Copper:** A dark mechanical mast with copper service cabinets, patina conduits, a ventilated receiver crown, and a double-helix power bus.
 - **Mangrove:** A living signal tree carried by buttress roots, with climbing root spirals, branch-like antenna arrays, and warm spore lamps.
 - **Lapis Lazuli:** An arcane observatory with faceted astrolabe rings, constellation nodes, crystalline optics, and an uneven crystal crown.
+- **Lush Cave:** A vertical grotto with splayed cave roots, twin moss spirals, offset Azalea terraces, pale Calcite supports, and hanging glow pods.
 
-Default is always available. The four alternative designs are unlocked separately for each tool and player by an operator with `/masterchest theme unlock <player> tower <cherry|copper|mangrove|lapis>`. A locked design can be tried for two minutes by clicking it. After the preview ends, the tower returns to Default and that design enters a one-hour preview cooldown.
+Default is always available. The five alternative designs are unlocked separately for each tool and player by an operator with `/masterchest theme unlock <player> tower <cherry|copper|mangrove|lapis|lush>`. A locked design can be tried for two minutes by clicking it. After the preview ends, the tower returns to Default and that design enters a one-hour preview cooldown.
 
-Every design has a restrained ambient particle accent around the receiver: cyan motes and an occasional End Rod for Default, pink motes and Cherry Leaves for Cherry, patina motes and electrical sparks for Copper, rust-red motes and spores for Mangrove, and blue motes with enchantment glyphs for Lapis Lazuli. These effects appear only while players are nearby.
+Every design has a restrained ambient particle accent around the receiver: cyan motes and an occasional End Rod for Default, pink motes and Cherry Leaves for Cherry, patina motes and electrical sparks for Copper, rust-red motes and spores for Mangrove, blue motes with enchantment glyphs for Lapis Lazuli, and green motes with falling Spore Blossoms for Lush Cave. These effects appear only while players are nearby.
 
-The selection is saved per player and applies to that player's placed Cell Tower. Changing it rebuilds the display and collision model immediately while preserving the tower itself, its owner, and any active GPS destination. Moving panels and tracking dishes return to their current GPS pose after the rebuild. Fine decorative details such as petals, roots, and astrolabe facets do not create additional collision.
+The selection is saved per player and applies to that player's placed Cell Tower. Changing it rebuilds the display and collision model immediately while preserving the tower itself, its owner, and any active GPS destination. Moving panels and tracking dishes return to their current GPS pose after the rebuild. Fine decorative details such as petals, roots, Azalea terraces, and astrolabe facets do not create additional collision.
 
 ## Continue Learning
 
