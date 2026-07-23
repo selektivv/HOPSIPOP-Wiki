@@ -10,6 +10,7 @@
   - [Item Search](master-chest/search.md)
   - [Item Categories](master-chest/categories.md)
   - [Shortcuts](master-chest/shortcuts.md)
+    - [Scoreboard Settings](master-chest/scoreboard.md)
   - [Capacity](capacity.md)
   - [Capacity Leaderboard NPC](leaderboard-npc.md)
   - [Daily Events](daily-events.md)

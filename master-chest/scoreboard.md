@@ -1,0 +1,61 @@
+# Scoreboard Settings
+
+The sidebar scoreboard shows live information about your Master Chest network and HOPSIPOP progress. Open `/shortcuts`, then select **Scoreboard** to choose what appears.
+
+Changes apply immediately and are saved for your player. They only change the display; they do not alter Capacity, items, jobs, rewards, or other progress.
+
+## Showing or Hiding the Scoreboard
+
+Use **Scoreboard Visible** to hide or restore the complete sidebar. A green pane means it is visible, while a red pane means it is hidden.
+
+Hiding the scoreboard keeps your selected lines. They return when you enable it again.
+
+## Choosing Scoreboard Lines
+
+Click any green or red option to show or hide that information. You can enable up to **seven options at once**.
+
+New players start with Spendable Capacity, Rank, Playtime, Daily Event, and Keyall Votes enabled.
+
+| Option | Information shown |
+| --- | --- |
+| Total Capacity | Your current total [Capacity](../capacity.md). |
+| Spendable Capacity | Capacity not occupied by stored items and therefore available for more items or Capacity purchases. |
+| Rank | Your current [Capacity rank](../ranks.md), or Unranked if you have not reached the first rank. |
+| Playtime | Your total playtime in hours and minutes. |
+| Daily Event | A separate block containing the current [Daily Event](../daily-events.md) item and remaining time. |
+| Total Items | The total number of items stored in your Master Chest network. |
+| Active Automation Jobs | The number of enabled [automation jobs](automation.md). |
+| Blocked Automation Jobs | Enabled threshold jobs that currently lack required input materials. |
+| Daily 1st Places | How many Daily Events you have finished in first place. |
+| Daily 2nd Places | How many Daily Events you have finished in second place. |
+| Daily 3rd Places | How many Daily Events you have finished in third place. |
+| Items Added (1h) | The number of items added to your network during the last hour. |
+| Keyall Votes | The global vote progress toward the next Keyall, out of 15. |
+| Tracked Item | The current stored amount of one item selected by you. |
+
+Large item and Capacity values are shortened with `K`, `M`, `B`, or `T`. The scoreboard refreshes its live values approximately every two seconds.
+
+## Tracking an Item
+
+Left-click **Tracked Item** to open **Choose Tracked Item**. This picker lists the item types currently stored in your network, shows the available amount of each one, and displays up to 45 items per page.
+
+Click an item to enable its scoreboard line. The line uses that exact item variant, including its item data, and updates as matching items enter or leave the network.
+
+Left-clicking Tracked Item again lets you replace the selection. Right-click it to disable the line and clear the selected item. Tracked Item also counts toward the seven-option limit.
+
+## Capacity World Scoreboard
+
+Inside the [Capacity World](../capacity-world/README.md), the custom selection is temporarily replaced by a fixed view containing:
+
+- Capacity World
+- Time until the next world reset
+- Current Keyall vote progress
+
+Your selected lines are not deleted. They return automatically after you leave the Capacity World. The Scoreboard Visible setting still controls whether the sidebar is shown at all.
+
+## Continue Learning
+
+- [Shortcuts](shortcuts.md)
+- [Capacity](../capacity.md)
+- [Daily Events](../daily-events.md)
+- [Automation Jobs](automation.md)
