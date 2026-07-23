@@ -41,10 +41,11 @@ Open **Appearance → Chunk Drill** from the Master Chest settings, or select **
 - **Lapis Lazuli:** An arcane borer with a faceted astrolabe cutter ring, uneven crystal stabilizers, and lapis fins.
 - **Lush Cave:** A grotto borer with moss-and-root skids, pale Calcite braces, swept Azalea vanes, a flowering cave crown, and suspended glow pods.
 - **Medieval:** A compact siege borer with timber runners, iron-bound masonry braces, crimson heraldic fins, warm lamps, and a crenellated stone crown.
+- **Quartz:** A ceremonial solar borer with marble column runners, gilded braces, separated pale-glass wings, luminous nodes, and a radiant nine-part crown.
 
-Default is always available. The six alternative designs are unlocked separately for each tool and player by an operator with `/masterchest theme unlock <player> drill <cherry|copper|mangrove|lapis|lush|medieval>`. A locked design can be tried for two minutes by clicking it. After the preview ends, all drills return to Default and that design enters a one-hour preview cooldown.
+Default is always available. The seven alternative designs are unlocked separately for each tool and player by an operator with `/masterchest theme unlock <player> drill <cherry|copper|mangrove|lapis|lush|medieval|quartz>`. A locked design can be tried for two minutes by clicking it. After the preview ends, all drills return to Default and that design enters a one-hour preview cooldown.
 
-Every design has a restrained ambient particle accent around its core: cyan motes and an occasional End Rod for Default, pink motes and Cherry Leaves for Cherry, patina motes and electrical sparks for Copper, rust-red motes and spores for Mangrove, blue motes with enchantment glyphs for Lapis Lazuli, green motes with falling Spore Blossoms for Lush Cave, and earthy brown motes with drifting ash for Medieval. These effects appear only while players are nearby.
+Every design has a restrained ambient particle accent around its core: cyan motes and an occasional End Rod for Default, pink motes and Cherry Leaves for Cherry, patina motes and electrical sparks for Copper, rust-red motes and spores for Mangrove, blue motes with enchantment glyphs for Lapis Lazuli, green motes with falling Spore Blossoms for Lush Cave, earthy brown motes with drifting ash for Medieval, and ivory motes with occasional wax-glint sparks for Quartz. These effects appear only while players are nearby.
 
 The selection is saved per player and applies to all of that player's Chunk Drills. Changing it rebuilds the display of every running drill on its next tick without resetting its mining position, current sweep, fuel progress, or upgrades. The **CHUNKDRILL** screen label, hover particles, and ambient accent adopt the selected design.
 
@@ -99,7 +100,7 @@ The menu provides these actions:
 <img width="953" height="380" alt="image" src="https://github.com/user-attachments/assets/98a45f24-f902-4fdc-8dfe-446877782bdf" />
 
 - **Drill Fuel:** Cycle through Coal, Charcoal, Both with Coal first, and Both with Charcoal first.
-- **Chunk Drill Design:** Open the design selector for Default, Cherry, Copper, Mangrove, Lapis Lazuli, Lush Cave, and Medieval.
+- **Chunk Drill Design:** Open the design selector for Default, Cherry, Copper, Mangrove, Lapis Lazuli, Lush Cave, Medieval, and Quartz.
 - **Mining Speed, Fluid Collector, Collect Chest Contents, and Drill Fortune:** Manage the global upgrades and settings described below. Drill Fortune appears at Void rank and higher.
 
 When excavation finishes, the drill removes itself and returns to the owner's network. Active drills are also returned before a [World Reset](resets.md). Breaking a drill manually is different: its item drops at the drill's location.

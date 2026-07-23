@@ -40,9 +40,11 @@ The **Lush Cave** design is a moss-grown grotto archive. Rooted cave supports an
 
 The **Medieval** design is a compact guild reliquary. A low masonry dais supports layered timberwork, iron fittings, a curved Gothic reading window, a sloped scribe's ledge, crimson seals, and a hammer-beam crest with warm lamps.
 
-Default is always available. The six alternative designs are unlocked separately for each player by an operator with `/masterchest theme unlock <player> chest <cherry|copper|mangrove|lapis|lush|medieval>`. A locked design can be tried for two minutes by clicking it. After the preview ends, all placed access points return to Default and that design enters a one-hour preview cooldown.
+The **Quartz** design is a celestial marble archive. A three-step plinth and slim columns frame a curved pale-glass reading window, a gilded sundial core, a sparse control lectern, a classical pediment, and a detached sun halo.
 
-Every design has a restrained ambient particle accent above the access point: cyan motes and an occasional End Rod for Default, pink motes and Cherry Leaves for Cherry, patina motes and electrical sparks for Copper, rust-red motes and spores for Mangrove, blue motes with enchantment glyphs for Lapis Lazuli, green motes with falling Spore Blossoms for Lush Cave, and earthy brown motes with drifting ash for Medieval. These effects appear only while players are nearby.
+Default is always available. The seven alternative designs are unlocked separately for each player by an operator with `/masterchest theme unlock <player> chest <cherry|copper|mangrove|lapis|lush|medieval|quartz>`. A locked design can be tried for two minutes by clicking it. After the preview ends, all placed access points return to Default and that design enters a one-hour preview cooldown.
+
+Every design has a restrained ambient particle accent above the access point: cyan motes and an occasional End Rod for Default, pink motes and Cherry Leaves for Cherry, patina motes and electrical sparks for Copper, rust-red motes and spores for Mangrove, blue motes with enchantment glyphs for Lapis Lazuli, green motes with falling Spore Blossoms for Lush Cave, earthy brown motes with drifting ash for Medieval, and ivory motes with occasional wax-glint sparks for Quartz. These effects appear only while players are nearby.
 
 ## Continue Learning
 
