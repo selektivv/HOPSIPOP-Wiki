@@ -46,12 +46,13 @@ The interface contains:
 
 - a 3-by-3 ingredient grid;
 - a result slot on the right;
-- a Recipe Book showing the currently available recipe;
+- a paginated Recipe Book showing every currently available recipe;
+- a **Dismantle & Store** button;
 - a Back button that closes the interface.
 
 Click an ingredient into a grid slot to place one item there. Clicking an occupied slot with an empty cursor returns that ingredient. When the complete pattern matches a known recipe, the result appears on the right. Click the result to craft it; all nine ingredients are consumed and the finished block is added to your inventory. If the inventory is full, the result drops at your location.
 
-Some results have a [rank](../ranks.md) requirement. A matching recipe can still be viewed in the grid, but its result cannot be collected below the required rank.
+All currently available Attraction Block recipes can be crafted without a rank requirement.
 
 ## Removing or Storing the Table
 
@@ -61,10 +62,19 @@ You can alternatively sneak while breaking one of the table's Barrier blocks. Th
 
 ## Available Creations
 
-At present, the Tinkerer Table can craft the [Creeper Attraction Block](attraction-blocks/creeper-attraction-block.md).
+| Creation | Target | Rank requirement |
+|---|---|---|
+| [Creeper Attraction Block](attraction-blocks/creeper-attraction-block.md) | Creepers | None |
+| [Cow Attraction Block](attraction-blocks/cow-attraction-block.md) | Cows | None |
+| [Chicken Attraction Block](attraction-blocks/chicken-attraction-block.md) | Chickens | None |
+| [Blaze Attraction Block](attraction-blocks/blaze-attraction-block.md) | Blazes | None |
+
+Use the Previous Recipe and Next Recipe buttons in the Recipe Book to move between these patterns. The configured Wither Skeleton Attraction Block is not currently craftable at the table.
 
 ## Continue Learning
 
 - [Attraction Blocks](attraction-blocks.md)
 - [Creeper Attraction Block](attraction-blocks/creeper-attraction-block.md)
-- [Ranks](../ranks.md)
+- [Cow Attraction Block](attraction-blocks/cow-attraction-block.md)
+- [Chicken Attraction Block](attraction-blocks/chicken-attraction-block.md)
+- [Blaze Attraction Block](attraction-blocks/blaze-attraction-block.md)

@@ -1,10 +1,6 @@
 # Creeper Attraction Block
 
-The Creeper Attraction Block guides nearby Creepers toward one fixed point. It is currently the only Attraction Block that can be crafted at the [Tinkerer Table](../tinkerer-table.md).
-
-## Requirements
-
-You need the **Nova [rank](../../ranks.md) or higher** to collect the crafted result from the Tinkerer Table.
+The Creeper Attraction Block guides nearby Creepers toward one fixed point. It is one of four Attraction Block types that can currently be crafted at the [Tinkerer Table](../tinkerer-table.md), and it has no rank requirement.
 
 ## Tinkerer Table Recipe
 
@@ -26,8 +22,8 @@ The block does not make Creepers harmless: it does not stop explosions, change t
 
 ## Placement Rules
 
-- Only an operator can currently place or break the block.
-- Only one Creeper Attraction Block can be placed on the server at a time.
+- Any player can place and break the block.
+- Up to four Creeper Attraction Blocks can be placed on the server at a time.
 - It cannot be placed in the [Capacity World](../../capacity-world/README.md).
 - Breaking it returns the special Creeper Attraction Block item.
 
@@ -35,4 +31,6 @@ The block does not make Creepers harmless: it does not stop explosions, change t
 
 - [Attraction Blocks](../attraction-blocks.md)
 - [Tinkerer Table](../tinkerer-table.md)
-- [Ranks](../../ranks.md)
+- [Cow Attraction Block](cow-attraction-block.md)
+- [Chicken Attraction Block](chicken-attraction-block.md)
+- [Blaze Attraction Block](blaze-attraction-block.md)
