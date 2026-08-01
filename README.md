@@ -47,6 +47,7 @@ Move, process, craft, and collect items with connected storage tools.
 - [Automation Jobs](master-chest/automation.md)
 - [Hoppers and Access Points](master-chest/hoppers.md)
 - [Chunk Drills](capacity-world/chunk-drills.md)
+- [Coalworks](tools/coalworks.md)
 - [Cell Tower](tools/cell-tower.md)
 - [Lava Sponge](tools/lava-sponge.md)
 - [Mobile Workbench](tools/mobile-workbench.md)

@@ -51,6 +51,7 @@
     - [Smelt Jobs](master-chest/automation-smelt.md)
   - [Hoppers and Access Points](master-chest/hoppers.md)
   - [Chunk Drills](capacity-world/chunk-drills.md)
+  - [Coalworks](tools/coalworks.md)
   - [Tinkerer Table](tools/tinkerer-table.md)
     - [Attraction Blocks](tools/attraction-blocks.md)
       - [Creeper Attraction Block](tools/attraction-blocks/creeper-attraction-block.md)
