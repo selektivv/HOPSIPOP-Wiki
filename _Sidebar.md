@@ -36,6 +36,12 @@
   - [Co-op Mining](capacity-world/coop.md)
   - [PvP Duels](capacity-world/duels.md)
   - [Upgrades](capacity-world/upgrades.md)
+- Fishing
+  - [Fishing Guide](fishing.md)
+  - [Rods and Bait](fishing.md#rods)
+  - [Augment Crystals](fishing.md#augment-crystals)
+  - [Selling and Entropy](fishing.md#selling-and-entropy)
+  - [Fishing Tournaments](fishing.md#fishing-tournaments)
 - Automation and Advanced Tools
   - [OmniSync](master-chest/omnisync.md)
   - [Automation Jobs](master-chest/automation.md)

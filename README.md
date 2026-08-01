@@ -31,6 +31,14 @@ Enter the temporary mining world, earn [Capacity](capacity.md), mine with friend
 - [Co-op Mining](capacity-world/coop.md)
 - [Upgrades](capacity-world/upgrades.md)
 
+## Fishing
+
+Catch 1,000 custom species, earn [Capacity](capacity.md) and Entropy, improve rods, and enter automatic tournaments.
+
+- [Fishing Guide](fishing.md)
+- [Fishing Roadmap Rewards](fishing.md#roadmap-progress)
+- [Fishing Tournaments](fishing.md#fishing-tournaments)
+
 ## Automation and Advanced Tools
 
 Move, process, craft, and collect items with connected storage tools.

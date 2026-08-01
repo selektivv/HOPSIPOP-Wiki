@@ -15,6 +15,7 @@ HOPSIPOP uses one connected progression loop:
 - [Ranks](ranks.md) unlock mining access and perks.
 - [Counters](capacity-world/counters.md) turn mining into [Capacity](capacity.md) rewards.
 - [Chunk Drills](capacity-world/chunk-drills.md) mine automatically and send drops to storage.
+- [Fishing](fishing.md) awards Capacity and Entropy, advances roadmap milestones, and supports competitive tournaments.
 
 Spending [Capacity](capacity.md) can reduce storage room or remove a [rank](ranks.md). Always check storage use and the next [rank](ranks.md) requirement before purchasing an upgrade or expanding a [claim](claims.md).
 
