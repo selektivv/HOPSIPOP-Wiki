@@ -1,6 +1,6 @@
 # Fishing
 
-MasterFishing replaces many vanilla catches with collectible fish. There are 1,000 species with individual resource-pack icons, sizes, values, rarities, biome pools, and flavor text.
+MasterFishing replaces many vanilla catches with collectible fish. There are 1,000 species with individual resource-pack icons, sizes, values, rarities, biome pools, and flavor text. Fishing rods, bait, and every crystal type also have their own in-game textures.
 
 Browse the complete [Fish Species Catalog](fish-species.md) to see every species and its in-game icon. Sell catches for [Capacity](capacity.md) and Entropy, improve your rod, fill your personal Glossary, progress the Capacity World counter, and compete in automatic fishing tournaments.
 
@@ -53,42 +53,45 @@ Luck does not replace these starting weights with a flat bonus. After the initia
 
 The listed fish chance is the 65% base chance after the rod multiplier, before Treasure Crystal bonuses. The final chance cannot exceed 100%.
 
-| Rod | Slots | Fish chance | Rarity luck | Price |
-| --- | ---: | ---: | ---: | ---: |
-| Apprentice Rod | 1 | 65% | - | Free |
-| Journeyman Rod | 2 | 74.75% | +5% | 600 Entropy |
-| Expert Rod | 3 | 84.5% | +12% | 1,800 Entropy |
-| Master Rod | 4 | 97.5% | +22% | 4,400 Entropy |
-| Grandmaster Rod | 5 | 100% | +35% | 10,000 Entropy |
+| Textures | Rod | Slots | Fish chance | Rarity luck | Price |
+| --- | --- | ---: | ---: | ---: | ---: |
+| <img src="assets/fishing-gear/rod-apprentice.png" width="48" height="48" alt="Apprentice Rod"> <img src="assets/fishing-gear/rod-apprentice-cast.png" width="48" height="48" alt="Apprentice Rod cast state"> | Apprentice Rod | 1 | 65% | - | Free |
+| <img src="assets/fishing-gear/rod-journeyman.png" width="48" height="48" alt="Journeyman Rod"> <img src="assets/fishing-gear/rod-journeyman-cast.png" width="48" height="48" alt="Journeyman Rod cast state"> | Journeyman Rod | 2 | 74.75% | +5% | 600 Entropy |
+| <img src="assets/fishing-gear/rod-expert.png" width="48" height="48" alt="Expert Rod"> <img src="assets/fishing-gear/rod-expert-cast.png" width="48" height="48" alt="Expert Rod cast state"> | Expert Rod | 3 | 84.5% | +12% | 1,800 Entropy |
+| <img src="assets/fishing-gear/rod-master.png" width="48" height="48" alt="Master Rod"> <img src="assets/fishing-gear/rod-master-cast.png" width="48" height="48" alt="Master Rod cast state"> | Master Rod | 4 | 97.5% | +22% | 4,400 Entropy |
+| <img src="assets/fishing-gear/rod-grandmaster.png" width="48" height="48" alt="Grandmaster Rod"> <img src="assets/fishing-gear/rod-grandmaster-cast.png" width="48" height="48" alt="Grandmaster Rod cast state"> | Grandmaster Rod | 5 | 100% | +35% | 10,000 Entropy |
 
-Buy rods through `/fish shop` and select **Rod Shop**.
+Buy rods through `/fish shop` and select **Rod Shop**. Every tier has a matching normal and cast-state texture; both are shown above.
 
 ## Bait
 
 Hold bait in your offhand before casting. One bait is consumed when the line is cast, its luck bonus applies to that catch, and an action-bar message confirms which bait was used.
 
-| Bait | Rarity luck | Price |
-| --- | ---: | ---: |
-| Plain Bait | +5% | 15 Entropy |
-| Glimmer Bait | +15% | 60 Entropy |
-| Abyssal Bait | +30% | 180 Entropy |
-| Leviathan Bait | +50% | 500 Entropy |
+| Icon | Bait | Rarity luck | Price |
+| --- | --- | ---: | ---: |
+| <img src="assets/fishing-gear/bait-plain_bait.png" width="48" height="48" alt="Plain Bait"> | Plain Bait | +4% | 15 Entropy |
+| <img src="assets/fishing-gear/bait-glimmer_bait.png" width="48" height="48" alt="Glimmer Bait"> | Glimmer Bait | +11% | 60 Entropy |
+| <img src="assets/fishing-gear/bait-abyssal_bait.png" width="48" height="48" alt="Abyssal Bait"> | Abyssal Bait | +22% | 180 Entropy |
+| <img src="assets/fishing-gear/bait-leviathan_bait.png" width="48" height="48" alt="Leviathan Bait"> | Leviathan Bait | +35% | 500 Entropy |
 
 Players at Quasar [rank](ranks.md) or higher receive a 10% discount on bait in the Bait Shop.
 
 ## Augment Crystals
 
-Open `/fish augment catalog` to compare crystals, or buy them through `/fish shop` and select **Augment Shop**. Installed augments create their own particle signatures around your bobber while it is in the water.
+Open `/fish augment catalog` to compare crystals, or buy them through `/fish shop` and select **Augment Shop**. The six crystal types are split across two shop pages. Each type has its own texture; tiers of the same type share that icon but retain their tier-specific name, color, effect, and price.
 
-| Crystal | Tier I | Tier II | Tier III | Tier IV |
-| --- | --- | --- | --- | --- |
-| Luck | +6% rarity luck; 1,000 Entropy | +14%; 2,500 | +25%; 6,000 | +35%; 15,000 |
-| Treasure | +5 percentage points fish chance; 1,000 Entropy | +12 points; 2,500 | +20 points; 6,000 | +28 points; 15,000 |
-| Swift | 10% shorter wait; 1,000 Entropy | 25%; 2,500 | 45%; 6,000 | 65%; 15,000 |
-| Autosell | Common; 1,500 Entropy | Up to Uncommon; 4,000 | Up to Rare; 9,000 | Up to Epic; 20,000 |
-| Surge | 5% double catch; 2,000 Entropy | 12%; 5,000 | 20%; 11,000 | 28%; 24,000 |
+| Icon | Crystal | Tier I | Tier II | Tier III | Tier IV |
+| --- | --- | --- | --- | --- | --- |
+| <img src="assets/fishing-gear/crystal-luck.png" width="48" height="48" alt="Luck Crystal"> | Luck | +6% rarity luck; 1,000 Entropy | +14%; 2,500 | +25%; 6,000 | +35%; 15,000 |
+| <img src="assets/fishing-gear/crystal-treasure.png" width="48" height="48" alt="Treasure Crystal"> | Treasure | +5 percentage points fish chance; 1,000 Entropy | +12 points; 2,500 | +20 points; 6,000 | +28 points; 15,000 |
+| <img src="assets/fishing-gear/crystal-swift.png" width="48" height="48" alt="Swift Crystal"> | Swift | 10% shorter wait; 1,000 Entropy | 25%; 2,500 | 45%; 6,000 | 65%; 15,000 |
+| <img src="assets/fishing-gear/crystal-autosell.png" width="48" height="48" alt="Autosell Crystal"> | Autosell | Common; 1,500 Entropy | Up to Uncommon; 4,000 | Up to Rare; 9,000 | Up to Epic; 20,000 |
+| <img src="assets/fishing-gear/crystal-surge.png" width="48" height="48" alt="Surge Crystal"> | Surge | 5% double catch; 2,000 Entropy | 12%; 5,000 | 20%; 11,000 | 28%; 24,000 |
+| <img src="assets/fishing-gear/crystal-titan.png" width="48" height="48" alt="Titan Crystal"> | Titan | 15% size bias; 1,200 Entropy | 35%; 3,000 | 55%; 7,200 | 80%; 18,000 |
 
 Swift reduces the actual bite wait time and works alongside the rod's vanilla Lure enchantment. Autosell immediately converts catches at or below its threshold into Capacity and Entropy. If Surge creates a bonus catch, that fish also respects the installed Autosell threshold; otherwise it goes to your inventory or drops beside you when the inventory is full.
+
+Titan does not add a fixed number of centimeters and does not guarantee a maximum-size fish. It biases the random size roll toward the upper end of that species' range and also applies to Surge bonus catches. Luck, Treasure, Swift, Autosell, and Surge produce their own particle signatures around the bobber while active.
 
 ### Apply a Crystal
 
@@ -100,7 +103,7 @@ Each augment type occupies one slot. Applying a higher tier of an augment alread
 
 Run `/fish augment remove <augment-id>` to free its slot. Removal destroys the installed crystal; it is not returned.
 
-Augment IDs are `luck`, `treasure`, `swift`, `autosell`, and `surge`.
+Augment IDs are `luck`, `treasure`, `swift`, `autosell`, `surge`, and `titan`.
 
 ## Fish Glossary
 
@@ -190,6 +193,7 @@ You must record at least one scoring catch to receive a reward. Players with equ
 - Use the free Apprentice Rod before spending Entropy on upgrades.
 - Bait is consumed on cast, so reserve Leviathan Bait for sessions where rarity matters most.
 - Treasure improves the chance of receiving any MasterFish; Luck improves its rarity afterward.
+- Titan is useful for valuable large catches and Biggest Fish tournaments.
 - Quasar and higher ranks pay 10% less for bait.
 - Autosell affects both the primary catch and a Surge bonus catch.
 - Check the active tournament mode before deciding between fast catches, high-value fish, large species, or biome travel.
