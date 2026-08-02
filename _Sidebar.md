@@ -38,6 +38,7 @@
   - [Upgrades](capacity-world/upgrades.md)
 - Fishing
   - [Fishing Guide](fishing.md)
+  - [All Fish Species](fish-species.md)
   - [Rods and Bait](fishing.md#rods)
   - [Augment Crystals](fishing.md#augment-crystals)
   - [Selling and Entropy](fishing.md#selling-and-entropy)

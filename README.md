@@ -36,6 +36,7 @@ Enter the temporary mining world, earn [Capacity](capacity.md), mine with friend
 Catch 1,000 custom species, earn [Capacity](capacity.md) and Entropy, improve rods, and enter automatic tournaments.
 
 - [Fishing Guide](fishing.md)
+- [All Fish Species](fish-species.md)
 - [Fishing Roadmap Rewards](fishing.md#roadmap-progress)
 - [Fishing Tournaments](fishing.md#fishing-tournaments)
 
