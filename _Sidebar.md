@@ -39,8 +39,9 @@
 - Fishing
   - [Fishing Guide](fishing.md)
   - [All Fish Species](fish-species.md)
-  - [Rods and Bait](fishing.md#rods)
-  - [Augment Crystals](fishing.md#augment-crystals)
+  - [Fishing Rods](fishing/rods.md)
+  - [Bait](fishing/bait.md)
+  - [Augment Crystals](fishing/augment-crystals.md)
   - [Selling and Entropy](fishing.md#selling-and-entropy)
   - [Fishing Tournaments](fishing.md#fishing-tournaments)
 - Automation and Advanced Tools

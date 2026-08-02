@@ -37,6 +37,9 @@ Catch 1,000 custom species, earn [Capacity](capacity.md) and Entropy, improve ro
 
 - [Fishing Guide](fishing.md)
 - [All Fish Species](fish-species.md)
+- [Fishing Rods](fishing/rods.md)
+- [Bait](fishing/bait.md)
+- [Augment Crystals](fishing/augment-crystals.md)
 - [Fishing Roadmap Rewards](fishing.md#roadmap-progress)
 - [Fishing Tournaments](fishing.md#fishing-tournaments)
 
