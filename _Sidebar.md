@@ -41,6 +41,7 @@
   - [All Fish Species](fish-species.md)
   - [Fishing Rods](fishing/rods.md)
   - [Bait](fishing/bait.md)
+  - [Fishing Table](fishing/fishing-table.md)
   - [Augment Crystals](fishing/augment-crystals.md)
   - [Selling and Entropy](fishing.md#selling-and-entropy)
   - [Fishing Tournaments](fishing.md#fishing-tournaments)

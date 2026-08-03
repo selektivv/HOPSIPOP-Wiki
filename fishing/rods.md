@@ -32,5 +32,6 @@ Start with the free Apprentice Rod. Higher tiers become especially useful when y
 
 - [Fishing Guide](../fishing.md)
 - [Bait](bait.md)
+- [Fishing Table](fishing-table.md)
 - [Augment Crystals](augment-crystals.md)
 - [All Fish Species](../fish-species.md)

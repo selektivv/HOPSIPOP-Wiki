@@ -1,6 +1,6 @@
 # Fishing
 
-MasterFishing replaces many vanilla catches with collectible fish. There are 1,000 species with individual resource-pack icons, sizes, values, rarities, biome pools, and flavor text. Fishing rods, bait, and every crystal type also have their own in-game textures.
+MasterFishing replaces many vanilla catches with collectible fish. There are 1,000 species with individual resource-pack icons, sizes, values, rarities, biome pools, and flavor text. Fishing rods, bait, every crystal type, and the Fishing Table also have their own in-game textures.
 
 Browse the complete [Fish Species Catalog](fish-species.md) to see every species and its in-game icon. Sell catches for [Capacity](capacity.md) and Entropy, improve your rod, fill your personal Glossary, progress the Capacity World counter, and compete in automatic fishing tournaments.
 
@@ -57,9 +57,9 @@ See [Fishing Rods](fishing/rods.md) for every rod, price, stat, and texture.
 
 ## Bait
 
-Four consumable bait types add rarity luck to one cast. Hold bait in your offhand before casting; Quasar and higher ranks receive a shop discount.
+There are 100 one-cast baits across ten tiers. Each adds rarity luck and has its own texture. Bait recipes are researched and crafted from 50 custom ingredients at the Fishing Table instead of being sold in the shop.
 
-See [Bait](fishing/bait.md) for every bait type, price, bonus, and texture.
+See [Bait](fishing/bait.md) for all tiers, bonuses, and textures, or [Fishing Table](fishing/fishing-table.md) for its crafting recipe, ingredient sources, research, and crafting.
 
 ## Augment Crystals
 
@@ -141,7 +141,7 @@ You must record at least one scoring catch to receive a reward. Players with equ
 | Command | Purpose |
 | --- | --- |
 | `/fish` | Open the main Fishing menu |
-| `/fish shop` | Open the Rod, Bait, and Augment shops |
+| `/fish shop` | Open the Rod and Augment shops |
 | `/fish sell [hand\|all]` | Sell catches |
 | `/fish stats [player]` | View Fishing statistics, including offline players |
 | `/fish augment catalog` | Browse augment effects and prices |
@@ -153,10 +153,10 @@ You must record at least one scoring catch to receive a reward. Players with equ
 ## Useful Tips
 
 - Use the free Apprentice Rod before spending Entropy on upgrades.
-- Bait is consumed on cast, so reserve Leviathan Bait for sessions where rarity matters most.
+- Bait is consumed on cast, so save high-tier Radiant and Void bait for sessions where rarity matters most.
+- Use the [Fishing Table](fishing/fishing-table.md) to turn structure and fishing ingredients into new bait recipes.
 - Treasure improves the chance of receiving any MasterFish; Luck improves its rarity afterward.
 - Titan is useful for valuable large catches and Biggest Fish tournaments.
-- Quasar and higher ranks pay 10% less for bait.
 - Autosell affects both the primary catch and a Surge bonus catch.
 - Check the active tournament mode before deciding between fast catches, high-value fish, large species, or biome travel.
 - Use the in-game Glossary for personal records and the [Fish Species Catalog](fish-species.md) for the complete collection.
@@ -166,6 +166,7 @@ You must record at least one scoring catch to receive a reward. Players with equ
 - [All Fish Species](fish-species.md)
 - [Fishing Rods](fishing/rods.md)
 - [Bait](fishing/bait.md)
+- [Fishing Table](fishing/fishing-table.md)
 - [Augment Crystals](fishing/augment-crystals.md)
 - [Capacity](capacity.md)
 - [Capacity World Counters](capacity-world/counters.md)
