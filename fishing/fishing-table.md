@@ -1,12 +1,10 @@
 # Fishing Table
 
-The Fishing Table is a placeable angler's workbench used to research and craft all 99 [Bait](bait.md) recipes from collectible [Bait Ingredients](bait-ingredients.md). It has its own block and item textures, remembers each player's unlocked recipes, and can be placed anywhere you can build.
-
-![Fishing Table block and item texture preview](../assets/fishing-table/fishing-table-preview.png)
+The Fishing Table is a placeable angler's workbench used to research and craft all 99 [Bait](bait.md) recipes from 110 collectible [Bait Ingredients](bait-ingredients.md). It remembers every player's unlocked recipes and renders as a detailed, themeable workbench in the world.
 
 ## Craft the Table
 
-The recipe is automatically added to your recipe book when you join.
+The recipe is automatically added to your recipe book when you join. Players who are already online also receive it when the plugin reloads.
 
 |   |   |   |
 | --- | --- | --- |
@@ -14,44 +12,76 @@ The recipe is automatically added to your recipe book when you join.
 | Copper Ingot | Barrel | Copper Ingot |
 | Copper Ingot | Copper Ingot | Copper Ingot |
 
-You need two Prismarine Crystals, one Fishing Rod, one Barrel, and five Copper Ingots. Place the finished table and right-click it to open the menu. Breaking it normally drops the custom Fishing Table item again.
+You need two Prismarine Crystals, one Fishing Rod, one Barrel, and five Copper Ingots.
+
+Place the item and right-click the finished table to open it. Left-clicking breaks the table immediately and drops its custom item again.
+
+## Designs and Ownership
+
+A placed Fishing Table belongs to the player who placed it and uses that player's selected design. Choose a style through the MasterChest **Appearance → Fishing Table** menu. Changing the selection immediately refreshes every loaded Fishing Table you own.
+
+There are ten designs:
+
+- Default
+- Cherry
+- Copper
+- Mangrove
+- Lapis Lazuli
+- Lush Cave
+- Medieval
+- Quartz
+- Cyberpunk
+- Crying Obsidian
+
+Default is always available. A locked design can be previewed for two minutes; afterward that design reverts to Default and enters a one-hour trial cooldown. The Appearance menu shows each design's unlock, active-trial, and cooldown state. A legacy table without stored ownership is assigned to the first player who opens it after the update.
 
 ## Table Menu
 
 The hub displays how many recipes you know out of 99 and provides two actions:
 
-- **Research Bait Recipes** shows recipes you have unlocked and the next available recipe in each of the 11 effect tracks.
+- **Research Bait Recipes** opens the four-page progression catalog.
 - **Craft Bait** opens a shapeless 3×3 ingredient grid for recipes you have already researched.
 
 ## Find Bait Ingredients
 
-There are 50 custom ingredients found in Trial Chambers, villages, Ancient Cities, End Cities, and as MasterFish bonus drops. See [Bait Ingredients](bait-ingredients.md) for every ingredient, its exact source, tier, chance, and texture.
+There are 110 custom ingredients split into 11 private pools, one for every bait track. Their original sources are Trial Chambers, villages, Ancient Cities, End Cities, and MasterFish catches.
+
+After you discover a structure ingredient in its original structure, it also becomes eligible as a fishing bonus. Fishing rewards are deposited directly into MasterChest when possible. See [Bait Ingredients](bait-ingredients.md) for every item, texture, track, tier, chance, and source.
 
 ## Research a Recipe
 
-1. Choose the currently available recipe in one of the 11 effect tracks. The first recipe of every track is always visible; later recipes must be unlocked from rank 1 to rank 9.
-2. Catch the fish species listed on the recipe at least once. The requirement uses your permanent Fishing Glossary history, so you do not need to keep the fish item.
-3. Carry every displayed research ingredient in your normal inventory.
-4. Click the recipe when every fish and ingredient requirement has a green check mark.
+The Research catalog presents three complete effect tracks per page; the fourth page contains the final two tracks. Each track occupies one horizontal row with ranks 1 through 9 from left to right:
 
-Research consumes the one-time research recipe, permanently unlocks that bait for your account at every Fishing Table, and gives you one bait immediately. Already researched recipes remain visible for reference.
+- Already researched ranks show their bait normally.
+- The next available rank shows its real bait, fish prerequisite, and ingredient costs.
+- All later ranks appear as locked `???` placeholders until the earlier recipes are researched.
 
-After the first step of a track, its next recipe appears once you currently hold, previously found, or have stored in MasterChest at least one relevant ingredient. MasterChest and discovery history reveal the entry but do not pay the research cost; the required items must be in your normal inventory.
+To research the next rank:
+
+1. Catch the fish species displayed on the recipe at least once. The requirement uses your permanent Fishing Glossary history, so you do not need to keep the fish item.
+2. Own every displayed research ingredient across your normal inventory and MasterChest.
+3. Click the recipe when every fish and ingredient requirement has a green check mark.
+
+Research consumes inventory copies first and automatically removes any remaining required amount from MasterChest. It permanently unlocks that bait for your account at every Fishing Table and gives you one bait immediately.
+
+The 11 tracks progress independently, but ranks inside one track must be unlocked from 1 to 9 without skipping. Ingredient discovery no longer hides the next recipe: the next rank is always shown, even when you do not own any of its ingredients yet.
 
 ## Craft an Unlocked Bait
 
 1. Open **Craft Bait**.
-2. Move the exact repeat-crafting ingredient and amount into the 3×3 grid. Its position does not matter.
+2. Put the exact repeat-crafting ingredient and amount into the 3×3 grid. Its position does not matter.
 3. When the output changes from **No matching recipe** to the bait, click it to craft.
 
-The repeat recipe is much cheaper than research and uses only that bait's primary ingredient: one item for ranks 1–3 and two for ranks 4–9. A recipe matches only when the ingredient and total amount are exact, with no extras. Crafting consumes the grid and produces one bait. The grid is not storage, so remove unused ingredients before leaving the screen.
+The repeat recipe is much cheaper than research and uses only that bait's primary ingredient: one item for ranks 1–3 and two for ranks 4–9. The recipe matches only when the ingredient and total amount are exact, with no extras.
+
+The crafting grid does not pull directly from MasterChest. Retrieve the ingredient first, then place it in the grid. Crafting consumes the grid and produces one bait; remove unused ingredients before leaving because the grid is not storage.
 
 ## Progression Tips
 
-- Use the [Bait Ingredients](bait-ingredients.md) list to target the exact structure or fishing source you need.
-- Lower bait ranks use lower-tier ingredients; rank 9 requires tier-5 materials. A bait's name and visual family do not determine its gameplay rank.
-- Keep fishing while gathering structure loot. Fishing-source ingredients are required throughout the progression.
-- Develop the 11 effect tracks independently and choose the next one that supports your current goal.
+- Work on several effect tracks at once so structure and fishing finds remain useful.
+- Check the complete horizontal track before choosing which next rank supports your current goal.
+- Research can spend ingredients from MasterChest automatically; repeat crafting requires the physical item in the grid.
+- Every track has its own exclusive ingredient pool, so an ingredient from one track cannot substitute for another.
 - Research unlocks belong to the player, not the placed table. You can use any Fishing Table afterward.
 
 ## Related Articles

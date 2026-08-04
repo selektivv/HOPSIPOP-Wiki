@@ -1,6 +1,6 @@
 # Fishing
 
-MasterFishing replaces many vanilla catches with collectible fish. There are 1,000 species with individual resource-pack icons, sizes, values, rarities, biome pools, and flavor text. Fishing rods, bait, every crystal type, and the Fishing Table also have their own in-game textures.
+MasterFishing replaces many vanilla catches with collectible fish. There are 1,000 species with individual resource-pack icons, sizes, values, rarities, biome pools, and flavor text. Fishing rods, bait, crystals, and bait ingredients have their own textures, while the Fishing Table uses a detailed themeable world model.
 
 Browse the complete [Fish Species Catalog](fish-species.md) to see every species and its in-game icon. Sell catches for [Capacity](capacity.md) and Entropy, improve your rod, fill your personal Glossary, progress the Capacity World counter, and compete in automatic fishing tournaments.
 
@@ -59,7 +59,7 @@ See [Fishing Rods](fishing/rods.md) for every rod, price, stat, and texture.
 
 ## Bait
 
-There are 99 one-cast baits in 11 nine-rank effect tracks. Alongside rarity, size, value, speed, multicatch, and biome focus, baits can now grant Entropy or Capacity, double a catch's value, improve fishing-ingredient finds, or retry a failed MasterFish catch roll. Recipes are researched in effect-track order and crafted from 50 custom ingredients at the Fishing Table instead of being sold in the shop.
+There are 99 one-cast baits in 11 nine-rank effect tracks. Alongside rarity, size, value, speed, multicatch, and biome focus, baits can grant Entropy or Capacity, double a catch's value, multiply fishing-ingredient chances, or add a flat bonus to every eligible ingredient roll. Every track now has purpose-written bait names, matching textures, and its own ten-item ingredient pool. Recipes are researched in effect-track order and crafted from 110 custom ingredients at the Fishing Table instead of being sold in the shop.
 
 See [Baits](fishing/bait.md) for all effects, ranks, progression, and textures; [Bait Ingredients](fishing/bait-ingredients.md) lists every material and its exact source; [Fishing Table](fishing/fishing-table.md) explains research and crafting.
 
