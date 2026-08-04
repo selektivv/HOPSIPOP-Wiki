@@ -4,15 +4,15 @@ Bait Ingredients are 50 collectible materials used to research and reproduce [Ba
 
 <img src="../assets/fishing-table/ingredient-textures.png" width="800" alt="All 50 Fishing Table ingredient textures">
 
-Every group contains two ingredients at each tier. Higher tiers are rarer and are used by stronger bait families.
+Every group contains two ingredients at each tier. Higher tiers are rarer and are used by stronger bait ranks. The visual family in a bait's name does not determine which ingredient tier it needs.
 
-| Ingredient tier | Used by bait tiers | Structure chance per ingredient | Fishing chance per ingredient |
+| Ingredient tier | Used by bait ranks | Structure chance per ingredient | Fishing chance per ingredient |
 | ---: | ---: | ---: | ---: |
 | 1 | 1–2 | 35% | 5% |
 | 2 | 3–4 | 25% | 3.5% |
 | 3 | 5–6 | 18% | 2.2% |
 | 4 | 7–8 | 12% | 1.4% |
-| 5 | 9–10 | 7% | 0.8% |
+| 5 | 9 | 7% | 0.8% |
 
 Each listed chance is an independent roll for that ingredient. An eligible chest or successful catch can therefore award more than one different ingredient.
 

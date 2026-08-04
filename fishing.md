@@ -59,9 +59,9 @@ See [Fishing Rods](fishing/rods.md) for every rod, price, stat, and texture.
 
 ## Bait
 
-There are 100 one-cast baits across ten tiers and six effect tracks: Luck, Size, Biome Focus, Value, Speed, and Multicatch. Bait recipes are researched in effect-track order and crafted from 50 custom ingredients at the Fishing Table instead of being sold in the shop.
+There are 99 one-cast baits in 11 nine-rank effect tracks. Alongside rarity, size, value, speed, multicatch, and biome focus, baits can now grant Entropy or Capacity, double a catch's value, improve fishing-ingredient finds, or retry a failed MasterFish catch roll. Recipes are researched in effect-track order and crafted from 50 custom ingredients at the Fishing Table instead of being sold in the shop.
 
-See [Baits](fishing/bait.md) for all effects, tiers, progression, and textures; [Bait Ingredients](fishing/bait-ingredients.md) lists every material and its exact source; [Fishing Table](fishing/fishing-table.md) explains research and crafting.
+See [Baits](fishing/bait.md) for all effects, ranks, progression, and textures; [Bait Ingredients](fishing/bait-ingredients.md) lists every material and its exact source; [Fishing Table](fishing/fishing-table.md) explains research and crafting.
 
 ## Augment Crystals
 

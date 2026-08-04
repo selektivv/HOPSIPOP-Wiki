@@ -1,6 +1,6 @@
 # Fishing Table
 
-The Fishing Table is a placeable angler's workbench used to research and craft all 100 [Bait](bait.md) recipes from collectible [Bait Ingredients](bait-ingredients.md). It has its own block and item textures, remembers each player's unlocked recipes, and can be placed anywhere you can build.
+The Fishing Table is a placeable angler's workbench used to research and craft all 99 [Bait](bait.md) recipes from collectible [Bait Ingredients](bait-ingredients.md). It has its own block and item textures, remembers each player's unlocked recipes, and can be placed anywhere you can build.
 
 ![Fishing Table block and item texture preview](../assets/fishing-table/fishing-table-preview.png)
 
@@ -18,9 +18,9 @@ You need two Prismarine Crystals, one Fishing Rod, one Barrel, and five Copper I
 
 ## Table Menu
 
-The hub displays how many recipes you know out of 100 and provides two actions:
+The hub displays how many recipes you know out of 99 and provides two actions:
 
-- **Research Bait Recipes** shows recipes you have unlocked and the next available recipe in each of the six effect tracks.
+- **Research Bait Recipes** shows recipes you have unlocked and the next available recipe in each of the 11 effect tracks.
 - **Craft Bait** opens a shapeless 3×3 ingredient grid for recipes you have already researched.
 
 ## Find Bait Ingredients
@@ -29,7 +29,7 @@ There are 50 custom ingredients found in Trial Chambers, villages, Ancient Citie
 
 ## Research a Recipe
 
-1. Choose the currently available recipe in one of the six effect tracks. The first recipe of every track is always visible; later recipes must be unlocked from weakest to strongest.
+1. Choose the currently available recipe in one of the 11 effect tracks. The first recipe of every track is always visible; later recipes must be unlocked from rank 1 to rank 9.
 2. Catch the fish species listed on the recipe at least once. The requirement uses your permanent Fishing Glossary history, so you do not need to keep the fish item.
 3. Carry every displayed research ingredient in your normal inventory.
 4. Click the recipe when every fish and ingredient requirement has a green check mark.
@@ -44,14 +44,14 @@ After the first step of a track, its next recipe appears once you currently hold
 2. Move the exact repeat-crafting ingredient and amount into the 3×3 grid. Its position does not matter.
 3. When the output changes from **No matching recipe** to the bait, click it to craft.
 
-The repeat recipe is much cheaper than research and uses only that bait's primary ingredient: one item for tiers 1–3 and two for tiers 4–10. A recipe matches only when the ingredient and total amount are exact, with no extras. Crafting consumes the grid and produces one bait. The grid is not storage, so remove unused ingredients before leaving the screen.
+The repeat recipe is much cheaper than research and uses only that bait's primary ingredient: one item for ranks 1–3 and two for ranks 4–9. A recipe matches only when the ingredient and total amount are exact, with no extras. Crafting consumes the grid and produces one bait. The grid is not storage, so remove unused ingredients before leaving the screen.
 
 ## Progression Tips
 
 - Use the [Bait Ingredients](bait-ingredients.md) list to target the exact structure or fishing source you need.
-- Lower bait tiers use lower-tier ingredients, while the two highest bait families require tier-5 materials.
+- Lower bait ranks use lower-tier ingredients; rank 9 requires tier-5 materials. A bait's name and visual family do not determine its gameplay rank.
 - Keep fishing while gathering structure loot. Fishing-source ingredients are required throughout the progression.
-- Develop the six effect tracks independently and choose the next one that supports your current goal.
+- Develop the 11 effect tracks independently and choose the next one that supports your current goal.
 - Research unlocks belong to the player, not the placed table. You can use any Fishing Table afterward.
 
 ## Related Articles
