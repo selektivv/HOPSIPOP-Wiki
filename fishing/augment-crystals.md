@@ -61,5 +61,6 @@ Valid IDs are `luck`, `treasure`, `swift`, `autosell`, `surge`, and `titan`.
 
 - [Fishing Guide](../fishing.md)
 - [Fishing Rods](rods.md)
-- [Bait](bait.md)
+- [Baits](bait.md)
+- [Bait Ingredients](bait-ingredients.md)
 - [Capacity](../capacity.md)

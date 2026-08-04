@@ -23,12 +23,14 @@ The base chance for a vanilla catch to become a MasterFish is 65%. If this roll 
 
 When it succeeds, the plugin:
 
-1. rolls a rarity;
-2. applies rod, bait, and Luck Crystal upgrades;
-3. builds a species pool for the current biome;
-4. chooses a species using its configured weight;
-5. rolls its size in centimeters;
-6. calculates and stores its final Capacity value on the item.
+1. rolls a rarity and applies Luck modifiers;
+2. builds a species pool for the current biome and applies Biome Focus;
+3. chooses a species using its configured weight;
+4. rolls its size in centimeters with Size modifiers;
+5. calculates its Capacity value and applies Value modifiers;
+6. rolls any Surge or Multicatch bonus fish.
+
+Speed modifiers shorten the bite wait before this catch sequence begins.
 
 Larger specimens of the same species are worth more. Some species only enter the pool in matching biomes, while unrestricted species can be caught anywhere. The [Fish Species Catalog](fish-species.md) shows the size, value range, and habitat of every species.
 
@@ -57,9 +59,9 @@ See [Fishing Rods](fishing/rods.md) for every rod, price, stat, and texture.
 
 ## Bait
 
-There are 100 one-cast baits across ten tiers. Each adds rarity luck and has its own texture. Bait recipes are researched and crafted from 50 custom ingredients at the Fishing Table instead of being sold in the shop.
+There are 100 one-cast baits across ten tiers and six effect tracks: Luck, Size, Biome Focus, Value, Speed, and Multicatch. Bait recipes are researched in effect-track order and crafted from 50 custom ingredients at the Fishing Table instead of being sold in the shop.
 
-See [Bait](fishing/bait.md) for all tiers, bonuses, and textures, or [Fishing Table](fishing/fishing-table.md) for its crafting recipe, ingredient sources, research, and crafting.
+See [Baits](fishing/bait.md) for all effects, tiers, progression, and textures; [Bait Ingredients](fishing/bait-ingredients.md) lists every material and its exact source; [Fishing Table](fishing/fishing-table.md) explains research and crafting.
 
 ## Augment Crystals
 
@@ -82,7 +84,7 @@ The in-game Glossary tracks personal discoveries. The wiki's [Fish Species Catal
 
 ## Selling and Entropy
 
-Every sold fish pays its stored value in [Capacity](capacity.md) and grants 1 Entropy. The value is based on species, rarity, and rolled size, with a current maximum of 4,000 Capacity per fish.
+Every sold fish pays its stored value in [Capacity](capacity.md) and grants 1 Entropy. The value is based on species, rarity, and rolled size, with a current maximum of 8,000 Capacity per fish.
 
 | Command | Action |
 | --- | --- |
@@ -153,8 +155,9 @@ You must record at least one scoring catch to receive a reward. Players with equ
 ## Useful Tips
 
 - Use the free Apprentice Rod before spending Entropy on upgrades.
-- Bait is consumed on cast, so save high-tier Radiant and Void bait for sessions where rarity matters most.
+- Bait is consumed on cast, so choose an effect that matches your goal and save higher track steps for important sessions.
 - Use the [Fishing Table](fishing/fishing-table.md) to turn structure and fishing ingredients into new bait recipes.
+- Check [Bait Ingredients](fishing/bait-ingredients.md) before searching structures so you know the exact source and chance.
 - Treasure improves the chance of receiving any MasterFish; Luck improves its rarity afterward.
 - Titan is useful for valuable large catches and Biggest Fish tournaments.
 - Autosell affects both the primary catch and a Surge bonus catch.
@@ -165,7 +168,8 @@ You must record at least one scoring catch to receive a reward. Players with equ
 
 - [All Fish Species](fish-species.md)
 - [Fishing Rods](fishing/rods.md)
-- [Bait](fishing/bait.md)
+- [Baits](fishing/bait.md)
+- [Bait Ingredients](fishing/bait-ingredients.md)
 - [Fishing Table](fishing/fishing-table.md)
 - [Augment Crystals](fishing/augment-crystals.md)
 - [Capacity](capacity.md)
